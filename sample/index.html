@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sample run : Tallyrake Google Trends actor</title>
+<meta name="description" content="Real rows from a real run of the Tallyrake Google Trends actor: interest over time and rising related queries, with the input that produced them.">
+<style>
+  :root { --bg: #ffffff; --fg: #16181c; --muted: #57606a; --accent: #1a4dab; --border: #d8dde3; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #14161a; --fg: #eef0f2; --muted: #a7b0ba; --accent: #7aa7ff; --border: #33383f; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--fg); font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+  main { max-width: 640px; margin: 0 auto; padding: 3rem 1.25rem 4rem; }
+  h1 { font-size: 1.75rem; margin: 0 0 1rem; }
+  h2 { font-size: 1.15rem; margin: 2rem 0 0.5rem; }
+  p.intro { margin: 0 0 1rem; }
+  p.meta { color: var(--muted); margin: 0 0 2rem; }
+  table { width: 100%; border-collapse: collapse; margin: 0 0 1rem; font-size: 0.95rem; }
+  caption { text-align: left; color: var(--muted); font-size: 0.85rem; margin-bottom: 0.35rem; }
+  th, td { text-align: left; padding: 0.35rem 0.5rem; border-bottom: 1px solid var(--border); }
+  .links { margin: 2.5rem 0 0; }
+  .links a { color: var(--accent); margin-right: 1.25rem; }
+  .cta { display: inline-block; background: var(--accent); color: #fff; text-decoration: none; font-weight: 600; padding: 0.75rem 1.5rem; border-radius: 6px; margin-top: 1.5rem; }
+  footer { color: var(--muted); font-size: 0.9rem; border-top: 1px solid var(--border); padding-top: 1rem; margin-top: 2.5rem; }
+  footer a { color: var(--muted); }
+</style>
+</head>
+<body>
+<main>
+  <h1>A real run, before you sign up</h1>
+  <p class="intro">These are the actual rows from a run of the Tallyrake Google Trends actor on Apify, not a mockup. The input was three terms (coffee, matcha, pickleball), US, the last 3 months, interest over time plus related queries.</p>
+  <p class="meta">Run date: 2026-09-11 14:13 CDT. Rows returned: 416. Measured cost at $0.25 per 1,000 rows: $0.104.</p>
+
+  <h2>coffee</h2>
+  <table>
+    <caption>Interest over time, last 8 points</caption>
+    <thead><tr><th>Period</th><th>Value</th></tr></thead>
+    <tbody>
+      <tr><td>Sep 4, 2026</td><td>49</td></tr>
+      <tr><td>Sep 5, 2026</td><td>63</td></tr>
+      <tr><td>Sep 6, 2026</td><td>70</td></tr>
+      <tr><td>Sep 7, 2026</td><td>67</td></tr>
+      <tr><td>Sep 8, 2026</td><td>48</td></tr>
+      <tr><td>Sep 9, 2026</td><td>48</td></tr>
+      <tr><td>Sep 10, 2026</td><td>46</td></tr>
+      <tr><td>Sep 11, 2026</td><td>49</td></tr>
+    </tbody>
+  </table>
+  <table>
+    <caption>Top rising related queries</caption>
+    <thead><tr><th>Query</th><th>Value</th></tr></thead>
+    <tbody>
+      <tr><td>top songs this week</td><td>Breakout</td></tr>
+      <tr><td>home workout routines</td><td>Breakout</td></tr>
+      <tr><td>flyers mascot</td><td>Breakout</td></tr>
+      <tr><td>pet care tips</td><td>Breakout</td></tr>
+      <tr><td>gardening ideas</td><td>Breakout</td></tr>
+    </tbody>
+  </table>
+
+  <h2>matcha</h2>
+  <table>
+    <caption>Interest over time, last 8 points</caption>
+    <thead><tr><th>Period</th><th>Value</th></tr></thead>
+    <tbody>
+      <tr><td>Sep 4, 2026</td><td>44</td></tr>
+      <tr><td>Sep 5, 2026</td><td>49</td></tr>
+      <tr><td>Sep 6, 2026</td><td>49</td></tr>
+      <tr><td>Sep 7, 2026</td><td>50</td></tr>
+      <tr><td>Sep 8, 2026</td><td>39</td></tr>
+      <tr><td>Sep 9, 2026</td><td>34</td></tr>
+      <tr><td>Sep 10, 2026</td><td>36</td></tr>
+      <tr><td>Sep 11, 2026</td><td>37</td></tr>
+    </tbody>
+  </table>
+  <table>
+    <caption>Top rising related queries</caption>
+    <thead><tr><th>Query</th><th>Value</th></tr></thead>
+    <tbody>
+      <tr><td>earthquake pills</td><td>Breakout</td></tr>
+      <tr><td>iron bird seed</td><td>Breakout</td></tr>
+      <tr><td>grind rail meaning</td><td>Breakout</td></tr>
+      <tr><td>iron bird seed meaning</td><td>Breakout</td></tr>
+      <tr><td>grind rail</td><td>Breakout</td></tr>
+    </tbody>
+  </table>
+
+  <h2>pickleball</h2>
+  <table>
+    <caption>Interest over time, last 8 points</caption>
+    <thead><tr><th>Period</th><th>Value</th></tr></thead>
+    <tbody>
+      <tr><td>Sep 4, 2026</td><td>83</td></tr>
+      <tr><td>Sep 5, 2026</td><td>66</td></tr>
+      <tr><td>Sep 6, 2026</td><td>75</td></tr>
+      <tr><td>Sep 7, 2026</td><td>73</td></tr>
+      <tr><td>Sep 8, 2026</td><td>57</td></tr>
+      <tr><td>Sep 9, 2026</td><td>54</td></tr>
+      <tr><td>Sep 10, 2026</td><td>53</td></tr>
+      <tr><td>Sep 11, 2026</td><td>52</td></tr>
+    </tbody>
+  </table>
+  <table>
+    <caption>Top rising related queries</caption>
+    <thead><tr><th>Query</th><th>Value</th></tr></thead>
+    <tbody>
+      <tr><td>charles barkley pickleball comments</td><td>Breakout</td></tr>
+      <tr><td>national pickleball day</td><td>+300%</td></tr>
+      <tr><td>the dink</td><td>+200%</td></tr>
+      <tr><td>selkirk omni pickleball paddle</td><td>+170%</td></tr>
+      <tr><td>mlp pickleball</td><td>+150%</td></tr>
+    </tbody>
+  </table>
+  <p class="links"><a href="rows.csv">Download all 416 rows as CSV</a></p>
+  <a class="cta" href="https://apify.com/tallyrake/google-trends-scraper">Open on Apify Store</a>
+
+  <footer><a href="/">Back to tallyrake.com</a></footer>
+</main>
+</body>
+</html>
