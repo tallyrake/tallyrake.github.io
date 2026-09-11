@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Google Trends 429s in 2026: what actually works</title>
+<meta name="description" content="Why Google Trends scrapers hit two different 429s, why one keyword costs several requests, the current widget protocol, and measured 429 rates before and after per-keyword sessions.">
+<style>
+  :root {
+    --bg: #ffffff;
+    --fg: #16181c;
+    --muted: #57606a;
+    --accent: #1a4dab;
+    --border: #d8dde3;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #14161a;
+      --fg: #eef0f2;
+      --muted: #a7b0ba;
+      --accent: #7aa7ff;
+      --border: #33383f;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--fg);
+    font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  }
+  main {
+    max-width: 640px;
+    margin: 0 auto;
+    padding: 3rem 1.25rem 4rem;
+  }
+  h1 {
+    font-size: 1.6rem;
+    margin: 0 0 1.5rem;
+  }
+  h2 {
+    font-size: 1.15rem;
+    margin: 2rem 0 0.75rem;
+  }
+  p {
+    margin: 0 0 1.1rem;
+  }
+  ol, ul {
+    margin: 0 0 1.1rem;
+    padding-left: 1.3rem;
+  }
+  li {
+    margin-bottom: 0.4rem;
+  }
+  a { color: var(--accent); }
+  code {
+    background: var(--border);
+    border-radius: 3px;
+    padding: 0.1em 0.3em;
+    font-size: 0.9em;
+  }
+  pre {
+    background: var(--border);
+    border-radius: 6px;
+    padding: 1rem;
+    overflow-x: auto;
+    margin: 0 0 1.1rem;
+  }
+  pre code {
+    background: none;
+    padding: 0;
+  }
+  nav.back {
+    margin-bottom: 2rem;
+  }
+  footer {
+    color: var(--muted);
+    font-size: 0.9rem;
+    border-top: 1px solid var(--border);
+    padding-top: 1rem;
+    margin-top: 2.5rem;
+  }
+  footer a { color: var(--muted); }
+</style>
+</head>
+<body>
+<main>
+  <nav class="back"><a href="/">&larr; Tallyrake</a></nav>
+  <h1>Google Trends 429s in 2026: what actually works</h1>
+<p>If you have tried to pull Google Trends data programmatically any time in the last couple of years, you have hit a 429. Most write-ups treat it as one problem — "Google is rate limiting me" — and reach for a single fix: rotate a proxy, add a <code>time.sleep</code>, retry a few times. That gets you partway. The reason it stays flaky is that there are two different 429s in this flow, they mean different things, and only one of them is the actual rate limit.</p>
+<h2>Two different 429s</h2>
+<p>The first 429 shows up on <code>GET https://trends.google.com/trends/explore</code>. This is the page load, not an API call. Hit it with a fresh cookie jar and Google answers 429 almost every time — and it still sets the <code>NID</code> cookie in that response. That cookie is what the JSON endpoints check for. So this 429 is not a rejection, it is the handshake: as long as you read the <code>Set-Cookie</code> header and keep the cookie, the request "failed" but did its job.</p>
+<p>The second 429 shows up on the real API surface, <code>trends.google.com/trends/api/*</code>. This one is the actual limit — too many calls, too fast, from one identity (cookie jar + IP + TLS/header fingerprint together). This is the 429 worth reacting to: rotate the session (new cookie jar, new proxy identity) and back off.</p>
+<p>Conflating the two produces bad diagnostics. A run that logs "15 429s" without splitting handshake from real tells you almost nothing about whether you are actually being throttled. Once we split the counter in our own scraper, most of what looked like heavy rate limiting turned out to be handshake noise.</p>
+<h2>Why one keyword costs several requests</h2>
+<p>There is no single "give me interest over time for this keyword" endpoint. The flow is two steps:</p>
+<ol>
+<li><code>GET /trends/api/explore</code> with the keyword(s), geo, and time range. This does not return data — it returns a list of widgets (<code>TIMESERIES</code>, <code>GEO_MAP</code>, <code>RELATED_TOPICS</code>, <code>RELATED_QUERIES</code>, ...), each with a short-lived <code>token</code> and its own <code>request</code> payload.</li>
+<li>One <code>GET</code> per widget, against that widget's own endpoint (<code>/widgetdata/multiline</code> for the time series, <code>/widgetdata/comparedgeo</code> for the region map, <code>/widgetdata/relatedsearches</code> for both related queries and related topics), passing that widget's token back.</li>
+</ol>
+<p>So a single keyword with time series, region breakdown, related queries, and related topics enabled is a minimum of five HTTP calls, plus the handshake — before any retries. Comparing several keywords in one request batches them into the same explore call and the same shared widgets, which is worth doing when you can, but it does not change the per-widget-call structure.</p>
+<h2>The current widget protocol, minimally</h2>
+<p>This is a trimmed version of the actual flow, verified against a live session (three requests: the warm-up, the explore call, and one widget call) shortly before writing this.</p>
+<pre><code class="language-python">import json
+import requests
+
+session = requests.Session()
+session.headers.update({
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                  "(KHTML, like Gecko) Chrome/128.0 Safari/537.36",
+    "accept-language": "en-US,en;q=0.9",
+})
+
+# 1. Warm-up GET. Expect a 429 here — it still sets the NID cookie.
+session.get(
+    "https://trends.google.com/trends/explore",
+    params={"q": "trends", "hl": "en-US"},
+    timeout=15,
+)
+
+# 2. Explore call: returns widget descriptors, not data.
+req = {
+    "comparisonItem": [{"keyword": "python", "geo": "", "time": "today 12-m"}],
+    "category": 0,
+    "property": "",
+}
+resp = session.get(
+    "https://trends.google.com/trends/api/explore",
+    params={"hl": "en-US", "tz": "0", "req": json.dumps(req)},
+    headers={
+        "accept": "application/json, text/plain, */*",
+        "referer": "https://trends.google.com/trends/explore",
+    },
+    timeout=15,
+)
+
+def strip_prefix(body: str) -&gt; str:
+    # Google prefixes every JSON response with `)]}'` (XSSI protection),
+    # sometimes followed by a comma before the newline.
+    text = body.strip()
+    if text.startswith(")]}'"):
+        text = text[4:].lstrip(",")
+    return text
+
+widgets = json.loads(strip_prefix(resp.text))["widgets"]
+timeseries = next(w for w in widgets if w["id"].startswith("TIMESERIES"))
+
+# 3. Widget call: pass the token back, get the actual data.
+widget_resp = session.get(
+    "https://trends.google.com/trends/api/widgetdata/multiline",
+    params={
+        "hl": "en-US",
+        "tz": "0",
+        "req": json.dumps(timeseries["request"]),
+        "token": timeseries["token"],
+    },
+    headers={
+        "accept": "application/json, text/plain, */*",
+        "referer": "https://trends.google.com/trends/explore",
+    },
+    timeout=15,
+)
+data = json.loads(strip_prefix(widget_resp.text))
+print(len(data["default"]["timelineData"]), "points")</code></pre>
+<p>Two things worth calling out that are easy to get wrong: the <code>req</code> params on both the explore and widget calls are JSON-encoded strings inside the query string, not JSON bodies — these are <code>GET</code> requests. And the token from step 2 is single-use per widget; you cannot reuse it across a retry with a rotated session, you need a fresh explore call too if the session changes.</p>
+<p>What this snippet does not show, because it matters for reliability and does not fit in a minimal example: a session (cookie jar plus whatever identity — IP, headers, TLS fingerprint — you present) should be discarded and replaced, not retried in place, the moment you see a real 429 on an API call. Retrying the same session into the same limit just spends the backoff window for nothing.</p>
+<h2>Related topics: the empty-list reality</h2>
+<p>If you are pulling <code>RELATED_TOPICS</code> or <code>RELATED_QUERIES</code> from a cookie-only session (no signed-in Google account, no prior browsing history tied to the cookie), expect an empty <code>rankedList</code> for a meaningful share of terms. This is not a bug in a particular library — pat310/google-trends-api issue #174 documents the same <code>relatedQueries</code> emptiness independently. It is closer to expected behavior of the endpoint for anonymous sessions than an edge case, and no amount of retrying or proxy rotation fixes it, because the response is a valid 200 with an empty list, not a 429.</p>
+<p>pytrends, still the most commonly referenced Python wrapper for this API, has not had a commit since August 2024 and its GitHub repository is now archived — the endpoints and token protocol have moved on since, which is part of why hand-rolled clients against the current widget flow are worth understanding directly rather than through an unmaintained wrapper.</p>
+<h2>What we actually measured</h2>
+<p>Numbers below are from our own actor's soak log (Central time), same 3 keywords, US geo, 3-month window, 3 output types, region breakdown, run against Apify's datacenter proxy pool unless noted:</p>
+<ul>
+<li>2026-09-09, session reused across a batch of calls: 28 requests, 7 real 429s (plus 9 handshake 429s), all recovered by session rotation, 3/3 keywords returned data.</li>
+<li>2026-09-09, fresh cookie jar and proxy session per keyword with ~500ms jittered pacing between calls, run 1: 15 requests, 0 real 429s (3 handshake), 0 retries, 3/3 keywords returned data.</li>
+<li>2026-09-09, same configuration, run 2 (separate run, not combined with run 1): 15 requests, 0 real 429s (3 handshake), 0 retries, 3/3 keywords returned data.</li>
+<li>2026-09-09 19:05 Central, four runs concurrently, 8 keywords each (32 total), same fresh-session-per-keyword approach: 32/32 keywords returned data, 4/4 runs succeeded, 160 total requests (4 runs × 40), 0 real 429s (32 handshakes), 0 retries.</li>
+</ul>
+<p>The pattern across these runs is consistent: the real-429 rate dropped from a quarter of all requests to zero once the client stopped reusing one session across an entire batch and instead gave each keyword its own cookie jar and proxy identity with paced, jittered spacing between calls. That is the mechanism worth reproducing, whatever language or library you build it in.</p>
+<p>Separately: I maintain a hosted version of this flow on Apify — session-per-keyword, the explore/widget-token dance, retry-with-rotation on real 429s — priced pay-per-result at $0.25 per 1,000 rows, no subscription. If you would rather not maintain the client yourself: <a href="https://apify.com/tallyrake/google-trends-scraper">https://apify.com/tallyrake/google-trends-scraper</a></p>
+  <footer>Prefer not to maintain the client yourself? <a href="https://apify.com/tallyrake/google-trends-scraper">Open the actor on Apify Store</a> &middot; Support: ops@tallyrake.com</footer>
+</main>
+</body>
+</html>
