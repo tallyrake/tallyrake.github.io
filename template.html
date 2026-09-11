@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tallyrake — Google Trends data without the 429s</title>
+<meta name="description" content="Google Trends data as flat CSV/JSON rows: interest over time, by region, related queries. $0.25 per 1,000 rows.">
+<style>
+  :root {
+    --bg: #ffffff;
+    --fg: #16181c;
+    --muted: #57606a;
+    --accent: #1a4dab;
+    --border: #d8dde3;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #14161a;
+      --fg: #eef0f2;
+      --muted: #a7b0ba;
+      --accent: #7aa7ff;
+      --border: #33383f;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--fg);
+    font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  }
+  main {
+    max-width: 640px;
+    margin: 0 auto;
+    padding: 3rem 1.25rem 4rem;
+  }
+  h1 {
+    font-size: 1.75rem;
+    margin: 0 0 1rem;
+  }
+  p.problem {
+    font-size: 1.1rem;
+    margin: 0 0 1.25rem;
+  }
+  p.offer {
+    color: var(--muted);
+    margin: 0 0 2rem;
+  }
+  .cta {
+    display: inline-block;
+    background: var(--accent);
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+    padding: 0.75rem 1.5rem;
+    border-radius: 6px;
+    margin-bottom: 2.5rem;
+  }
+  h2 {
+    font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--muted);
+    margin: 0 0 0.75rem;
+  }
+  ul.proof {
+    list-style: none;
+    margin: 0 0 2.5rem;
+    padding: 0;
+    border-top: 1px solid var(--border);
+  }
+  ul.proof li {
+    padding: 0.6rem 0;
+    border-bottom: 1px solid var(--border);
+  }
+  ul.recipes {
+    margin: 0 0 2.5rem;
+    padding-left: 1.1rem;
+  }
+  ul.recipes li {
+    margin-bottom: 0.4rem;
+  }
+  ul.recipes a, .proof a {
+    color: var(--accent);
+  }
+  footer {
+    color: var(--muted);
+    font-size: 0.9rem;
+    border-top: 1px solid var(--border);
+    padding-top: 1rem;
+  }
+  footer a { color: var(--muted); }
+</style>
+</head>
+<body>
+<main>
+  <h1>Tallyrake</h1>
+  <p class="problem">Your last Google Trends tool 429'd, or came back with related queries empty.</p>
+  <p class="offer">This actor returns interest over time, interest by region, and related queries as flat CSV or JSON rows. $0.25 per 1,000 rows.</p>
+  <a class="cta" href="https://apify.com/tallyrake/google-trends-scraper">Open on Apify Store</a>
+
+  <h2>Proof</h2>
+  <ul class="proof">
+    <li>Users in the last 30 days: {{USERS_30D}} ({{USERS_TOTAL}} all-time).</li>
+    <li>Runs in the last 30 days: {{RUNS_30D}} ({{FAIL_30D}}).</li>
+    <li>Apify Store rank for &quot;google trends&quot;: {{RANK_GOOGLE_TRENDS}}.</li>
+    <li>{{LAST_SOAK_LINE}}</li>
+  </ul>
+  <p><a href="/google-trends-429/">Read: Google Trends 429 in 2026, what actually works</a></p>
+
+  <h2>Recipes</h2>
+  <ul class="recipes">
+    <li><a href="https://apify.com/tallyrake/google-trends-scraper#compare-three-terms-on-one-scale">Compare three terms on one scale</a></li>
+    <li><a href="https://apify.com/tallyrake/google-trends-scraper#us-interest-plus-rising-queries-as-csv">US interest plus rising queries as CSV</a></li>
+    <li><a href="https://apify.com/tallyrake/google-trends-scraper#my-last-trends-tool-returned-429--try-this-input">My last Trends tool returned 429 — try this input</a></li>
+  </ul>
+
+  <footer>Support: ops@tallyrake.com &middot; Updated {{UPDATED}}</footer>
+</main>
+</body>
+</html>
