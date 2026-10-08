@@ -1,0 +1,31 @@
+# Evergreen keywords for the daily Google Trends pages (one per line; # comments). Topics with steady search demand, no private people.
+bitcoin
+ethereum
+chatgpt
+ai agents
+electric cars
+mortgage rates
+gold price
+stock market
+air fryer
+protein powder
+keto diet
+intermittent fasting
+yoga
+marathon training
+travel insurance
+cheap flights
+cruise deals
+solar panels
+heat pump
+halloween costumes
+black friday
+christmas gifts
+tax refund
+side hustle
+remote jobs
+resume template
+learn python
+sourdough bread
+cold plunge
+pickleball
