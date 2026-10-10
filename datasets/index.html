@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Custom Google Trends, autocomplete and Scholar datasets, delivered in 24 hours</title>
+<meta name="description" content="Order a custom dataset: Google Trends interest over time, regions and related queries for thousands of keywords and countries; search autocomplete across five engines; Google Scholar results with citations. Flat CSV or JSON, delivered within 24 hours, priced by rows.">
+<link rel="canonical" href="https://tallyrake.com/datasets/">
+<style>:root{--bg:#fff;--fg:#16181c;--muted:#57606a;--accent:#1a4dab;--border:#d8dde3}@media(prefers-color-scheme:dark){:root{--bg:#14161a;--fg:#eef0f2;--muted:#a7b0ba;--accent:#7aa7ff;--border:#33383f}}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}main{max-width:760px;margin:0 auto;padding:24px 16px 56px}h1{font-size:1.7rem;margin:.2em 0}h2{font-size:1.15rem;margin:1.6em 0 .5em}p.muted,small{color:var(--muted)}table{border-collapse:collapse;width:100%;font-size:.95rem}td,th{border-bottom:1px solid var(--border);padding:7px 6px;text-align:left;vertical-align:top}td.n{text-align:right;white-space:nowrap}nav a{color:var(--muted);margin-right:12px}form{margin:12px 0;display:grid;gap:8px}input,textarea{padding:9px;border:1px solid var(--border);border-radius:6px;background:var(--bg);color:var(--fg);font:inherit;width:100%}textarea{min-height:120px}button{padding:10px 16px;border-radius:6px;border:0;background:var(--accent);color:#fff;font:inherit;cursor:pointer}.cta{display:inline-block;margin:6px 8px 6px 0;padding:8px 14px;border-radius:6px;background:transparent;color:var(--accent);border:1px solid var(--accent);text-decoration:none}</style></head>
+<body><main>
+<nav><a href="/">Tallyrake</a><a href="/trends/">Keyword pages</a><a href="/trending/">Trending now</a></nav>
+<h1>Custom datasets, delivered in 24 hours</h1>
+<p>You name the keywords, countries and date ranges; we deliver flat CSV or JSON rows with a stable id per row, built by the same code that runs our <a href="https://apify.com/tallyrake/google-trends-scraper">Apify actors</a> and <a href="https://rapidapi.com/tallyrake/api/google-trends-data">REST APIs</a>. No dashboard, no seat licence, no scraping on your side.</p>
+
+<h2>What we build</h2>
+<table>
+<tr><th>Dataset</th><th>Rows look like</th><th>Typical job</th></tr>
+<tr><td>Google Trends series</td><td>one row per keyword × week (or day) with the 0–100 index, plus regions and related queries if wanted</td><td>2,000 keywords × 10 countries × 5 years for a demand model</td></tr>
+<tr><td>Trending Now archive</td><td>one row per trending topic per country per day: volume, growth, start time, related queries, news</td><td>90 days × 20 countries for a newsroom or a brand-watch team</td></tr>
+<tr><td>Search autocomplete</td><td>one row per suggestion: engine, seed, suggestion, rank, modifier group</td><td>5,000 seeds × Google + YouTube + Amazon for a keyword universe</td></tr>
+<tr><td>Google Scholar</td><td>one row per result: title, authors, year, source, cited-by, PDF link</td><td>300 queries × top 100 results for a literature map or a VC thesis</td></tr>
+</table>
+
+<h2>Prices</h2>
+<p>By rows delivered, all data types, minimum order $149. Quotes are exact once we see the spec; most jobs are quoted within hours.</p>
+<table>
+<tr><th>Rows</th><th class="n">Price</th><th>Example</th></tr>
+<tr><td>up to 50,000</td><td class="n">$149</td><td>1,000 keywords × 52 weeks, one country</td></tr>
+<tr><td>up to 250,000</td><td class="n">$349</td><td>1,000 keywords × 52 weeks × 5 countries, with related queries</td></tr>
+<tr><td>up to 1,000,000</td><td class="n">$899</td><td>4,000 keywords × 5 years, monthly, 10 countries</td></tr>
+<tr><td>more, or recurring</td><td class="n">by quote</td><td>weekly refreshes, 50 countries, historical backfills</td></tr>
+</table>
+<p class="muted">Payment first through our checkout (card, Gumroad), delivery as a download link within 24 hours of payment, a revision within 48 hours if a column was read differently from what you meant. Public data fetched at request time; availability follows the source.</p>
+
+<h2>Order or ask for a quote</h2>
+<form id="brief" action="https://tallyrake-api.tallyrake.workers.dev/subscribe" method="post">
+<input type="hidden" name="source" value="datasets">
+<input type="email" name="email" placeholder="you@company.com" required>
+<textarea name="spec" placeholder="Dataset type, keywords (or how many), countries, date range, granularity, format, deadline. Paste a sample row if you have one." required></textarea>
+<button type="submit">Send the brief</button> <small id="brief-msg"></small>
+</form>
+<script>document.getElementById('brief').addEventListener('submit',async function(e){e.preventDefault();var f=e.target,m=document.getElementById('brief-msg');m.textContent='…';try{var r=await fetch(f.action,{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({email:f.email.value,spec:f.spec.value,source:'datasets'})});m.textContent=r.ok?'Received. A quote and a checkout link come back by email, usually within hours.':'Could not send; email ops@tallyrake.com instead.';if(r.ok)f.spec.value='';}catch(err){m.textContent='Could not send; email ops@tallyrake.com instead.';}});</script>
+<p>Prefer email: <a href="mailto:ops@tallyrake.com">ops@tallyrake.com</a>. Small fixed jobs are ready-made: <a href="/files/">keyword lists, Trends exports and Scholar sets as files</a>.</p>
+<p><a class="cta" href="/sample/">See a sample export</a> <a class="cta" href="/google-trends-429/">Why our Trends data doesn't 429</a></p>
+</main></body></html>

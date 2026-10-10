@@ -167,6 +167,18 @@ print(len(data["default"]["timelineData"]), "points")</code></pre>
 <h2>Related topics: the empty-list reality</h2>
 <p>If you are pulling <code>RELATED_TOPICS</code> or <code>RELATED_QUERIES</code> from a cookie-only session (no signed-in Google account, no prior browsing history tied to the cookie), expect an empty <code>rankedList</code> for a meaningful share of terms. This is not a bug in a particular library : pat310/google-trends-api issue #174 documents the same <code>relatedQueries</code> emptiness independently. It is closer to expected behavior of the endpoint for anonymous sessions than an edge case, and no amount of retrying or proxy rotation fixes it, because the response is a valid 200 with an empty list, not a 429.</p>
 <p>pytrends, still the most commonly referenced Python wrapper for this API, has not had a commit since August 2024 and its GitHub repository is now archived : the endpoints and token protocol have moved on since, which is part of why hand-rolled clients against the current widget flow are worth understanding directly rather than through an unmaintained wrapper.</p>
+<h2>The fix, as an endpoint</h2>
+<p>If you would rather not run the widget protocol yourself: the same pacing, backoff and partial-result rules run behind a REST endpoint on RapidAPI (free tier, then $9 a month) and an Apify actor ($0.25 per 1,000 rows). One call returns the weekly series as rows; related queries and regions are two more.</p>
+<pre><code>curl "https://google-trends-data.p.rapidapi.com/interest?terms=coffee,tea&amp;timeRange=today%2012-m&amp;geo=US" \
+  -H "x-rapidapi-key: YOUR_KEY" -H "x-rapidapi-host: google-trends-data.p.rapidapi.com"
+# {"count":106,"items":[{"type":"interestOverTime","term":"coffee","time":"2025-10-05T00:00:00.000Z","value":54,...}]}</code></pre>
+<pre><code>import requests
+r = requests.get("https://google-trends-data.p.rapidapi.com/related",
+    params={"terms": "coffee", "timeRange": "today 12-m", "geo": "US"},
+    headers={"x-rapidapi-key": "YOUR_KEY", "x-rapidapi-host": "google-trends-data.p.rapidapi.com"})
+rows = r.json()["items"]          # list == "top" or "rising", with rank, query, value
+</code></pre>
+<p><a href="https://rapidapi.com/tallyrake/api/google-trends-data">Google Trends Data on RapidAPI</a> · <a href="https://apify.com/tallyrake/google-trends-scraper">the Apify actor</a> · <a href="/datasets/">custom datasets by the million rows</a></p>
 <h2>What we actually measured</h2>
 <p>Numbers below are from our own actor's soak log (Central time), same 3 keywords, US geo, 3-month window, 3 output types, region breakdown, run against Apify's datacenter proxy pool unless noted:</p>
 <ul>
