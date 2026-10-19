@@ -178,7 +178,7 @@ r = requests.get("https://google-trends-data.p.rapidapi.com/related",
     headers={"x-rapidapi-key": "YOUR_KEY", "x-rapidapi-host": "google-trends-data.p.rapidapi.com"})
 rows = r.json()["items"]          # list == "top" or "rising", with rank, query, value
 </code></pre>
-<p><a href="https://rapidapi.com/tallyrake/api/google-trends-data">Google Trends Data on RapidAPI</a> · <a href="https://apify.com/tallyrake/google-trends-scraper">the Apify actor</a> · <a href="/datasets/">custom datasets by the million rows</a></p>
+<p>Also as REST endpoints on RapidAPI: <a href="https://rapidapi.com/tallyrake/api/google-trends-data">Google Trends Data</a>, <a href="https://rapidapi.com/tallyrake/api/google-trends-trending-now">Trending Now</a>, <a href="https://rapidapi.com/tallyrake/api/search-autocomplete">Search Autocomplete</a>, <a href="https://rapidapi.com/tallyrake/api/youtube-autocomplete">YouTube Autocomplete</a> · <a href="https://apify.com/tallyrake/google-trends-scraper">the Apify actor</a> · <a href="/datasets/">custom datasets by the million rows</a></p>
 <h2>What we actually measured</h2>
 <p>Numbers below are from our own actor's soak log (Central time), same 3 keywords, US geo, 3-month window, 3 output types, region breakdown, run against Apify's datacenter proxy pool unless noted:</p>
 <ul>
