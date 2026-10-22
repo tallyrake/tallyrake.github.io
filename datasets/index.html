@@ -1,15 +1,26 @@
 <!DOCTYPE html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Custom Google Trends, autocomplete and Scholar datasets, delivered in 24 hours</title>
-<meta name="description" content="Order a custom dataset: Google Trends interest over time, regions and related queries for thousands of keywords and countries; search autocomplete across five engines; Google Scholar results with citations. Flat CSV or JSON, delivered within 24 hours, priced by rows.">
+<title>Custom Google Trends dataset: email your list</title>
+<meta name="description" content="Custom Google Trends dataset: email your terms, two-letter countries and one timeframe. We write back the exact job. $149 for a confirmed job. The 48 hours start when your payment clears. Not affiliated with Google.">
 <link rel="canonical" href="https://tallyrake.com/datasets/">
 <style>:root{--bg:#fff;--fg:#16181c;--muted:#57606a;--accent:#1a4dab;--border:#d8dde3}@media(prefers-color-scheme:dark){:root{--bg:#14161a;--fg:#eef0f2;--muted:#a7b0ba;--accent:#7aa7ff;--border:#33383f}}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}main{max-width:760px;margin:0 auto;padding:24px 16px 56px}h1{font-size:1.7rem;margin:.2em 0}h2{font-size:1.15rem;margin:1.6em 0 .5em}p.muted,small{color:var(--muted)}table{border-collapse:collapse;width:100%;font-size:.95rem}td,th{border-bottom:1px solid var(--border);padding:7px 6px;text-align:left;vertical-align:top}td.n{text-align:right;white-space:nowrap}nav a{color:var(--muted);margin-right:12px}form{margin:12px 0;display:grid;gap:8px}input,textarea{padding:9px;border:1px solid var(--border);border-radius:6px;background:var(--bg);color:var(--fg);font:inherit;width:100%}textarea{min-height:120px}button{padding:10px 16px;border-radius:6px;border:0;background:var(--accent);color:#fff;font:inherit;cursor:pointer}.cta{display:inline-block;margin:6px 8px 6px 0;padding:8px 14px;border-radius:6px;background:transparent;color:var(--accent);border:1px solid var(--accent);text-decoration:none}</style></head>
 <body><main>
 <nav><a href="/">Tallyrake</a><a href="/trends/">Keyword pages</a><a href="/trending/">Trending now</a></nav>
-<h1>Custom datasets, delivered in 24 hours</h1>
-<p>You name the keywords, countries and date ranges; we deliver flat CSV or JSON rows with a stable id per row, built by the same code that runs our <a href="https://apify.com/tallyrake/google-trends-scraper">Apify actors</a> and <a href="https://rapidapi.com/tallyrake/api/google-trends-data">REST APIs</a>. No dashboard, no seat licence, no scraping on your side.</p>
+<h1>Custom datasets</h1>
+<p>Flat CSV or JSON rows with a stable id per row, built by the same code that runs our <a href="https://apify.com/tallyrake/google-trends-scraper">Apify actors</a> and <a href="https://rapidapi.com/tallyrake/api/google-trends-data">REST APIs</a>. No dashboard, no seat licence, no scraping on your side.</p>
 
-<h2>What we build</h2>
+<h2>Google Trends dataset: email your list</h2>
+<p>One dataset built to your list: up to 50 search terms, up to 5 countries, one timeframe. To start, email <a href="mailto:ops@tallyrake.com">ops@tallyrake.com</a> with three lines: terms, geos (two-letter country codes) and one timeframe, or leave the timeframe out for the default.</p>
+<p>We read your list and write back the exact job. The price for a confirmed job is $149. We may decline a list.</p>
+<p class="muted">Files by email: two CSVs, one XLSX workbook with a sheet for each, and SUMMARY.md. The 48 hours start when your payment clears. The files are due by email by the end of those 48 hours.</p>
+<p class="muted">Timeframe: one window per job, named as now 7-d (hourly), today 1-m (daily), today 3-m (daily), today 12-m (weekly, the default), today 5-y (weekly), or two dates such as 2025-01-01 2025-12-31 (Google's own grain for that span). Every row carries the term, the country and the time it was fetched. Only interest-over-time rows have a timeframe column. Related-query rows have no timeframe column: the window is the one in the job, and their link column is a source link to Google Trends.</p>
+<p class="muted">Scale: interest over time is scored 0 to 100 separately for each term in each country, where 100 is that term's peak in that country in the window. It is relative to itself, not a search count, and not comparable between terms or between countries. Each term is requested on its own. Related queries are not on that index: top queries carry Google's value scaled for that term in that country, and rising queries show growth as a percentage or Breakout. Neither is comparable between terms or between countries.</p>
+<p class="muted">If Google does not return a term and country pair, SUMMARY.md lists the missing pairs, and if you ask we rerun those pairs once, at no charge.</p>
+<p class="muted">Geos are GB, not UK. Worldwide is not offered. Tallyrake is not affiliated with Google.</p>
+<p>A single-use payment link is sent only after you reply yes to the written job. No payment, no job. There is no buy button on this page.</p>
+<h2>Bigger or different jobs: by request</h2>
+<p>Other data types, more rows, or recurring refreshes are handled as requests. A quote is not a yes. We may decline a request, and no price or delivery time binds either side until we confirm the job in writing. A payment made before that written confirmation creates no job. Kinds of data we have built:</p>
+
 <table>
 <tr><th>Dataset</th><th>Rows look like</th><th>Typical job</th></tr>
 <tr><td>Google Trends series</td><td>one row per keyword × week (or day) with the 0–100 index, plus regions and related queries if wanted</td><td>2,000 keywords × 10 countries × 5 years for a demand model</td></tr>
@@ -18,25 +29,26 @@
 <tr><td>Google Scholar</td><td>one row per result: title, authors, year, source, cited-by, PDF link</td><td>300 queries × top 100 results for a literature map or a VC thesis</td></tr>
 </table>
 
-<h2>Prices</h2>
-<p>By rows delivered, all data types, minimum order $149. Quotes are exact once we see the spec; most jobs are quoted within hours.</p>
+<h2>Size guide for requested jobs</h2>
+<p>This table is a guide to job size, not an offer, and it does not apply to the fixed-price dataset above. The price and delivery time for a job are the ones in its written confirmation.</p>
 <table>
 <tr><th>Rows</th><th class="n">Price</th><th>Example</th></tr>
 <tr><td>up to 50,000</td><td class="n">$149</td><td>1,000 keywords × 52 weeks, one country</td></tr>
 <tr><td>up to 250,000</td><td class="n">$349</td><td>1,000 keywords × 52 weeks × 5 countries, with related queries</td></tr>
 <tr><td>up to 1,000,000</td><td class="n">$899</td><td>4,000 keywords × 5 years, monthly, 10 countries</td></tr>
-<tr><td>more, or recurring</td><td class="n">by quote</td><td>weekly refreshes, 50 countries, historical backfills</td></tr>
+<tr><td>more, or recurring</td><td class="n">case by case</td><td>weekly refreshes, 50 countries, historical backfills</td></tr>
 </table>
-<p class="muted">Payment first through our checkout (card, Gumroad), delivery as a download link within 24 hours of payment, a revision within 48 hours if a column was read differently from what you meant. Public data fetched at request time; availability follows the source.</p>
+<p class="muted">This section does not apply to the $149 Google Trends dataset above, whose terms are the ones stated there. A bigger or different job has its own terms, price and delivery time, and they bind only when we confirm them in writing, before any payment. Public data fetched at request time; availability follows the source.</p>
 
-<h2>Order or ask for a quote</h2>
+<h2>Ask about a bigger job</h2>
+<p>Do not pay for anything until you have our written confirmation.</p>
 <form id="brief" action="https://tallyrake-api.tallyrake.workers.dev/subscribe" method="post">
 <input type="hidden" name="source" value="datasets">
 <input type="email" name="email" placeholder="you@company.com" required>
 <textarea name="spec" placeholder="Dataset type, keywords (or how many), countries, date range, granularity, format, deadline. Paste a sample row if you have one." required></textarea>
 <button type="submit">Send the brief</button> <small id="brief-msg"></small>
 </form>
-<script>document.getElementById('brief').addEventListener('submit',async function(e){e.preventDefault();var f=e.target,m=document.getElementById('brief-msg');m.textContent='…';try{var r=await fetch(f.action,{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({email:f.email.value,spec:f.spec.value,source:'datasets'})});m.textContent=r.ok?'Received. A quote and a checkout link come back by email, usually within hours.':'Could not send; email ops@tallyrake.com instead.';if(r.ok)f.spec.value='';}catch(err){m.textContent='Could not send; email ops@tallyrake.com instead.';}});</script>
-<p>Prefer email: <a href="mailto:ops@tallyrake.com">ops@tallyrake.com</a>. Small fixed jobs are ready-made: <a href="/files/">keyword lists, Trends exports and Scholar sets as files</a>.</p>
+<script>document.getElementById('brief').addEventListener('submit',async function(e){e.preventDefault();var f=e.target,m=document.getElementById('brief-msg');m.textContent='…';try{var r=await fetch(f.action,{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({email:f.email.value,spec:f.spec.value,source:'datasets'})});m.textContent=r.ok?'Received. This is a request, not an order. No job exists until we confirm it in writing, and we may decline.':'Could not send; email ops@tallyrake.com instead.';if(r.ok)f.spec.value='';}catch(err){m.textContent='Could not send; email ops@tallyrake.com instead.';}});</script>
+<p>Prefer email: <a href="mailto:ops@tallyrake.com">ops@tallyrake.com</a>. The same rule applies to a brief sent by email.</p>
 <p><a class="cta" href="/sample/">See a sample export</a> <a class="cta" href="/google-trends-429/">Why our Trends data doesn't 429</a></p>
-</main></body></html>
+</main><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "8dc726602e9c4858a552c988fa485716"}'></script></body></html>
