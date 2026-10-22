@@ -7,7 +7,7 @@
 <body><main>
 <nav><a href="/">Tallyrake</a><a href="/trends/">Keyword pages</a><a href="/trending/">Trending now</a></nav>
 <h1>Custom datasets</h1>
-<p>Flat CSV or JSON rows with a stable id per row, built by the same code that runs our <a href="https://apify.com/tallyrake/google-trends-scraper">Apify actors</a> and <a href="https://rapidapi.com/tallyrake/api/google-trends-data">REST APIs</a>. No dashboard, no seat licence, no scraping on your side.</p>
+<p>Flat CSV or JSON rows with a stable id per row, built by the same code that runs our <a href="https://tallyrake-api.tallyrake.workers.dev/go/google-trends-scraper?p=%2Fdatasets%2F" rel="nofollow">Apify actors</a> and <a href="https://rapidapi.com/tallyrake/api/google-trends-data">REST APIs</a>. No dashboard, no seat licence, no scraping on your side.</p>
 
 <h2>Google Trends dataset: email your list</h2>
 <p>One dataset built to your list: up to 50 search terms, up to 5 countries, one timeframe. To start, email <a href="mailto:ops@tallyrake.com">ops@tallyrake.com</a> with three lines: terms, geos (two-letter country codes) and one timeframe, or leave the timeframe out for the default.</p>
@@ -51,4 +51,4 @@
 <script>document.getElementById('brief').addEventListener('submit',async function(e){e.preventDefault();var f=e.target,m=document.getElementById('brief-msg');m.textContent='…';try{var r=await fetch(f.action,{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({email:f.email.value,spec:f.spec.value,source:'datasets'})});m.textContent=r.ok?'Received. This is a request, not an order. No job exists until we confirm it in writing, and we may decline.':'Could not send; email ops@tallyrake.com instead.';if(r.ok)f.spec.value='';}catch(err){m.textContent='Could not send; email ops@tallyrake.com instead.';}});</script>
 <p>Prefer email: <a href="mailto:ops@tallyrake.com">ops@tallyrake.com</a>. The same rule applies to a brief sent by email.</p>
 <p><a class="cta" href="/sample/">See a sample export</a> <a class="cta" href="/google-trends-429/">Why our Trends data doesn't 429</a></p>
-</main><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "8dc726602e9c4858a552c988fa485716"}'></script></body></html>
+</main><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "8dc726602e9c4858a552c988fa485716"}'></script><img src="https://tallyrake-api.tallyrake.workers.dev/px.gif?p=%2Fdatasets%2F" width="1" height="1" alt="" style="position:absolute;left:-9999px"></body></html>

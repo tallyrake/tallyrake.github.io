@@ -177,7 +177,7 @@ r = requests.get("https://google-trends-data.p.rapidapi.com/related",
     params={"terms": "coffee", "timeRange": "today 12-m", "geo": "US"},
     headers={"x-rapidapi-key": "YOUR_KEY", "x-rapidapi-host": "google-trends-data.p.rapidapi.com"})
 rows = r.json()["items"]          # list == "top" or "rising", with rank, query, value</code></pre>
-<p>Also as REST endpoints on RapidAPI: <a href="https://rapidapi.com/tallyrake/api/google-trends-data">Google Trends Data</a>, <a href="https://rapidapi.com/tallyrake/api/google-trends-trending-now">Trending Now</a>, <a href="https://rapidapi.com/tallyrake/api/search-autocomplete">Search Autocomplete</a>, <a href="https://rapidapi.com/tallyrake/api/youtube-autocomplete">YouTube Autocomplete</a> · <a href="https://apify.com/tallyrake/google-trends-scraper">the Apify actor</a> · <a href="/datasets/">custom datasets by the million rows</a></p>
+<p>Also as REST endpoints on RapidAPI: <a href="https://rapidapi.com/tallyrake/api/google-trends-data">Google Trends Data</a>, <a href="https://rapidapi.com/tallyrake/api/google-trends-trending-now">Trending Now</a>, <a href="https://rapidapi.com/tallyrake/api/search-autocomplete">Search Autocomplete</a>, <a href="https://rapidapi.com/tallyrake/api/youtube-autocomplete">YouTube Autocomplete</a> · <a href="https://tallyrake-api.tallyrake.workers.dev/go/google-trends-scraper?p=%2Fgoogle-trends-429%2F" rel="nofollow">the Apify actor</a> · <a href="/datasets/">custom datasets by the million rows</a></p>
 <h2>What we actually measured</h2>
 <p>Numbers below are from our own actor's soak log (Central time), same 3 keywords, US geo, 3-month window, 3 output types, region breakdown, run against Apify's datacenter proxy pool unless noted:</p>
 <ul>
@@ -187,8 +187,8 @@ rows = r.json()["items"]          # list == "top" or "rising", with rank, query,
 <li>2026-09-09 19:05 Central, four runs concurrently, 8 keywords each (32 total), same fresh-session-per-keyword approach: 32/32 keywords returned data, 4/4 runs succeeded, 160 total requests (4 runs × 40), 0 real 429s (32 handshakes), 0 retries.</li>
 </ul>
 <p>The pattern across these runs is consistent: the real-429 rate dropped from a quarter of all requests to zero once the client stopped reusing one session across an entire batch and instead gave each keyword its own cookie jar and proxy identity with paced, jittered spacing between calls. That is the mechanism worth reproducing, whatever language or library you build it in.</p>
-<p>Separately: I maintain a hosted version of this flow on Apify; billed terms are on the listing's Pricing tab. If you would rather not maintain the client yourself: <a href="https://apify.com/tallyrake/google-trends-scraper">https://apify.com/tallyrake/google-trends-scraper</a></p>
-  <footer>Prefer not to maintain the client yourself? <a href="https://apify.com/tallyrake/google-trends-scraper">Open the actor on Apify Store</a> &middot; Support: ops@tallyrake.com</footer>
+<p>Separately: I maintain a hosted version of this flow on Apify; billed terms are on the listing's Pricing tab. If you would rather not maintain the client yourself: <a href="https://tallyrake-api.tallyrake.workers.dev/go/google-trends-scraper?p=%2Fgoogle-trends-429%2F" rel="nofollow">https://apify.com/tallyrake/google-trends-scraper</a></p>
+  <footer>Prefer not to maintain the client yourself? <a href="https://tallyrake-api.tallyrake.workers.dev/go/google-trends-scraper?p=%2Fgoogle-trends-429%2F" rel="nofollow">Open the actor on Apify Store</a> &middot; Support: ops@tallyrake.com</footer>
 </main>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "8dc726602e9c4858a552c988fa485716"}'></script></body>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "8dc726602e9c4858a552c988fa485716"}'></script><img src="https://tallyrake-api.tallyrake.workers.dev/px.gif?p=%2Fgoogle-trends-429%2F" width="1" height="1" alt="" style="position:absolute;left:-9999px"></body>
 </html>
