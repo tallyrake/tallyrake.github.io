@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Tallyrake : Google Trends data without the 429s</title>
+<title>Tallyrake : Google Trends data as flat CSV and JSON rows</title>
 <meta name="description" content="Google Trends data as flat CSV/JSON rows: interest over time, by region, related queries. Run it on Apify.">
 <style>
   :root {
@@ -95,28 +95,20 @@
 <body>
 <main>
   <h1>Tallyrake</h1>
-  <p class="problem">Your last Google Trends tool 429'd, or came back with related queries empty.</p>
-  <p class="offer">This actor returns interest over time, interest by region, and related queries as flat CSV or JSON rows. Rates and billing terms are on the <a href="https://apify.com/tallyrake/google-trends-scraper/pricing">Pricing tab of the Apify listing</a>.</p>
+  <p class="problem">Google Trends has no public API, and its related queries can come back empty.</p>
+  <p class="offer">The actor writes flat CSV or JSON rows. The outputs are interest over time, interest by region, and related queries. An empty related-query list stays empty. Rates and billing terms are on the <a href="https://apify.com/tallyrake/google-trends-scraper/pricing">Pricing tab of the Apify listing</a>.</p>
   <a class="cta" href="https://tallyrake-api.tallyrake.workers.dev/go/google-trends-scraper?p=%2F" rel="nofollow">Open on Apify Store</a>
 
-  <h2>Proof</h2>
+  <h2>Listing numbers</h2>
   <ul class="proof">
     <li>Users in the last 30 days: 8 (212 all-time).</li>
-    <li>Runs in the last 30 days: 608 (126 failed of 608).</li>
-    <li>Apify Store rank for &quot;google trends&quot;: 27 of 1,912.</li>
-    <li>not yet measured</li>
+    <li>Runs in the last 30 days: 608 (126 failed of 608; 'failed' means the run ended with status failed, every cause included).</li>
+    <li>Apify Store search position for &quot;google trends&quot;, read 2026-10-22 04:03 CDT: 27 of 1,912.</li>
   </ul>
-  <p><a href="/google-trends-429/">Read: Google Trends 429 in 2026, what actually works</a></p>
+  <p><a href="/google-trends-429/">Read: Google Trends 429 in 2026, what we saw and what we tried</a></p>
   <p><a href="/sample/">See a real run: sample rows before you sign up</a></p>
 
-  <h2>Recipes</h2>
-  <ul class="recipes">
-    <li><a href="https://tallyrake-api.tallyrake.workers.dev/go/google-trends-scraper?p=%2F&h=compare-three-terms-on-one-scale" rel="nofollow">Compare three terms on one scale</a></li>
-    <li><a href="https://tallyrake-api.tallyrake.workers.dev/go/google-trends-scraper?p=%2F&h=us-interest-plus-rising-queries-as-csv" rel="nofollow">US interest plus rising queries as CSV</a></li>
-    <li><a href="https://tallyrake-api.tallyrake.workers.dev/go/google-trends-scraper?p=%2F&h=my-last-trends-tool-returned-429--try-this-input" rel="nofollow">My last Trends tool returned 429 : try this input</a></li>
-  </ul>
-
-  <footer>Support: ops@tallyrake.com &middot; Updated 2026-10-22 03:42 CDT</footer>
+  <footer>Support: ops@tallyrake.com &middot; Updated 2026-10-22 04:03 CDT</footer>
 </main>
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "8dc726602e9c4858a552c988fa485716"}'></script><img src="https://tallyrake-api.tallyrake.workers.dev/px.gif?p=%2F" width="1" height="1" alt="" style="position:absolute;left:-9999px"></body>
 </html>
