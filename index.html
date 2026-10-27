@@ -109,6 +109,20 @@
   <p><a href="/google-trends-429/">Read: Google Trends 429 in 2026, what we saw and what we tried</a></p>
   <p><a href="/sample/">See a real run: sample rows before you sign up</a></p>
 
+  <h2>Email me when we publish a new dataset or add a new search engine</h2>
+  <p id="notify-promise">One email when we publish a new dataset or add a new search engine. Batched, so never more than one a month. Nothing else: no confirmation, no welcome, no receipt. Every email carries a link that removes you.</p>
+  <p>This is not an alert when the Trends numbers move. Those change constantly and we do not mail about them.</p>
+  <form id="notify" action="https://tallyrake-api.tallyrake.workers.dev/subscribe" method="post">
+  <input type="hidden" name="source" value="home">
+  <input type="hidden" name="consent" value="One email when we publish a new dataset or add a new search engine. Batched, so never more than one a month. Nothing else: no confirmation, no welcome, no receipt. Every email carries a link that removes you.">
+  <input type="email" name="email" placeholder="you@company.com" required>
+  <button type="submit">Email me</button> <small id="notify-msg"></small>
+  </form>
+  <p class="muted">We store your address, the four sentences beginning &quot;One email when we publish&quot;, the
+  time and your IP address. We do not sell it. Want a custom dataset instead? <a href="/datasets/">Send a
+  brief</a>.</p>
+  <script>document.getElementById('notify').addEventListener('submit',async function(e){e.preventDefault();var f=e.target,m=document.getElementById('notify-msg');m.textContent='\u2026';try{var r=await fetch(f.action,{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({email:f.email.value,source:'home',consent:f.consent.value})});m.textContent=r.ok?'Saved. One email when we publish a new dataset or add a new search engine.':'Could not save; email ops@tallyrake.com instead.';if(r.ok)f.email.value='';}catch(err){m.textContent='Could not save; email ops@tallyrake.com instead.';}});</script>
+
   <footer>Support: ops@tallyrake.com</footer>
 </main>
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "8dc726602e9c4858a552c988fa485716"}'></script><img src="https://tallyrake-api.tallyrake.workers.dev/px.gif?p=%2F" width="1" height="1" alt="" style="position:absolute;left:-9999px"></body>
