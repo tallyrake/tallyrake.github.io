@@ -1,81 +1,81 @@
 geo,position,title,startedAt,searchVolume,growthPercent
-US,1,daylight savings,2026-11-01T00:30:00.000Z,1000000,500
-US,2,ohio state vs usc,2026-10-31T13:10:00.000Z,1000000,1000
-US,3,américa - toluca,2026-11-01T02:20:00.000Z,100000,1000
-US,4,barcelona vs alavés,2026-10-31T18:30:00.000Z,500000,1000
-US,5,florida vs georgia,2026-10-31T12:10:00.000Z,500000,1000
-US,6,timberwolves vs spurs,2026-10-31T23:00:00.000Z,100000,1000
-US,7,ms state vs texas,2026-10-31T22:30:00.000Z,200000,1000
-US,8,miami fl vs unc,2026-10-31T22:30:00.000Z,200000,1000
-US,9,76ers vs hornets,2026-10-31T21:00:00.000Z,100000,1000
-US,10,minnesota vs indiana,2026-10-31T18:30:00.000Z,500000,1000
-US,11,clemson vs florida state,2026-10-31T21:20:00.000Z,100000,1000
-US,12,thunder vs rockets,2026-10-31T23:30:00.000Z,100000,1000
-US,13,washington vs nebraska,2026-10-31T23:00:00.000Z,100000,1000
-US,14,south carolina vs oklahoma,2026-10-31T19:20:00.000Z,200000,1000
-US,15,gabby williams,2026-11-01T01:30:00.000Z,500000,1000
-US,16,melissa gilbert little house tribute,2026-10-31T18:50:00.000Z,100000,1000
-US,17,texas state vs boise state,2026-11-01T01:10:00.000Z,50000,1000
-US,18,liam fitzgerald,2026-10-31T16:10:00.000Z,50000,1000
-US,19,oregon state vs fresno state,2026-11-01T02:00:00.000Z,50000,1000
-US,20,michigan vs rutgers,2026-10-31T15:20:00.000Z,200000,1000
-GB,1,tg jones store closures uk,2026-10-31T08:00:00.000Z,200000,1000
-GB,2,spurs vs palace,2026-10-31T16:30:00.000Z,200000,1000
-GB,3,chelsea vs man utd,2026-10-31T10:40:00.000Z,500000,1000
-GB,4,aston villa vs fulham,2026-10-31T18:50:00.000Z,100000,1000
-GB,5,barcelona vs alavés,2026-10-31T19:00:00.000Z,50000,1000
-GB,6,rangers vs aberdeen,2026-10-31T15:00:00.000Z,100000,1000
-GB,7,std infected ladybirds,2026-10-31T07:30:00.000Z,20000,1000
-GB,8,new dwp bank checks,2026-10-31T18:30:00.000Z,5000,1000
-GB,9,milan vs inter,2026-10-31T18:50:00.000Z,20000,1000
-GB,10,prince harry meghan uk visits,2026-10-31T17:50:00.000Z,10000,1000
-GB,11,van allen radiation belt,2026-10-31T14:20:00.000Z,5000,600
-GB,12,ban vs ind,2026-11-01T00:50:00.000Z,10000,1000
-GB,13,kelly osbourne,2026-10-31T20:10:00.000Z,5000,1000
-GB,14,fc barcelona vs deportivo alavés standings,2026-10-31T22:10:00.000Z,10000,1000
-GB,15,heidi klum halloween,2026-10-31T16:40:00.000Z,5000,600
-GB,16,eng vs sa,2026-11-01T04:30:00.000Z,2000,1000
-GB,17,man city vs brighton & hove albion f.c. standings,2026-10-31T16:40:00.000Z,100000,1000
-GB,18,who won the voice uk 2026,2026-10-31T21:50:00.000Z,20000,700
-GB,19,canelo fight,2026-10-31T14:50:00.000Z,20000,700
-GB,20,liam fitzgerald,2026-10-31T20:00:00.000Z,2000,400
-DE,1,bayern – dortmund,2026-10-31T16:40:00.000Z,500000,1000
-DE,2,polarwirbel nordpol,2026-10-31T11:30:00.000Z,200000,1000
-DE,3,glandorf,2026-10-31T17:10:00.000Z,50000,1000
-DE,4,heidi klum halloween 2026,2026-10-31T07:10:00.000Z,50000,1000
-DE,5,frankfurt demo,2026-10-31T09:30:00.000Z,200000,1000
-DE,6,hohe wellen nordsee,2026-10-31T11:30:00.000Z,50000,1000
-DE,7,barcelona – alaves,2026-10-31T19:10:00.000Z,50000,1000
-DE,8,mittelsachsen,2026-10-31T11:30:00.000Z,50000,1000
-DE,9,ruhestand,2026-10-31T14:50:00.000Z,20000,1000
-DE,10,thomas gottschalk,2026-10-31T13:00:00.000Z,20000,1000
-DE,11,coswig (anhalt),2026-10-31T17:10:00.000Z,10000,1000
-DE,12,internet steuer frankreich,2026-10-31T18:30:00.000Z,10000,1000
-DE,13,selbstbedienungskasse,2026-10-31T14:30:00.000Z,20000,1000
-DE,14,victoria von schweden,2026-10-31T16:30:00.000Z,10000,1000
-DE,15,ukrainer,2026-10-31T16:40:00.000Z,5000,1000
-DE,16,deutscher eishockey-bund,2026-10-31T20:50:00.000Z,5000,1000
-DE,17,zinsen,2026-10-31T09:20:00.000Z,20000,1000
-DE,18,riccardo basile,2026-10-31T17:50:00.000Z,10000,1000
-DE,19,lena gercke,2026-10-31T16:50:00.000Z,20000,1000
-DE,20,sarah engels,2026-10-31T18:10:00.000Z,5000,1000
+US,1,cardinals vs cowboys,2026-11-01T13:50:00.000Z,200000,1000
+US,2,browns vs steelers,2026-11-01T13:20:00.000Z,100000,1000
+US,3,vikings vs lions,2026-11-01T08:30:00.000Z,200000,1000
+US,4,ravens vs bills,2026-11-01T07:10:00.000Z,100000,1000
+US,5,raiders vs jets,2026-11-01T13:00:00.000Z,100000,1000
+US,6,liverpool vs arsenal,2026-11-01T05:20:00.000Z,200000,1000
+US,7,racing santander vs real madrid,2026-11-01T14:20:00.000Z,200000,1000
+US,8,falcons vs buccaneers,2026-11-01T13:40:00.000Z,50000,1000
+US,9,colts vs jaguars,2026-11-01T16:30:00.000Z,50000,1000
+US,10,titans vs bengals,2026-11-01T17:00:00.000Z,50000,1000
+US,11,what time is it,2026-11-01T04:00:00.000Z,1000000,1000
+US,12,lamar jackson,2026-11-01T18:10:00.000Z,50000,1000
+US,13,nyc marathon tracker,2026-11-01T11:10:00.000Z,100000,1000
+US,14,clemson vs florida state,2026-10-31T21:20:00.000Z,200000,1000
+US,15,bills vs ravens,2026-11-01T08:30:00.000Z,50000,600
+US,16,miami fl vs unc,2026-10-31T22:30:00.000Z,200000,1000
+US,17,heidi klum halloween costumes,2026-10-31T21:30:00.000Z,50000,1000
+US,18,melissa gilbert little house tribute,2026-10-31T18:50:00.000Z,100000,1000
+US,19,chris murphy,2026-11-01T17:30:00.000Z,20000,1000
+US,20,gabby williams,2026-11-01T01:30:00.000Z,500000,1000
+GB,1,liverpool,2026-11-01T16:30:00.000Z,100000,1000
+GB,2,arsenal vs liverpool,2026-11-01T10:10:00.000Z,50000,1000
+GB,3,racing santander vs real madrid,2026-11-01T14:20:00.000Z,50000,1000
+GB,4,ciara mageean,2026-11-01T09:40:00.000Z,50000,1000
+GB,5,hearts vs hibernian,2026-11-01T14:00:00.000Z,50000,1000
+GB,6,bristol bridge collapses,2026-11-01T12:40:00.000Z,10000,1000
+GB,7,landline,2026-11-01T13:10:00.000Z,10000,1000
+GB,8,falkirk vs celtic,2026-11-01T12:00:00.000Z,50000,1000
+GB,9,prince harry kate middleton relationship,2026-11-01T10:50:00.000Z,10000,1000
+GB,10,forest green rovers,2026-11-01T17:40:00.000Z,5000,1000
+GB,11,duchy of cornwall farm valuation dispute,2026-11-01T15:30:00.000Z,10000,1000
+GB,12,strictly come dancing week 6 results,2026-11-01T06:30:00.000Z,20000,1000
+GB,13,guy ritchie,2026-11-01T09:40:00.000Z,10000,1000
+GB,14,university,2026-11-01T09:10:00.000Z,10000,900
+GB,15,steve ellis,2026-11-01T11:50:00.000Z,5000,1000
+GB,16,aurora borealis uk,2026-11-01T17:10:00.000Z,2000,1000
+GB,17,heidi klum halloween costumes,2026-10-31T23:00:00.000Z,10000,1000
+GB,18,new york marathon 2026,2026-11-01T06:40:00.000Z,5000,600
+GB,19,juan atkins,2026-11-01T16:00:00.000Z,2000,1000
+GB,20,pippa middleton,2026-11-01T16:20:00.000Z,2000,1000
+DE,1,eintracht frankfurt – hsv,2026-11-01T15:40:00.000Z,100000,1000
+DE,2,dfb pokal auslosung,2026-11-01T10:40:00.000Z,50000,1000
+DE,3,regina ziegler,2026-11-01T12:40:00.000Z,50000,1000
+DE,4,a7,2026-11-01T12:10:00.000Z,50000,1000
+DE,5,liverpool – arsenal,2026-11-01T15:40:00.000Z,50000,1000
+DE,6,racing santander – real madrid,2026-11-01T14:20:00.000Z,50000,1000
+DE,7,union berlin – köln,2026-11-01T13:40:00.000Z,100000,1000
+DE,8,rettungshubschrauber,2026-11-01T16:50:00.000Z,20000,1000
+DE,9,unterschleißheim,2026-11-01T12:00:00.000Z,20000,1000
+DE,10,ciara mageean,2026-11-01T11:30:00.000Z,20000,1000
+DE,11,st. pauli – fcn,2026-11-01T11:40:00.000Z,50000,1000
+DE,12,karim adeyemi,2026-11-01T11:20:00.000Z,20000,1000
+DE,13,krankenkasse,2026-11-01T09:20:00.000Z,20000,1000
+DE,14,halloween-süßigkeiten gefährlich,2026-11-01T15:50:00.000Z,20000,1000
+DE,15,polizei heide,2026-11-01T15:20:00.000Z,10000,1000
+DE,16,kasımpaşa – beşiktaş,2026-11-01T15:30:00.000Z,10000,1000
+DE,17,kraftstoff,2026-11-01T11:10:00.000Z,20000,1000
+DE,18,lukoil,2026-11-01T09:50:00.000Z,10000,1000
+DE,19,el nino bolivien,2026-11-01T14:30:00.000Z,10000,1000
+DE,20,alemannia – preußen münster,2026-11-01T17:40:00.000Z,5000,1000
 IN,1,bangladesh vs india,2026-11-01T00:40:00.000Z,1000000,1000
-IN,2,sri lanka vs pakistan,2026-10-31T07:30:00.000Z,500000,1000
-IN,3,nidhi razdan,2026-10-31T10:30:00.000Z,200000,1000
-IN,4,barcelona vs alavés,2026-10-31T18:40:00.000Z,100000,1000
-IN,5,bangladesh national cricket team vs india national cricket team match scorecard,2026-11-01T01:20:00.000Z,100000,1000
-IN,6,england vs south africa,2026-11-01T04:30:00.000Z,50000,1000
-IN,7,chelsea vs man utd,2026-10-31T10:00:00.000Z,200000,1000
-IN,8,fc barcelona vs deportivo alavés standings,2026-10-31T21:00:00.000Z,100000,1000
-IN,9,eng vs sa,2026-11-01T04:20:00.000Z,20000,1000
-IN,10,hong kong vs sri lanka,2026-11-01T02:10:00.000Z,50000,1000
-IN,11,chennaiyin vs kerala blasters,2026-10-31T10:30:00.000Z,100000,1000
-IN,12,australia vs uae,2026-10-31T06:20:00.000Z,100000,1000
-IN,13,bayern vs dortmund,2026-10-31T16:40:00.000Z,50000,1000
-IN,14,mohun bagan vs punjab,2026-10-31T13:10:00.000Z,100000,1000
-IN,15,sl vs hk,2026-11-01T01:40:00.000Z,50000,1000
-IN,16,oma vs pak,2026-11-01T05:20:00.000Z,20000,1000
-IN,17,तूफान,2026-10-31T14:00:00.000Z,50000,1000
-IN,18,milan vs inter,2026-10-31T18:50:00.000Z,20000,1000
-IN,19,man city vs brighton & hove albion f.c. standings,2026-10-31T16:50:00.000Z,100000,1000
-IN,20,संजय गुप्ता,2026-10-31T07:30:00.000Z,10000,300
+IN,2,racing santander vs real madrid,2026-11-01T12:10:00.000Z,200000,1000
+IN,3,cyclonic storm murasu,2026-11-01T11:00:00.000Z,200000,1000
+IN,4,india national cricket team vs new zealand national cricket team match scorecard,2026-11-01T06:30:00.000Z,200000,1000
+IN,5,australia vs afghanistan,2026-11-01T06:10:00.000Z,200000,1000
+IN,6,liverpool vs arsenal,2026-11-01T13:10:00.000Z,100000,1000
+IN,7,england vs south africa,2026-11-01T04:30:00.000Z,200000,1000
+IN,8,pakistan vs oman,2026-11-01T06:20:00.000Z,200000,1000
+IN,9,fc barcelona vs deportivo alavés standings,2026-10-31T21:00:00.000Z,100000,1000
+IN,10,india vs new zealand,2026-11-01T06:30:00.000Z,2000000,1000
+IN,11,भारत बनाम न्यूजीलैंड,2026-11-01T06:30:00.000Z,100000,1000
+IN,12,hong kong vs sri lanka,2026-11-01T02:10:00.000Z,100000,1000
+IN,13,royal enfield himalayan 750,2026-11-01T15:30:00.000Z,10000,1000
+IN,14,inter kashi vs goa,2026-11-01T13:10:00.000Z,20000,1000
+IN,15,blair tickner,2026-11-01T06:30:00.000Z,100000,1000
+IN,16,ahoi ashtami ki katha,2026-11-01T02:00:00.000Z,100000,1000
+IN,17,ahoi ashtami vrat katha,2026-11-01T01:50:00.000Z,20000,1000
+IN,18,തിരുവല്ല,2026-11-01T10:20:00.000Z,20000,1000
+IN,19,నెల్లూరు,2026-11-01T10:00:00.000Z,20000,1000
+IN,20,noor ahmad,2026-11-01T14:50:00.000Z,100000,1000
