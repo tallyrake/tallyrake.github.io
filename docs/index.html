@@ -1,0 +1,22 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Tallyrake documentation: how the status figures are counted</title><meta name="description" content="Definitions behind the status page: the canary, what counts as clean, first attempts, windows and the Store table."><link rel="canonical" href="https://tallyrake.com/docs/"><style>:root{--bg:#fff;--fg:#16181c;--muted:#57606a;--accent:#1a4dab;--border:#d8dde3;--ok:#1a7f37}@media(prefers-color-scheme:dark){:root{--bg:#14161a;--fg:#eef0f2;--muted:#a7b0ba;--accent:#7aa7ff;--border:#33383f;--ok:#56d364}}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}main{max-width:760px;margin:0 auto;padding:24px 16px 48px}h1{font-size:1.6rem;margin:.2em 0}h2{font-size:1.15rem;margin:1.6em 0 .5em}p.muted,small{color:var(--muted)}.stats{display:flex;gap:16px;flex-wrap:wrap;margin:12px 0}.stats div{border:1px solid var(--border);border-radius:8px;padding:8px 12px;min-width:120px}.stats b{display:block;font-size:1.3rem;color:var(--ok)}.days{display:flex;gap:6px;margin:8px 0 16px}.day{flex:1;border:1px solid var(--border);border-radius:6px;padding:6px 4px;text-align:center}.day b{display:block}table{border-collapse:collapse;width:100%;font-size:.95rem}td,th{border-bottom:1px solid var(--border);padding:6px 4px;text-align:left}td.n{text-align:right}nav a{color:var(--muted);margin-right:12px}a{color:var(--accent)}</style></head><body><main>
+<nav><a href="/status/">Status</a><a href="/docs/">Documentation</a></nav>
+<h1>Documentation: how the status figures are counted</h1>
+<p class="muted">This page defines every figure on <a href="/status/">the status page</a>. It changes only when the way a figure is counted changes.</p>
+<h2>The canary</h2>
+<p>A scheduled check runs every 120 minutes. Each cycle sends one fresh run of the Google Trends actor through the customer path (a request from outside, through the gateway and a Cloudflare Worker, to the actor on Apify) on a rotating keyword, with the cache bypassed. Cycles that did not run, for example while our host was down, are not counted either way, so every figure covers the cycles that ran.</p>
+<h2>What counts as clean</h2>
+<p>A run is clean only when it returns at least 40 weekly points on the 12-month window, at least 5 top and at least 1 rising related queries, in under 90 seconds. A partial answer counts as a failure, as does any non-200 response.</p>
+<h2>First attempts only</h2>
+<p>A run is the first attempt of a scheduled cycle. A retry after a failure is not counted, because a retry hides the failure it follows. The log began recording first attempts at 2026-10-21 18:14 UTC; earlier rows logged only the retry and are not counted.</p>
+<h2>Windows</h2>
+<p>Last 24 hours, last 7 days and last 30 days are counted back from the time the page was generated, and the 7-day and 30-day boxes appear only when the log spans that long (the 24-hour box is always shown). When the newest reading is older than a window, the box says "no reading since" and that date, and prints no percentage. The per-day strip shows readings in the log for that UTC day, which can be more or fewer than 12.</p>
+<h2>The "From ... through ..." box</h2>
+<p>While the log is younger than 30 days, one box states both ends of the interval it covers: the first counted reading and the newest one.</p>
+<h2>Failures list</h2>
+<p>The newest failures among the counted readings, with time, keyword and what came back.</p>
+<h2>Store table</h2>
+<p>For each Tallyrake actor on Apify Store with more than 2 users in the last 30 days: the number of users, the number of runs by accounts other than ours, the share of those runs that did not fail, and the latest build. Success is 100 minus the failed share of those runs as Apify reports it; when Apify gives no failed share the cell says "not measured".</p>
+<h2>Limits</h2>
+<p>The canary tests one actor on one rotating keyword at a time; it is a sample, not every request. The Store figures cover runs by other accounts on the Store and are read from Apify's own counters.</p>
+<footer><p class="muted"><small>Tallyrake.</small></p></footer>
+</main><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "8dc726602e9c4858a552c988fa485716"}'></script></body></html>
