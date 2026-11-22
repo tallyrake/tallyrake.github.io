@@ -1,81 +1,81 @@
 geo,position,title,startedAt,searchVolume,growthPercent
-US,1,ohio state vs nebraska,2026-11-21T10:40:00.000Z,200000,1000
-US,2,bucks vs 76ers,2026-11-21T17:00:00.000Z,50000,1000
-US,3,vanderbilt vs florida,2026-11-21T16:00:00.000Z,50000,1000
-US,4,newcastle vs arsenal,2026-11-21T16:30:00.000Z,50000,1000
-US,5,chattanooga vs alabama,2026-11-21T18:00:00.000Z,50000,1000
-US,6,5th circuit proxy voting ruling,2026-11-21T03:20:00.000Z,50000,1000
-US,7,nice vs psg,2026-11-21T15:20:00.000Z,50000,1000
-US,8,colorado vs cincinnati,2026-11-21T16:00:00.000Z,20000,1000
-US,9,oregon vs mi state,2026-11-21T00:00:00.000Z,200000,1000
-US,10,kings vs lakers,2026-11-21T02:10:00.000Z,100000,1000
-US,11,byu vs kansas,2026-11-21T11:30:00.000Z,50000,1000
-US,12,wisconsin vs purdue,2026-11-21T16:00:00.000Z,20000,1000
-US,13,nascar team owner wayne darling,2026-11-21T02:00:00.000Z,50000,1000
-US,14,northwestern vs minnesota,2026-11-21T16:00:00.000Z,20000,1000
-US,15,chelsea vs leeds,2026-11-21T14:00:00.000Z,50000,1000
-US,16,clemson vs duke,2026-11-20T22:30:00.000Z,200000,1000
-US,17,george lopez,2026-11-21T01:30:00.000Z,20000,1000
-US,18,wofford vs ole miss,2026-11-21T16:00:00.000Z,20000,1000
-US,19,fbi ten most wanted fugitives,2026-11-21T09:50:00.000Z,50000,1000
-US,20,costco thanksgiving holiday store closures,2026-11-21T15:20:00.000Z,20000,1000
+US,1,ohio state vs nebraska,2026-11-21T10:40:00.000Z,1000000,1000
+US,2,georgia vs south carolina,2026-11-21T14:30:00.000Z,200000,1000
+US,3,lsu vs tennessee,2026-11-21T10:00:00.000Z,500000,1000
+US,4,celtics vs kings,2026-11-22T02:00:00.000Z,50000,1000
+US,5,real madrid vs celta,2026-11-21T19:10:00.000Z,200000,1000
+US,6,trail blazers vs knicks,2026-11-21T23:30:00.000Z,100000,1000
+US,7,virginia tech vs miami fl,2026-11-21T23:10:00.000Z,200000,1000
+US,8,utah vs tcu,2026-11-21T23:50:00.000Z,50000,1000
+US,9,tigres - américa,2026-11-22T02:10:00.000Z,100000,1000
+US,10,bucks vs 76ers,2026-11-21T17:00:00.000Z,200000,1000
+US,11,oklahoma st vs arizona state,2026-11-22T02:20:00.000Z,50000,1000
+US,12,indiana vs washington,2026-11-21T19:30:00.000Z,200000,1000
+US,13,pelicans vs spurs,2026-11-22T00:00:00.000Z,100000,1000
+US,14,smu vs notre dame,2026-11-21T23:00:00.000Z,100000,1000
+US,15,arkansas vs texas,2026-11-21T18:10:00.000Z,200000,1000
+US,16,san diego st vs boise state,2026-11-22T01:30:00.000Z,20000,1000
+US,17,chattanooga vs alabama,2026-11-21T18:00:00.000Z,200000,1000
+US,18,real madrid - celta de vigo,2026-11-21T19:10:00.000Z,200000,1000
+US,19,kentucky vs missouri,2026-11-21T23:00:00.000Z,50000,1000
+US,20,miley cyrus,2026-11-22T00:10:00.000Z,50000,900
 GB,1,newcastle vs arsenal,2026-11-21T13:00:00.000Z,200000,1000
-GB,2,man city vs fulham,2026-11-21T11:10:00.000Z,200000,1000
-GB,3,chelsea vs leeds,2026-11-21T13:40:00.000Z,200000,1000
-GB,4,ireland vs south africa,2026-11-21T10:50:00.000Z,50000,1000
-GB,5,england rugby,2026-11-21T13:40:00.000Z,200000,1000
-GB,6,spurs vs ipswich town,2026-11-21T14:00:00.000Z,50000,1000
-GB,7,catherine zeta-jones daughter carys,2026-11-20T19:50:00.000Z,50000,1000
-GB,8,aston villa vs sunderland,2026-11-21T14:00:00.000Z,50000,1000
-GB,9,coventry vs palace,2026-11-21T14:10:00.000Z,50000,1000
-GB,10,hypertension,2026-11-21T04:00:00.000Z,50000,1000
-GB,11,uk eu food trade deal,2026-11-20T19:10:00.000Z,50000,1000
-GB,12,ireland v south africa,2026-11-21T13:20:00.000Z,20000,1000
-GB,13,bournemouth vs nottm forest,2026-11-21T14:00:00.000Z,20000,1000
-GB,14,lewis moody,2026-11-21T13:20:00.000Z,20000,1000
-GB,15,nice vs psg,2026-11-21T15:20:00.000Z,10000,1000
-GB,16,scotland vs japan,2026-11-21T12:00:00.000Z,50000,1000
-GB,17,strictly come dancing blackpool special,2026-11-21T06:20:00.000Z,20000,1000
-GB,18,dundee vs hearts,2026-11-21T16:50:00.000Z,10000,1000
-GB,19,celtic vs st. mirren,2026-11-21T14:10:00.000Z,50000,1000
-GB,20,west ham vs preston,2026-11-21T14:00:00.000Z,20000,1000
-DE,1,schalke – vfb stuttgart,2026-11-21T16:40:00.000Z,100000,1000
-DE,2,mönchengladbach – dortmund,2026-11-21T13:40:00.000Z,200000,1000
-DE,3,schneewalze,2026-11-21T12:20:00.000Z,200000,1000
-DE,4,syndesmosebandriss,2026-11-20T22:00:00.000Z,100000,1000
-DE,5,finnland,2026-11-21T14:40:00.000Z,20000,1000
-DE,6,kronprinz,2026-11-21T07:10:00.000Z,20000,1000
-DE,7,kocaelispor – fenerbahçe,2026-11-21T15:10:00.000Z,20000,1000
-DE,8,union berlin – rb leipzig,2026-11-21T13:40:00.000Z,50000,1000
-DE,9,newcastle – arsenal,2026-11-21T16:40:00.000Z,10000,1000
-DE,10,lumumba,2026-11-21T12:10:00.000Z,10000,1000
-DE,11,mick flick,2026-11-21T12:20:00.000Z,20000,1000
-DE,12,energie,2026-11-21T16:30:00.000Z,10000,1000
-DE,13,eintracht frankfurt – hoffenheim,2026-11-21T13:40:00.000Z,50000,1000
-DE,14,til schweiger ndr talkshow,2026-11-21T10:50:00.000Z,20000,1000
-DE,15,rummenigge musiala,2026-11-20T21:50:00.000Z,50000,1000
-DE,16,alemannia – sv waldhof,2026-11-21T14:50:00.000Z,10000,1000
-DE,17,inkofen,2026-11-21T07:10:00.000Z,20000,1000
-DE,18,ki riemannsche vermutung,2026-11-20T21:30:00.000Z,20000,1000
-DE,19,wüste,2026-11-21T16:50:00.000Z,5000,1000
-DE,20,kartoffel,2026-11-21T15:00:00.000Z,5000,1000
-IN,1,newcastle vs arsenal,2026-11-21T16:30:00.000Z,20000,1000
+GB,2,chelsea vs leeds,2026-11-21T13:40:00.000Z,200000,1000
+GB,3,real madrid vs celta,2026-11-21T19:10:00.000Z,50000,1000
+GB,4,man city vs fulham,2026-11-21T11:10:00.000Z,200000,1000
+GB,5,wales vs australia,2026-11-21T08:40:00.000Z,100000,1000
+GB,6,strictly come dancing blackpool disruption,2026-11-22T00:30:00.000Z,20000,1000
+GB,7,lewis moody,2026-11-21T13:20:00.000Z,50000,1000
+GB,8,motherwell vs rangers,2026-11-21T19:00:00.000Z,50000,1000
+GB,9,spurs vs ipswich town,2026-11-21T14:00:00.000Z,50000,1000
+GB,10,gulf of finland ship strike,2026-11-21T19:20:00.000Z,20000,1000
+GB,11,charles leclerc las vegas qualifying q2,2026-11-21T08:50:00.000Z,10000,1000
+GB,12,jonathan dimbleby defends king charles,2026-11-21T09:20:00.000Z,10000,1000
+GB,13,aston villa vs sunderland,2026-11-21T14:00:00.000Z,50000,1000
+GB,14,eddie howe training ground visit,2026-11-21T11:30:00.000Z,10000,1000
+GB,15,us navy trump class warships cost,2026-11-21T14:10:00.000Z,10000,800
+GB,16,jet2 new kestrel aircraft seats,2026-11-21T09:50:00.000Z,10000,1000
+GB,17,sir tony blair eu position,2026-11-21T20:50:00.000Z,5000,1000
+GB,18,ireland vs south africa,2026-11-21T10:50:00.000Z,100000,1000
+GB,19,neustrashimy class frigate,2026-11-21T13:40:00.000Z,10000,1000
+GB,20,inter miami vs columbus,2026-11-21T22:20:00.000Z,5000,1000
+DE,1,schneewalze,2026-11-21T12:20:00.000Z,200000,1000
+DE,2,kronprinz,2026-11-21T07:10:00.000Z,20000,1000
+DE,3,energie,2026-11-21T16:30:00.000Z,50000,1000
+DE,4,finnland,2026-11-21T14:40:00.000Z,50000,1000
+DE,5,real madrid – celta,2026-11-21T19:10:00.000Z,50000,1000
+DE,6,schalke – vfb stuttgart,2026-11-21T16:40:00.000Z,100000,1000
+DE,7,kartoffel,2026-11-21T15:00:00.000Z,20000,1000
+DE,8,gladbach dortmund,2026-11-21T14:00:00.000Z,200000,1000
+DE,9,narumol und josef,2026-11-21T17:40:00.000Z,20000,1000
+DE,10,lumumba,2026-11-21T12:10:00.000Z,20000,1000
+DE,11,julian luginger tischtennis,2026-11-21T19:30:00.000Z,20000,1000
+DE,12,mick flick,2026-11-21T12:20:00.000Z,20000,1000
+DE,13,wüste,2026-11-21T16:50:00.000Z,10000,1000
+DE,14,st. pauli – bochum,2026-11-21T18:40:00.000Z,20000,1000
+DE,15,die giovanni zarrella show,2026-11-22T03:40:00.000Z,20000,1000
+DE,16,dominik stuckmann,2026-11-21T16:00:00.000Z,10000,1000
+DE,17,newcastle – arsenal,2026-11-21T16:40:00.000Z,20000,1000
+DE,18,harry kane,2026-11-22T03:40:00.000Z,5000,700
+DE,19,herzogin elisabeth in bayern,2026-11-21T17:40:00.000Z,5000,800
+DE,20,sarah connor,2026-11-21T07:30:00.000Z,10000,700
+IN,1,real madrid vs celta,2026-11-21T17:50:00.000Z,200000,1000
 IN,2,man city vs fulham,2026-11-21T11:30:00.000Z,100000,1000
-IN,3,nice vs psg,2026-11-21T15:20:00.000Z,50000,1000
-IN,4,chelsea vs leeds,2026-11-21T14:10:00.000Z,50000,1000
-IN,5,northeast united vs goa,2026-11-21T13:10:00.000Z,50000,1000
-IN,6,lachlan shaw,2026-11-20T23:40:00.000Z,50000,1000
-IN,7,sam harper,2026-11-20T23:20:00.000Z,20000,1000
-IN,8,sri lanka a vs hong kong,2026-11-21T05:40:00.000Z,50000,1000
-IN,9,tim david,2026-11-21T02:00:00.000Z,200000,900
-IN,10,well marked low pressure area akvan,2026-11-20T22:40:00.000Z,20000,1000
-IN,11,motorola android 17 eligible phones,2026-11-21T08:10:00.000Z,10000,900
-IN,12,ogc nice vs psg standings,2026-11-21T18:30:00.000Z,5000,1000
-IN,13,chennaiyin vs punjab,2026-11-21T10:40:00.000Z,50000,1000
-IN,14,ಚಿನ್ನದ ಬೆಲೆ,2026-11-21T10:20:00.000Z,10000,1000
-IN,15,vishal chaturvedi,2026-11-21T07:10:00.000Z,10000,800
-IN,16,desert vipers vs mi emirates,2026-11-21T13:00:00.000Z,20000,900
-IN,17,நக்கீரன்,2026-11-21T05:50:00.000Z,20000,1000
-IN,18,rrb paramedical admit card,2026-11-21T05:20:00.000Z,10000,600
-IN,19,parma vs roma,2026-11-21T16:10:00.000Z,5000,1000
-IN,20,international league t20,2026-11-21T11:40:00.000Z,5000,600
+IN,3,uae vs nepal,2026-11-22T05:10:00.000Z,20000,1000
+IN,4,real madrid vs rc celta de vigo standings,2026-11-21T20:40:00.000Z,50000,1000
+IN,5,newcastle vs arsenal,2026-11-21T16:30:00.000Z,100000,1000
+IN,6,nice vs psg,2026-11-21T15:20:00.000Z,50000,1000
+IN,7,inter miami vs columbus,2026-11-21T22:20:00.000Z,50000,1000
+IN,8,motorola android 17 eligible phones,2026-11-21T08:10:00.000Z,20000,1000
+IN,9,chelsea vs leeds,2026-11-21T14:10:00.000Z,50000,1000
+IN,10,joel davies,2026-11-21T07:50:00.000Z,200000,1000
+IN,11,northeast united vs goa,2026-11-21T13:10:00.000Z,50000,1000
+IN,12,vishal chaturvedi,2026-11-21T07:10:00.000Z,20000,800
+IN,13,scotland vs pakistan,2026-11-22T04:30:00.000Z,10000,1000
+IN,14,bpms 8th pay commission demand,2026-11-21T16:50:00.000Z,20000,1000
+IN,15,రిషబ్ పంత్,2026-11-21T18:10:00.000Z,10000,1000
+IN,16,india a vs pakistan a,2026-11-21T12:20:00.000Z,20000,200
+IN,17,cet exam city 2026,2026-11-21T09:00:00.000Z,10000,400
+IN,18,ogc nice vs psg standings,2026-11-21T18:30:00.000Z,10000,1000
+IN,19,निखिल चौधरी,2026-11-21T08:10:00.000Z,10000,400
+IN,20,सोना,2026-11-22T05:50:00.000Z,5000,900
