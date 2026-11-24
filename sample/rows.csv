@@ -1,398 +1,394 @@
 type,term,geo,timeRange,time,formattedTime,value,isPartial,list,rank,query,formattedValue,link,fetchedAt,id
-interestOverTime,coffee,US,today 3-m,2026-08-23T00:00:00.000Z,"Aug 23, 2026",86,false,,,,,,2026-11-23T12:32:08.464Z,f909275ee618b5fc
-interestOverTime,coffee,US,today 3-m,2026-08-24T00:00:00.000Z,"Aug 24, 2026",74,false,,,,,,2026-11-23T12:32:08.464Z,4730fae14063c70f
-interestOverTime,coffee,US,today 3-m,2026-08-25T00:00:00.000Z,"Aug 25, 2026",71,false,,,,,,2026-11-23T12:32:08.464Z,0db4d73d17ef4a1c
-interestOverTime,coffee,US,today 3-m,2026-08-26T00:00:00.000Z,"Aug 26, 2026",69,false,,,,,,2026-11-23T12:32:08.464Z,ef820aa758f7c5a8
-interestOverTime,coffee,US,today 3-m,2026-08-27T00:00:00.000Z,"Aug 27, 2026",68,false,,,,,,2026-11-23T12:32:08.464Z,8458f2fcb4e648d2
-interestOverTime,coffee,US,today 3-m,2026-08-28T00:00:00.000Z,"Aug 28, 2026",69,false,,,,,,2026-11-23T12:32:08.464Z,928d0fa718ffbb3e
-interestOverTime,coffee,US,today 3-m,2026-08-29T00:00:00.000Z,"Aug 29, 2026",88,false,,,,,,2026-11-23T12:32:08.464Z,a8c44f1ccc3d6c76
-interestOverTime,coffee,US,today 3-m,2026-08-30T00:00:00.000Z,"Aug 30, 2026",92,false,,,,,,2026-11-23T12:32:08.464Z,8ed4ecca16036512
-interestOverTime,coffee,US,today 3-m,2026-08-31T00:00:00.000Z,"Aug 31, 2026",68,false,,,,,,2026-11-23T12:32:08.464Z,95fef74d88ada230
-interestOverTime,coffee,US,today 3-m,2026-09-01T00:00:00.000Z,"Sep 1, 2026",67,false,,,,,,2026-11-23T12:32:08.464Z,68791f9a2f4e8b69
-interestOverTime,coffee,US,today 3-m,2026-09-02T00:00:00.000Z,"Sep 2, 2026",66,false,,,,,,2026-11-23T12:32:08.464Z,754fd0e863dc1251
-interestOverTime,coffee,US,today 3-m,2026-09-03T00:00:00.000Z,"Sep 3, 2026",69,false,,,,,,2026-11-23T12:32:08.464Z,bbb5083e48aac545
-interestOverTime,coffee,US,today 3-m,2026-09-04T00:00:00.000Z,"Sep 4, 2026",74,false,,,,,,2026-11-23T12:32:08.464Z,5428478a1a8cc497
-interestOverTime,coffee,US,today 3-m,2026-09-05T00:00:00.000Z,"Sep 5, 2026",92,false,,,,,,2026-11-23T12:32:08.464Z,ccff9f786ea379b9
-interestOverTime,coffee,US,today 3-m,2026-09-06T00:00:00.000Z,"Sep 6, 2026",100,false,,,,,,2026-11-23T12:32:08.464Z,ec18da2b29c2dbd5
-interestOverTime,coffee,US,today 3-m,2026-09-07T00:00:00.000Z,"Sep 7, 2026",98,false,,,,,,2026-11-23T12:32:08.464Z,595b1bf3a18dff63
-interestOverTime,coffee,US,today 3-m,2026-09-08T00:00:00.000Z,"Sep 8, 2026",70,false,,,,,,2026-11-23T12:32:08.464Z,43ab07486e388dfd
-interestOverTime,coffee,US,today 3-m,2026-09-09T00:00:00.000Z,"Sep 9, 2026",67,false,,,,,,2026-11-23T12:32:08.464Z,08333b8902320f6d
-interestOverTime,coffee,US,today 3-m,2026-09-10T00:00:00.000Z,"Sep 10, 2026",66,false,,,,,,2026-11-23T12:32:08.464Z,09ab76aa1761e36f
-interestOverTime,coffee,US,today 3-m,2026-09-11T00:00:00.000Z,"Sep 11, 2026",70,false,,,,,,2026-11-23T12:32:08.464Z,5290c2e696f80346
-interestOverTime,coffee,US,today 3-m,2026-09-12T00:00:00.000Z,"Sep 12, 2026",82,false,,,,,,2026-11-23T12:32:08.464Z,29a2bcbaee1ed181
-interestOverTime,coffee,US,today 3-m,2026-09-13T00:00:00.000Z,"Sep 13, 2026",89,false,,,,,,2026-11-23T12:32:08.464Z,4aaf44a78a349627
-interestOverTime,coffee,US,today 3-m,2026-09-14T00:00:00.000Z,"Sep 14, 2026",79,false,,,,,,2026-11-23T12:32:08.464Z,404aa58869d8da87
-interestOverTime,coffee,US,today 3-m,2026-09-15T00:00:00.000Z,"Sep 15, 2026",70,false,,,,,,2026-11-23T12:32:08.464Z,c8856ca9f32df947
-interestOverTime,coffee,US,today 3-m,2026-09-16T00:00:00.000Z,"Sep 16, 2026",70,false,,,,,,2026-11-23T12:32:08.464Z,6afc8a3c9635da46
-interestOverTime,coffee,US,today 3-m,2026-09-17T00:00:00.000Z,"Sep 17, 2026",72,false,,,,,,2026-11-23T12:32:08.464Z,a505337e35fefcb9
-interestOverTime,coffee,US,today 3-m,2026-09-18T00:00:00.000Z,"Sep 18, 2026",75,false,,,,,,2026-11-23T12:32:08.464Z,a5077a7d10d6f16e
-interestOverTime,coffee,US,today 3-m,2026-09-19T00:00:00.000Z,"Sep 19, 2026",85,false,,,,,,2026-11-23T12:32:08.464Z,7afa16f09466bb7f
-interestOverTime,coffee,US,today 3-m,2026-09-20T00:00:00.000Z,"Sep 20, 2026",93,false,,,,,,2026-11-23T12:32:08.464Z,324daf2d51215b44
-interestOverTime,coffee,US,today 3-m,2026-09-21T00:00:00.000Z,"Sep 21, 2026",69,false,,,,,,2026-11-23T12:32:08.464Z,6f0bc79fcb286b97
-interestOverTime,coffee,US,today 3-m,2026-09-22T00:00:00.000Z,"Sep 22, 2026",72,false,,,,,,2026-11-23T12:32:08.464Z,6d008e2a9e6f82fb
-interestOverTime,coffee,US,today 3-m,2026-09-23T00:00:00.000Z,"Sep 23, 2026",81,false,,,,,,2026-11-23T12:32:08.464Z,9d9cfa894a2ba37b
-interestOverTime,coffee,US,today 3-m,2026-09-24T00:00:00.000Z,"Sep 24, 2026",74,false,,,,,,2026-11-23T12:32:08.464Z,01845f7afeffefcb
-interestOverTime,coffee,US,today 3-m,2026-09-25T00:00:00.000Z,"Sep 25, 2026",82,false,,,,,,2026-11-23T12:32:08.464Z,9c7e72ceeabd99ed
-interestOverTime,coffee,US,today 3-m,2026-09-26T00:00:00.000Z,"Sep 26, 2026",90,false,,,,,,2026-11-23T12:32:08.464Z,01e8db41fcca975e
-interestOverTime,coffee,US,today 3-m,2026-09-27T00:00:00.000Z,"Sep 27, 2026",82,false,,,,,,2026-11-23T12:32:08.464Z,5e59f95d5e56c234
-interestOverTime,coffee,US,today 3-m,2026-09-28T00:00:00.000Z,"Sep 28, 2026",72,false,,,,,,2026-11-23T12:32:08.464Z,adc5894c37e791b3
-interestOverTime,coffee,US,today 3-m,2026-09-29T00:00:00.000Z,"Sep 29, 2026",95,false,,,,,,2026-11-23T12:32:08.464Z,58227bbc3e4883f9
-interestOverTime,coffee,US,today 3-m,2026-09-30T00:00:00.000Z,"Sep 30, 2026",69,false,,,,,,2026-11-23T12:32:08.464Z,4d248c2d475bf90a
-interestOverTime,coffee,US,today 3-m,2026-10-01T00:00:00.000Z,"Oct 1, 2026",66,false,,,,,,2026-11-23T12:32:08.464Z,e93a58737fc7599b
-interestOverTime,coffee,US,today 3-m,2026-10-02T00:00:00.000Z,"Oct 2, 2026",71,false,,,,,,2026-11-23T12:32:08.464Z,75e59c09b35d1dc2
-interestOverTime,coffee,US,today 3-m,2026-10-03T00:00:00.000Z,"Oct 3, 2026",84,false,,,,,,2026-11-23T12:32:08.464Z,b409a9ac17b626e2
-interestOverTime,coffee,US,today 3-m,2026-10-04T00:00:00.000Z,"Oct 4, 2026",84,false,,,,,,2026-11-23T12:32:08.464Z,b4711af83463c82d
-interestOverTime,coffee,US,today 3-m,2026-10-05T00:00:00.000Z,"Oct 5, 2026",74,false,,,,,,2026-11-23T12:32:08.464Z,1aa6c053e1b58155
-interestOverTime,coffee,US,today 3-m,2026-10-06T00:00:00.000Z,"Oct 6, 2026",71,false,,,,,,2026-11-23T12:32:08.464Z,b7d4f29c0a357df9
-interestOverTime,coffee,US,today 3-m,2026-10-07T00:00:00.000Z,"Oct 7, 2026",72,false,,,,,,2026-11-23T12:32:08.464Z,e6c3417a524b2f40
-interestOverTime,coffee,US,today 3-m,2026-10-08T00:00:00.000Z,"Oct 8, 2026",67,false,,,,,,2026-11-23T12:32:08.464Z,57e7d4606b7e8e0e
-interestOverTime,coffee,US,today 3-m,2026-10-09T00:00:00.000Z,"Oct 9, 2026",74,false,,,,,,2026-11-23T12:32:08.464Z,56a2e04ad28761d7
-interestOverTime,coffee,US,today 3-m,2026-10-10T00:00:00.000Z,"Oct 10, 2026",98,false,,,,,,2026-11-23T12:32:08.464Z,73dce268aa85f923
-interestOverTime,coffee,US,today 3-m,2026-10-11T00:00:00.000Z,"Oct 11, 2026",92,false,,,,,,2026-11-23T12:32:08.464Z,5e3dc2df938ab96c
-interestOverTime,coffee,US,today 3-m,2026-10-12T00:00:00.000Z,"Oct 12, 2026",74,false,,,,,,2026-11-23T12:32:08.464Z,a134029d8246a933
-interestOverTime,coffee,US,today 3-m,2026-10-13T00:00:00.000Z,"Oct 13, 2026",72,false,,,,,,2026-11-23T12:32:08.464Z,c84ddfb40e800f90
-interestOverTime,coffee,US,today 3-m,2026-10-14T00:00:00.000Z,"Oct 14, 2026",66,false,,,,,,2026-11-23T12:32:08.464Z,46db78aaa258185a
-interestOverTime,coffee,US,today 3-m,2026-10-15T00:00:00.000Z,"Oct 15, 2026",66,false,,,,,,2026-11-23T12:32:08.464Z,98db79c4b8d3e5ea
-interestOverTime,coffee,US,today 3-m,2026-10-16T00:00:00.000Z,"Oct 16, 2026",68,false,,,,,,2026-11-23T12:32:08.464Z,64020f8c8aca476c
-interestOverTime,coffee,US,today 3-m,2026-10-17T00:00:00.000Z,"Oct 17, 2026",86,false,,,,,,2026-11-23T12:32:08.464Z,5e1c952249e1f3ed
-interestOverTime,coffee,US,today 3-m,2026-10-18T00:00:00.000Z,"Oct 18, 2026",86,false,,,,,,2026-11-23T12:32:08.464Z,70d6849703201516
-interestOverTime,coffee,US,today 3-m,2026-10-19T00:00:00.000Z,"Oct 19, 2026",65,false,,,,,,2026-11-23T12:32:08.464Z,522cba810708acec
-interestOverTime,coffee,US,today 3-m,2026-10-20T00:00:00.000Z,"Oct 20, 2026",63,false,,,,,,2026-11-23T12:32:08.464Z,44583eee35810ca6
-interestOverTime,coffee,US,today 3-m,2026-10-21T00:00:00.000Z,"Oct 21, 2026",67,false,,,,,,2026-11-23T12:32:08.464Z,84ce91a06268f4d6
-interestOverTime,coffee,US,today 3-m,2026-10-22T00:00:00.000Z,"Oct 22, 2026",66,false,,,,,,2026-11-23T12:32:08.464Z,92b52ecc7f7d9631
-interestOverTime,coffee,US,today 3-m,2026-10-23T00:00:00.000Z,"Oct 23, 2026",67,false,,,,,,2026-11-23T12:32:08.464Z,c85fb7e8092d8644
-interestOverTime,coffee,US,today 3-m,2026-10-24T00:00:00.000Z,"Oct 24, 2026",85,false,,,,,,2026-11-23T12:32:08.464Z,d505feb8782dd337
-interestOverTime,coffee,US,today 3-m,2026-10-25T00:00:00.000Z,"Oct 25, 2026",87,false,,,,,,2026-11-23T12:32:08.464Z,5030c57be5f6f19a
-interestOverTime,coffee,US,today 3-m,2026-10-26T00:00:00.000Z,"Oct 26, 2026",64,false,,,,,,2026-11-23T12:32:08.464Z,2bebcf5197aadaca
-interestOverTime,coffee,US,today 3-m,2026-10-27T00:00:00.000Z,"Oct 27, 2026",66,false,,,,,,2026-11-23T12:32:08.464Z,ddb8366b15ea29a0
-interestOverTime,coffee,US,today 3-m,2026-10-28T00:00:00.000Z,"Oct 28, 2026",62,false,,,,,,2026-11-23T12:32:08.464Z,f3275a3e820b1a23
-interestOverTime,coffee,US,today 3-m,2026-10-29T00:00:00.000Z,"Oct 29, 2026",63,false,,,,,,2026-11-23T12:32:08.464Z,5c9e53c5b85f6505
-interestOverTime,coffee,US,today 3-m,2026-10-30T00:00:00.000Z,"Oct 30, 2026",63,false,,,,,,2026-11-23T12:32:08.464Z,499e6eec26407a4d
-interestOverTime,coffee,US,today 3-m,2026-10-31T00:00:00.000Z,"Oct 31, 2026",77,false,,,,,,2026-11-23T12:32:08.464Z,50b5f4ac6f323097
-interestOverTime,coffee,US,today 3-m,2026-11-01T00:00:00.000Z,"Nov 1, 2026",86,false,,,,,,2026-11-23T12:32:08.464Z,976097fdb9a8f609
-interestOverTime,coffee,US,today 3-m,2026-11-02T00:00:00.000Z,"Nov 2, 2026",64,false,,,,,,2026-11-23T12:32:08.464Z,f8c3350ad14851d2
-interestOverTime,coffee,US,today 3-m,2026-11-03T00:00:00.000Z,"Nov 3, 2026",62,false,,,,,,2026-11-23T12:32:08.464Z,6e727d4dbf69d31d
-interestOverTime,coffee,US,today 3-m,2026-11-04T00:00:00.000Z,"Nov 4, 2026",54,false,,,,,,2026-11-23T12:32:08.464Z,a6249e909da7a1bc
-interestOverTime,coffee,US,today 3-m,2026-11-05T00:00:00.000Z,"Nov 5, 2026",63,false,,,,,,2026-11-23T12:32:08.464Z,7c825aca1650591c
-interestOverTime,coffee,US,today 3-m,2026-11-06T00:00:00.000Z,"Nov 6, 2026",67,false,,,,,,2026-11-23T12:32:08.464Z,15ce5f46e662757b
-interestOverTime,coffee,US,today 3-m,2026-11-07T00:00:00.000Z,"Nov 7, 2026",85,false,,,,,,2026-11-23T12:32:08.464Z,7a93db9aeee68ec8
-interestOverTime,coffee,US,today 3-m,2026-11-08T00:00:00.000Z,"Nov 8, 2026",94,false,,,,,,2026-11-23T12:32:08.464Z,0752b11a90b5dc2a
-interestOverTime,coffee,US,today 3-m,2026-11-09T00:00:00.000Z,"Nov 9, 2026",64,false,,,,,,2026-11-23T12:32:08.464Z,509b5a63da3e898c
-interestOverTime,coffee,US,today 3-m,2026-11-10T00:00:00.000Z,"Nov 10, 2026",65,false,,,,,,2026-11-23T12:32:08.464Z,d267d397405fcf06
-interestOverTime,coffee,US,today 3-m,2026-11-11T00:00:00.000Z,"Nov 11, 2026",78,false,,,,,,2026-11-23T12:32:08.464Z,d230bb99d4820100
-interestOverTime,coffee,US,today 3-m,2026-11-12T00:00:00.000Z,"Nov 12, 2026",65,false,,,,,,2026-11-23T12:32:08.464Z,37f547f57d6db59e
-interestOverTime,coffee,US,today 3-m,2026-11-13T00:00:00.000Z,"Nov 13, 2026",68,false,,,,,,2026-11-23T12:32:08.464Z,878dddc8b6578247
-interestOverTime,coffee,US,today 3-m,2026-11-14T00:00:00.000Z,"Nov 14, 2026",90,false,,,,,,2026-11-23T12:32:08.464Z,d05ea58f1e870389
-interestOverTime,coffee,US,today 3-m,2026-11-15T00:00:00.000Z,"Nov 15, 2026",87,false,,,,,,2026-11-23T12:32:08.464Z,7a6464e36330759f
-interestOverTime,coffee,US,today 3-m,2026-11-16T00:00:00.000Z,"Nov 16, 2026",66,false,,,,,,2026-11-23T12:32:08.464Z,ca0f105510fdf486
-interestOverTime,coffee,US,today 3-m,2026-11-17T00:00:00.000Z,"Nov 17, 2026",63,false,,,,,,2026-11-23T12:32:08.464Z,51c2584df449aca4
-interestOverTime,coffee,US,today 3-m,2026-11-18T00:00:00.000Z,"Nov 18, 2026",66,false,,,,,,2026-11-23T12:32:08.464Z,42f7036860ffd447
-interestOverTime,coffee,US,today 3-m,2026-11-19T00:00:00.000Z,"Nov 19, 2026",70,false,,,,,,2026-11-23T12:32:08.464Z,d1d981adc52ea1ed
-interestOverTime,coffee,US,today 3-m,2026-11-20T00:00:00.000Z,"Nov 20, 2026",70,false,,,,,,2026-11-23T12:32:08.464Z,a3b2ab02e418f138
-interestOverTime,coffee,US,today 3-m,2026-11-21T00:00:00.000Z,"Nov 21, 2026",86,false,,,,,,2026-11-23T12:32:08.464Z,96edc3f9a37fdae4
-interestOverTime,coffee,US,today 3-m,2026-11-22T00:00:00.000Z,"Nov 22, 2026",87,false,,,,,,2026-11-23T12:32:08.464Z,c8166a43a28c452f
-interestOverTime,coffee,US,today 3-m,2026-11-23T00:00:00.000Z,"Nov 23, 2026",62,true,,,,,,2026-11-23T12:32:08.464Z,2a99734a7b36e0f0
-relatedQueries,coffee,US,,,,100,,top,0,coffee near me,100,https://trends.google.com/trends/explore?q=coffee+near+me&date=today+3-m&geo=US,2026-11-23T12:32:08.464Z,0f0ffd6fbc473500
-relatedQueries,coffee,US,,,,84,,top,1,coffee shop,84,https://trends.google.com/trends/explore?q=coffee+shop&date=today+3-m&geo=US,2026-11-23T12:32:08.464Z,172b002ab25dde86
-relatedQueries,coffee,US,,,,72,,top,2,coffee shops,72,https://trends.google.com/trends/explore?q=coffee+shops&date=today+3-m&geo=US,2026-11-23T12:32:08.464Z,46d57cc67bcee54f
-relatedQueries,coffee,US,,,,65,,top,3,coffee maker,65,https://trends.google.com/trends/explore?q=coffee+maker&date=today+3-m&geo=US,2026-11-23T12:32:08.464Z,9d85d6c66f6fb7a8
-relatedQueries,coffee,US,,,,57,,top,4,coffee table,57,https://trends.google.com/trends/explore?q=coffee+table&date=today+3-m&geo=US,2026-11-23T12:32:08.464Z,8dd500db1ade030f
-relatedQueries,coffee,US,,,,53,,top,5,coffee cup,53,https://trends.google.com/trends/explore?q=coffee+cup&date=today+3-m&geo=US,2026-11-23T12:32:08.464Z,42328a9fdf47b3bd
-relatedQueries,coffee,US,,,,36,,top,6,starbucks coffee,36,https://trends.google.com/trends/explore?q=starbucks+coffee&date=today+3-m&geo=US,2026-11-23T12:32:08.464Z,ab86fe6c844074fc
-relatedQueries,coffee,US,,,,33,,top,7,coffee machine,33,https://trends.google.com/trends/explore?q=coffee+machine&date=today+3-m&geo=US,2026-11-23T12:32:08.464Z,8eea8ee24544ff66
-relatedQueries,coffee,US,,,,27,,top,8,coffee grinder,27,https://trends.google.com/trends/explore?q=coffee+grinder&date=today+3-m&geo=US,2026-11-23T12:32:08.464Z,53a79f6e8cac7363
-relatedQueries,coffee,US,,,,22,,top,9,coffee shops near me,22,https://trends.google.com/trends/explore?q=coffee+shops+near+me&date=today+3-m&geo=US,2026-11-23T12:32:08.464Z,87e834e241dc488c
-relatedQueries,coffee,US,,,,20,,top,10,coffee bar,20,https://trends.google.com/trends/explore?q=coffee+bar&date=today+3-m&geo=US,2026-11-23T12:32:08.464Z,828d5d0499c20fba
-relatedQueries,coffee,US,,,,20,,top,11,coffee creamer,20,https://trends.google.com/trends/explore?q=coffee+creamer&date=today+3-m&geo=US,2026-11-23T12:32:08.464Z,e74c3b425119dd7b
-relatedQueries,coffee,US,,,,19,,top,12,coffee bean,19,https://trends.google.com/trends/explore?q=coffee+bean&date=today+3-m&geo=US,2026-11-23T12:32:08.464Z,492875d3cd960a1e
-relatedQueries,coffee,US,,,,17,,top,13,coffee shops nearby,17,https://trends.google.com/trends/explore?q=coffee+shops+nearby&date=today+3-m&geo=US,2026-11-23T12:32:08.464Z,47a9aa11913311ad
-relatedQueries,coffee,US,,,,14,,top,14,instant coffee,14,https://trends.google.com/trends/explore?q=instant+coffee&date=today+3-m&geo=US,2026-11-23T12:32:08.464Z,d5be867b794ae9d2
-relatedQueries,coffee,US,,,,12,,top,15,ryze coffee,12,https://trends.google.com/trends/explore?q=ryze+coffee&date=today+3-m&geo=US,2026-11-23T12:32:08.464Z,fb7ff202fc0dab15
-relatedQueries,coffee,US,,,,12,,top,16,mushroom coffee,12,https://trends.google.com/trends/explore?q=mushroom+coffee&date=today+3-m&geo=US,2026-11-23T12:32:08.464Z,bc057bc92bde49e0
-relatedQueries,coffee,US,,,,12,,top,17,coffee shop near me,12,https://trends.google.com/trends/explore?q=coffee+shop+near+me&date=today+3-m&geo=US,2026-11-23T12:32:08.464Z,86603135bec2bae1
-relatedQueries,coffee,US,,,,9,,top,18,7 brew coffee,9,https://trends.google.com/trends/explore?q=7+brew+coffee&date=today+3-m&geo=US,2026-11-23T12:32:08.464Z,eeda3458a4442462
-relatedQueries,coffee,US,,,,9,,top,19,keurig coffee maker,9,https://trends.google.com/trends/explore?q=keurig+coffee+maker&date=today+3-m&geo=US,2026-11-23T12:32:08.464Z,1035b795bd4d43b5
-relatedQueries,coffee,US,,,,9,,top,20,travel,9,https://trends.google.com/trends/explore?q=travel&date=today+3-m&geo=US,2026-11-23T12:32:08.464Z,507f4c6df280c93d
-relatedQueries,coffee,US,,,,9,,top,21,best coffee grinder,9,https://trends.google.com/trends/explore?q=best+coffee+grinder&date=today+3-m&geo=US,2026-11-23T12:32:08.464Z,00ba0c99d89dbe04
-relatedQueries,coffee,US,,,,8,,top,22,best coffee near me,8,https://trends.google.com/trends/explore?q=best+coffee+near+me&date=today+3-m&geo=US,2026-11-23T12:32:08.464Z,f59fdfaca97ed7a9
-relatedQueries,coffee,US,,,,7,,top,23,round coffee table,7,https://trends.google.com/trends/explore?q=round+coffee+table&date=today+3-m&geo=US,2026-11-23T12:32:08.464Z,fbd7646b88959238
-relatedQueries,coffee,US,,,,7,,top,24,caffeine in a cup of coffee,7,https://trends.google.com/trends/explore?q=caffeine+in+a+cup+of+coffee&date=today+3-m&geo=US,2026-11-23T12:32:08.464Z,627142e752b7d8d6
-relatedQueries,coffee,US,,,,12000,,rising,0,student suspended for bringing coffee,Breakout,https://trends.google.com/trends/explore?q=student+suspended+for+bringing+coffee&date=today+3-m&geo=US,2026-11-23T12:32:08.464Z,730355551cdaedae
-relatedQueries,coffee,US,,,,3350,,rising,1,university of copenhagen coffee study,"+3,350%",https://trends.google.com/trends/explore?q=university+of+copenhagen+coffee+study&date=today+3-m&geo=US,2026-11-23T12:32:08.464Z,06c8366f7cad80c2
-relatedQueries,coffee,US,,,,2900,,rising,2,caraway coffee maker,"+2,900%",https://trends.google.com/trends/explore?q=caraway+coffee+maker&date=today+3-m&geo=US,2026-11-23T12:32:08.464Z,ba88ddc060dba988
-relatedQueries,coffee,US,,,,1850,,rising,3,coffee deets,"+1,850%",https://trends.google.com/trends/explore?q=coffee+deets&date=today+3-m&geo=US,2026-11-23T12:32:08.464Z,2c205fd26187f5a7
-relatedQueries,coffee,US,,,,600,,rising,4,national coffee day,+600%,https://trends.google.com/trends/explore?q=national+coffee+day&date=today+3-m&geo=US,2026-11-23T12:32:08.464Z,272e17f9258e382f
-relatedQueries,coffee,US,,,,300,,rising,5,best coffee grinder,+300%,https://trends.google.com/trends/explore?q=best+coffee+grinder&date=today+3-m&geo=US,2026-11-23T12:32:08.464Z,a71c5d9d32f29769
-relatedQueries,coffee,US,,,,160,,rising,6,national coffee day 2026,+160%,https://trends.google.com/trends/explore?q=national+coffee+day+2026&date=today+3-m&geo=US,2026-11-23T12:32:08.464Z,c6ba7fbc9e58f9a2
-relatedQueries,coffee,US,,,,140,,rising,7,coffee gear coffeedeets.com,+140%,https://trends.google.com/trends/explore?q=coffee+gear+coffeedeets.com&date=today+3-m&geo=US,2026-11-23T12:32:08.464Z,6a6ea63e6b876098
-relatedQueries,coffee,US,,,,100,,rising,8,anomalous coffee machine,+100%,https://trends.google.com/trends/explore?q=anomalous+coffee+machine&date=today+3-m&geo=US,2026-11-23T12:32:08.464Z,192420aaecf4db68
-relatedQueries,coffee,US,,,,40,,rising,9,decaffeinated coffee,+40%,https://trends.google.com/trends/explore?q=decaffeinated+coffee&date=today+3-m&geo=US,2026-11-23T12:32:08.464Z,a96dace83e093a6b
-interestOverTime,matcha,US,today 3-m,2026-08-23T00:00:00.000Z,"Aug 23, 2026",85,false,,,,,,2026-11-23T12:32:08.465Z,22a8492c8fa594cf
-interestOverTime,matcha,US,today 3-m,2026-08-24T00:00:00.000Z,"Aug 24, 2026",68,false,,,,,,2026-11-23T12:32:08.465Z,d4d68440f94cd083
-interestOverTime,matcha,US,today 3-m,2026-08-25T00:00:00.000Z,"Aug 25, 2026",65,false,,,,,,2026-11-23T12:32:08.465Z,a84031e10b7ee03d
-interestOverTime,matcha,US,today 3-m,2026-08-26T00:00:00.000Z,"Aug 26, 2026",65,false,,,,,,2026-11-23T12:32:08.465Z,1695abc19836ea5d
-interestOverTime,matcha,US,today 3-m,2026-08-27T00:00:00.000Z,"Aug 27, 2026",66,false,,,,,,2026-11-23T12:32:08.465Z,1ac9f266f0ca450c
-interestOverTime,matcha,US,today 3-m,2026-08-28T00:00:00.000Z,"Aug 28, 2026",70,false,,,,,,2026-11-23T12:32:08.465Z,b37ca2e293d8fb19
-interestOverTime,matcha,US,today 3-m,2026-08-29T00:00:00.000Z,"Aug 29, 2026",87,false,,,,,,2026-11-23T12:32:08.465Z,eab692cdcf78db6a
-interestOverTime,matcha,US,today 3-m,2026-08-30T00:00:00.000Z,"Aug 30, 2026",100,false,,,,,,2026-11-23T12:32:08.465Z,c827f4236bc684d6
-interestOverTime,matcha,US,today 3-m,2026-08-31T00:00:00.000Z,"Aug 31, 2026",67,false,,,,,,2026-11-23T12:32:08.465Z,deb983c02c7b1d5c
-interestOverTime,matcha,US,today 3-m,2026-09-01T00:00:00.000Z,"Sep 1, 2026",65,false,,,,,,2026-11-23T12:32:08.465Z,7ee42f4d17797839
-interestOverTime,matcha,US,today 3-m,2026-09-02T00:00:00.000Z,"Sep 2, 2026",68,false,,,,,,2026-11-23T12:32:08.465Z,1db7ba6525e253ad
-interestOverTime,matcha,US,today 3-m,2026-09-03T00:00:00.000Z,"Sep 3, 2026",69,false,,,,,,2026-11-23T12:32:08.465Z,9b97dabba8ffc647
-interestOverTime,matcha,US,today 3-m,2026-09-04T00:00:00.000Z,"Sep 4, 2026",76,false,,,,,,2026-11-23T12:32:08.465Z,46c7bdeadc27393a
-interestOverTime,matcha,US,today 3-m,2026-09-05T00:00:00.000Z,"Sep 5, 2026",90,false,,,,,,2026-11-23T12:32:08.465Z,f9cf2befa67de82f
-interestOverTime,matcha,US,today 3-m,2026-09-06T00:00:00.000Z,"Sep 6, 2026",92,false,,,,,,2026-11-23T12:32:08.465Z,363d84be7a4f7592
-interestOverTime,matcha,US,today 3-m,2026-09-07T00:00:00.000Z,"Sep 7, 2026",88,false,,,,,,2026-11-23T12:32:08.465Z,8ade29f0baf4bbae
-interestOverTime,matcha,US,today 3-m,2026-09-08T00:00:00.000Z,"Sep 8, 2026",66,false,,,,,,2026-11-23T12:32:08.465Z,dfc0186feac1b550
-interestOverTime,matcha,US,today 3-m,2026-09-09T00:00:00.000Z,"Sep 9, 2026",64,false,,,,,,2026-11-23T12:32:08.465Z,eda506b43a33079c
-interestOverTime,matcha,US,today 3-m,2026-09-10T00:00:00.000Z,"Sep 10, 2026",65,false,,,,,,2026-11-23T12:32:08.465Z,d703238d66a11a5d
-interestOverTime,matcha,US,today 3-m,2026-09-11T00:00:00.000Z,"Sep 11, 2026",66,false,,,,,,2026-11-23T12:32:08.465Z,5d1ec918df9f25b6
-interestOverTime,matcha,US,today 3-m,2026-09-12T00:00:00.000Z,"Sep 12, 2026",79,false,,,,,,2026-11-23T12:32:08.465Z,576885e2a8a3c41c
-interestOverTime,matcha,US,today 3-m,2026-09-13T00:00:00.000Z,"Sep 13, 2026",76,false,,,,,,2026-11-23T12:32:08.465Z,7c5fafa3d561c874
-interestOverTime,matcha,US,today 3-m,2026-09-14T00:00:00.000Z,"Sep 14, 2026",66,false,,,,,,2026-11-23T12:32:08.465Z,f6b34f8a210116eb
-interestOverTime,matcha,US,today 3-m,2026-09-15T00:00:00.000Z,"Sep 15, 2026",67,false,,,,,,2026-11-23T12:32:08.465Z,37973434ce4eeeac
-interestOverTime,matcha,US,today 3-m,2026-09-16T00:00:00.000Z,"Sep 16, 2026",66,false,,,,,,2026-11-23T12:32:08.465Z,0c01f22f3cb803d1
-interestOverTime,matcha,US,today 3-m,2026-09-17T00:00:00.000Z,"Sep 17, 2026",81,false,,,,,,2026-11-23T12:32:08.465Z,4ea5f368f43655f2
-interestOverTime,matcha,US,today 3-m,2026-09-18T00:00:00.000Z,"Sep 18, 2026",74,false,,,,,,2026-11-23T12:32:08.465Z,0aa362a88c5df1fe
-interestOverTime,matcha,US,today 3-m,2026-09-19T00:00:00.000Z,"Sep 19, 2026",76,false,,,,,,2026-11-23T12:32:08.465Z,6dd38853d0f39e2b
-interestOverTime,matcha,US,today 3-m,2026-09-20T00:00:00.000Z,"Sep 20, 2026",82,false,,,,,,2026-11-23T12:32:08.465Z,d85af69785a595e4
-interestOverTime,matcha,US,today 3-m,2026-09-21T00:00:00.000Z,"Sep 21, 2026",59,false,,,,,,2026-11-23T12:32:08.465Z,3bcb8261ec58080b
-interestOverTime,matcha,US,today 3-m,2026-09-22T00:00:00.000Z,"Sep 22, 2026",62,false,,,,,,2026-11-23T12:32:08.465Z,582219244a0d01a0
-interestOverTime,matcha,US,today 3-m,2026-09-23T00:00:00.000Z,"Sep 23, 2026",66,false,,,,,,2026-11-23T12:32:08.465Z,20630cb66466fcd7
-interestOverTime,matcha,US,today 3-m,2026-09-24T00:00:00.000Z,"Sep 24, 2026",66,false,,,,,,2026-11-23T12:32:08.465Z,cbe27ffb70aabfe2
-interestOverTime,matcha,US,today 3-m,2026-09-25T00:00:00.000Z,"Sep 25, 2026",65,false,,,,,,2026-11-23T12:32:08.465Z,594a510235e3b4ce
-interestOverTime,matcha,US,today 3-m,2026-09-26T00:00:00.000Z,"Sep 26, 2026",75,false,,,,,,2026-11-23T12:32:08.465Z,58303da655106192
-interestOverTime,matcha,US,today 3-m,2026-09-27T00:00:00.000Z,"Sep 27, 2026",74,false,,,,,,2026-11-23T12:32:08.465Z,24be899d4fc3dbae
-interestOverTime,matcha,US,today 3-m,2026-09-28T00:00:00.000Z,"Sep 28, 2026",61,false,,,,,,2026-11-23T12:32:08.465Z,ebe9e3a1a5a29278
-interestOverTime,matcha,US,today 3-m,2026-09-29T00:00:00.000Z,"Sep 29, 2026",61,false,,,,,,2026-11-23T12:32:08.465Z,c936216ae6d111b9
-interestOverTime,matcha,US,today 3-m,2026-09-30T00:00:00.000Z,"Sep 30, 2026",60,false,,,,,,2026-11-23T12:32:08.465Z,100ca5c98c1b0be8
-interestOverTime,matcha,US,today 3-m,2026-10-01T00:00:00.000Z,"Oct 1, 2026",61,false,,,,,,2026-11-23T12:32:08.465Z,de5dae00de583a3f
-interestOverTime,matcha,US,today 3-m,2026-10-02T00:00:00.000Z,"Oct 2, 2026",64,false,,,,,,2026-11-23T12:32:08.465Z,938efae3d9c2a986
-interestOverTime,matcha,US,today 3-m,2026-10-03T00:00:00.000Z,"Oct 3, 2026",79,false,,,,,,2026-11-23T12:32:08.465Z,328d20919b53595e
-interestOverTime,matcha,US,today 3-m,2026-10-04T00:00:00.000Z,"Oct 4, 2026",79,false,,,,,,2026-11-23T12:32:08.465Z,cde47bc2496b1de8
-interestOverTime,matcha,US,today 3-m,2026-10-05T00:00:00.000Z,"Oct 5, 2026",63,false,,,,,,2026-11-23T12:32:08.465Z,e554ac51f90a4559
-interestOverTime,matcha,US,today 3-m,2026-10-06T00:00:00.000Z,"Oct 6, 2026",62,false,,,,,,2026-11-23T12:32:08.465Z,f28e17466cd89a75
-interestOverTime,matcha,US,today 3-m,2026-10-07T00:00:00.000Z,"Oct 7, 2026",63,false,,,,,,2026-11-23T12:32:08.465Z,a71532ef52b327e2
-interestOverTime,matcha,US,today 3-m,2026-10-08T00:00:00.000Z,"Oct 8, 2026",59,false,,,,,,2026-11-23T12:32:08.465Z,29168cb2f55cf326
-interestOverTime,matcha,US,today 3-m,2026-10-09T00:00:00.000Z,"Oct 9, 2026",65,false,,,,,,2026-11-23T12:32:08.465Z,186d8e6a8b598e60
-interestOverTime,matcha,US,today 3-m,2026-10-10T00:00:00.000Z,"Oct 10, 2026",80,false,,,,,,2026-11-23T12:32:08.465Z,3ebff62b00cb1c05
-interestOverTime,matcha,US,today 3-m,2026-10-11T00:00:00.000Z,"Oct 11, 2026",73,false,,,,,,2026-11-23T12:32:08.465Z,b69db4659bc014a7
-interestOverTime,matcha,US,today 3-m,2026-10-12T00:00:00.000Z,"Oct 12, 2026",72,false,,,,,,2026-11-23T12:32:08.465Z,a35e0ae73bb0e384
-interestOverTime,matcha,US,today 3-m,2026-10-13T00:00:00.000Z,"Oct 13, 2026",61,false,,,,,,2026-11-23T12:32:08.465Z,67ea4c3659062682
-interestOverTime,matcha,US,today 3-m,2026-10-14T00:00:00.000Z,"Oct 14, 2026",60,false,,,,,,2026-11-23T12:32:08.465Z,7a9ef7805456ce50
-interestOverTime,matcha,US,today 3-m,2026-10-15T00:00:00.000Z,"Oct 15, 2026",62,false,,,,,,2026-11-23T12:32:08.465Z,c1cf482098c1db14
-interestOverTime,matcha,US,today 3-m,2026-10-16T00:00:00.000Z,"Oct 16, 2026",61,false,,,,,,2026-11-23T12:32:08.465Z,08d8d726943c3a91
-interestOverTime,matcha,US,today 3-m,2026-10-17T00:00:00.000Z,"Oct 17, 2026",74,false,,,,,,2026-11-23T12:32:08.465Z,5018702d33db6837
-interestOverTime,matcha,US,today 3-m,2026-10-18T00:00:00.000Z,"Oct 18, 2026",85,false,,,,,,2026-11-23T12:32:08.465Z,d5de7e9b5923d6d9
-interestOverTime,matcha,US,today 3-m,2026-10-19T00:00:00.000Z,"Oct 19, 2026",57,false,,,,,,2026-11-23T12:32:08.465Z,5d56548892625a35
-interestOverTime,matcha,US,today 3-m,2026-10-20T00:00:00.000Z,"Oct 20, 2026",57,false,,,,,,2026-11-23T12:32:08.465Z,ebb7c6b67e758223
-interestOverTime,matcha,US,today 3-m,2026-10-21T00:00:00.000Z,"Oct 21, 2026",60,false,,,,,,2026-11-23T12:32:08.465Z,2f91a3c871d7ff28
-interestOverTime,matcha,US,today 3-m,2026-10-22T00:00:00.000Z,"Oct 22, 2026",61,false,,,,,,2026-11-23T12:32:08.465Z,a86addef9e2972bb
-interestOverTime,matcha,US,today 3-m,2026-10-23T00:00:00.000Z,"Oct 23, 2026",67,false,,,,,,2026-11-23T12:32:08.465Z,b53f0413860f42d9
-interestOverTime,matcha,US,today 3-m,2026-10-24T00:00:00.000Z,"Oct 24, 2026",72,false,,,,,,2026-11-23T12:32:08.465Z,9f1b82c152e57c37
-interestOverTime,matcha,US,today 3-m,2026-10-25T00:00:00.000Z,"Oct 25, 2026",71,false,,,,,,2026-11-23T12:32:08.465Z,27ac9c80bca3479e
-interestOverTime,matcha,US,today 3-m,2026-10-26T00:00:00.000Z,"Oct 26, 2026",55,false,,,,,,2026-11-23T12:32:08.465Z,440db8c71cb2d1ab
-interestOverTime,matcha,US,today 3-m,2026-10-27T00:00:00.000Z,"Oct 27, 2026",54,false,,,,,,2026-11-23T12:32:08.465Z,163a95730e45803d
-interestOverTime,matcha,US,today 3-m,2026-10-28T00:00:00.000Z,"Oct 28, 2026",53,false,,,,,,2026-11-23T12:32:08.465Z,59b6482293cbc058
-interestOverTime,matcha,US,today 3-m,2026-10-29T00:00:00.000Z,"Oct 29, 2026",53,false,,,,,,2026-11-23T12:32:08.465Z,bec957da5d9f433e
-interestOverTime,matcha,US,today 3-m,2026-10-30T00:00:00.000Z,"Oct 30, 2026",53,false,,,,,,2026-11-23T12:32:08.465Z,e489d90efdde419c
-interestOverTime,matcha,US,today 3-m,2026-10-31T00:00:00.000Z,"Oct 31, 2026",64,false,,,,,,2026-11-23T12:32:08.465Z,60358991d83a517d
-interestOverTime,matcha,US,today 3-m,2026-11-01T00:00:00.000Z,"Nov 1, 2026",61,false,,,,,,2026-11-23T12:32:08.465Z,87a6e13407dd22fb
-interestOverTime,matcha,US,today 3-m,2026-11-02T00:00:00.000Z,"Nov 2, 2026",52,false,,,,,,2026-11-23T12:32:08.465Z,3f9819e6dd834d0a
-interestOverTime,matcha,US,today 3-m,2026-11-03T00:00:00.000Z,"Nov 3, 2026",52,false,,,,,,2026-11-23T12:32:08.465Z,8f2046e4652d4d97
-interestOverTime,matcha,US,today 3-m,2026-11-04T00:00:00.000Z,"Nov 4, 2026",48,false,,,,,,2026-11-23T12:32:08.465Z,39713503e74c57bc
-interestOverTime,matcha,US,today 3-m,2026-11-05T00:00:00.000Z,"Nov 5, 2026",59,false,,,,,,2026-11-23T12:32:08.465Z,7fa01aa3aae41de8
-interestOverTime,matcha,US,today 3-m,2026-11-06T00:00:00.000Z,"Nov 6, 2026",61,false,,,,,,2026-11-23T12:32:08.465Z,1b7df4e21d95a6ff
-interestOverTime,matcha,US,today 3-m,2026-11-07T00:00:00.000Z,"Nov 7, 2026",75,false,,,,,,2026-11-23T12:32:08.465Z,a93556035c21031a
-interestOverTime,matcha,US,today 3-m,2026-11-08T00:00:00.000Z,"Nov 8, 2026",74,false,,,,,,2026-11-23T12:32:08.465Z,07baaf012c865798
-interestOverTime,matcha,US,today 3-m,2026-11-09T00:00:00.000Z,"Nov 9, 2026",59,false,,,,,,2026-11-23T12:32:08.465Z,3fe14ba06f93fbf4
-interestOverTime,matcha,US,today 3-m,2026-11-10T00:00:00.000Z,"Nov 10, 2026",59,false,,,,,,2026-11-23T12:32:08.465Z,72fef4b4eca7246f
-interestOverTime,matcha,US,today 3-m,2026-11-11T00:00:00.000Z,"Nov 11, 2026",71,false,,,,,,2026-11-23T12:32:08.465Z,3d0af37d2c7a34e2
-interestOverTime,matcha,US,today 3-m,2026-11-12T00:00:00.000Z,"Nov 12, 2026",64,false,,,,,,2026-11-23T12:32:08.465Z,2760dd882e632baf
-interestOverTime,matcha,US,today 3-m,2026-11-13T00:00:00.000Z,"Nov 13, 2026",56,false,,,,,,2026-11-23T12:32:08.465Z,4c8e95c77f9ab816
-interestOverTime,matcha,US,today 3-m,2026-11-14T00:00:00.000Z,"Nov 14, 2026",75,false,,,,,,2026-11-23T12:32:08.465Z,373e73513ac79713
-interestOverTime,matcha,US,today 3-m,2026-11-15T00:00:00.000Z,"Nov 15, 2026",76,false,,,,,,2026-11-23T12:32:08.465Z,5002533d2aa987eb
-interestOverTime,matcha,US,today 3-m,2026-11-16T00:00:00.000Z,"Nov 16, 2026",58,false,,,,,,2026-11-23T12:32:08.465Z,e826db74cd0ad722
-interestOverTime,matcha,US,today 3-m,2026-11-17T00:00:00.000Z,"Nov 17, 2026",59,false,,,,,,2026-11-23T12:32:08.465Z,e3b5516ff12149d1
-interestOverTime,matcha,US,today 3-m,2026-11-18T00:00:00.000Z,"Nov 18, 2026",58,false,,,,,,2026-11-23T12:32:08.465Z,9cb8cde3fe100ab5
-interestOverTime,matcha,US,today 3-m,2026-11-19T00:00:00.000Z,"Nov 19, 2026",59,false,,,,,,2026-11-23T12:32:08.465Z,6500e812969bee0a
-interestOverTime,matcha,US,today 3-m,2026-11-20T00:00:00.000Z,"Nov 20, 2026",58,false,,,,,,2026-11-23T12:32:08.465Z,391ef048dc217106
-interestOverTime,matcha,US,today 3-m,2026-11-21T00:00:00.000Z,"Nov 21, 2026",78,false,,,,,,2026-11-23T12:32:08.465Z,27efb61158204e20
-interestOverTime,matcha,US,today 3-m,2026-11-22T00:00:00.000Z,"Nov 22, 2026",78,false,,,,,,2026-11-23T12:32:08.465Z,a7bc1cff4404c5e2
-interestOverTime,matcha,US,today 3-m,2026-11-23T00:00:00.000Z,"Nov 23, 2026",64,true,,,,,,2026-11-23T12:32:08.465Z,309528f9a8c7651e
-relatedQueries,matcha,US,,,,100,,top,0,matcha me,100,https://trends.google.com/trends/explore?q=matcha+me&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,8bbd0484a8adc9ea
-relatedQueries,matcha,US,,,,99,,top,1,matcha latte,99,https://trends.google.com/trends/explore?q=matcha+latte&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,502015e8212934f6
-relatedQueries,matcha,US,,,,87,,top,2,matcha near me,87,https://trends.google.com/trends/explore?q=matcha+near+me&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,95c93dd78180aba1
-relatedQueries,matcha,US,,,,81,,top,3,matcha starbucks,81,https://trends.google.com/trends/explore?q=matcha+starbucks&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,c9fd8b01dc158650
-relatedQueries,matcha,US,,,,77,,top,4,matcha tea,77,https://trends.google.com/trends/explore?q=matcha+tea&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,9f458416ec4fbaad
-relatedQueries,matcha,US,,,,76,,top,5,what is matcha,76,https://trends.google.com/trends/explore?q=what+is+matcha&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,8535790cf92cf702
-relatedQueries,matcha,US,,,,61,,top,6,matcha caffeine,61,https://trends.google.com/trends/explore?q=matcha+caffeine&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,65226afd0fd313ae
-relatedQueries,matcha,US,,,,60,,top,7,best matcha,60,https://trends.google.com/trends/explore?q=best+matcha&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,b13f84ac24e37a9a
-relatedQueries,matcha,US,,,,52,,top,8,matcha powder,52,https://trends.google.com/trends/explore?q=matcha+powder&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,66b91ef8222d5de9
-relatedQueries,matcha,US,,,,43,,top,9,matcha green,43,https://trends.google.com/trends/explore?q=matcha+green&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,bc6e7a918b4e0f30
-relatedQueries,matcha,US,,,,39,,top,10,how to make matcha,39,https://trends.google.com/trends/explore?q=how+to+make+matcha&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,9d37131c6587d128
-relatedQueries,matcha,US,,,,34,,top,11,matcha drink,34,https://trends.google.com/trends/explore?q=matcha+drink&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,118d282a825316c8
-relatedQueries,matcha,US,,,,28,,top,12,matcha green tea,28,https://trends.google.com/trends/explore?q=matcha+green+tea&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,742de0fb62b854ac
-relatedQueries,matcha,US,,,,26,,top,13,strawberry matcha,26,https://trends.google.com/trends/explore?q=strawberry+matcha&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,bcbbbd323fbd0bab
-relatedQueries,matcha,US,,,,26,,top,14,matcha recipe,26,https://trends.google.com/trends/explore?q=matcha+recipe&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,e9d13d0a34ec33e6
-relatedQueries,matcha,US,,,,24,,top,15,caffeine in matcha,24,https://trends.google.com/trends/explore?q=caffeine+in+matcha&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,d40d17046bd5be5c
-relatedQueries,matcha,US,,,,23,,top,16,does matcha have caffeine,23,https://trends.google.com/trends/explore?q=does+matcha+have+caffeine&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,9dcba6388b8bf739
-relatedQueries,matcha,US,,,,22,,top,17,banana matcha,22,https://trends.google.com/trends/explore?q=banana+matcha&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,e12f8893574c8ce1
-relatedQueries,matcha,US,,,,18,,top,18,what is a matcha,18,https://trends.google.com/trends/explore?q=what+is+a+matcha&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,9e3cca69a86339c9
-relatedQueries,matcha,US,,,,17,,top,19,matcha ice cream,17,https://trends.google.com/trends/explore?q=matcha+ice+cream&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,13a02764146ad708
-relatedQueries,matcha,US,,,,17,,top,20,matcha set,17,https://trends.google.com/trends/explore?q=matcha+set&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,41c31e19179ca48a
-relatedQueries,matcha,US,,,,17,,top,21,matcha benefits,17,https://trends.google.com/trends/explore?q=matcha+benefits&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,5596ad532ef45322
-relatedQueries,matcha,US,,,,14,,top,22,ceremonial matcha,14,https://trends.google.com/trends/explore?q=ceremonial+matcha&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,e1b910f6cec672c4
-relatedQueries,matcha,US,,,,14,,top,23,how to make matcha latte,14,https://trends.google.com/trends/explore?q=how+to+make+matcha+latte&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,e876796f6484b442
-relatedQueries,matcha,US,,,,13,,top,24,is matcha coffee,13,https://trends.google.com/trends/explore?q=is+matcha+coffee&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,51077bb1f609829b
-relatedQueries,matcha,US,,,,7600,,rising,0,casio cafe kitsune matcha watch,Breakout,https://trends.google.com/trends/explore?q=casio+cafe+kitsune+matcha+watch&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,bfa8fe3a49f0f1c3
-relatedQueries,matcha,US,,,,3700,,rising,1,rok matcha nyc,"+3,700%",https://trends.google.com/trends/explore?q=rok+matcha+nyc&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,9de3121483bb34fc
-relatedQueries,matcha,US,,,,2250,,rising,2,matcha advent calendar,"+2,250%",https://trends.google.com/trends/explore?q=matcha+advent+calendar&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,247586b3289544f2
-relatedQueries,matcha,US,,,,750,,rising,3,pumpkin matcha,+750%,https://trends.google.com/trends/explore?q=pumpkin+matcha&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,83cd6dff85578786
-relatedQueries,matcha,US,,,,450,,rising,4,casio matcha watch,+450%,https://trends.google.com/trends/explore?q=casio+matcha+watch&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,5d484f76f4706d95
-relatedQueries,matcha,US,,,,250,,rising,5,matcha sambas,+250%,https://trends.google.com/trends/explore?q=matcha+sambas&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,60c80f9213967f21
-relatedQueries,matcha,US,,,,190,,rising,6,iced banana bread matcha,+190%,https://trends.google.com/trends/explore?q=iced+banana+bread+matcha&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,75deeea11830d23c
-relatedQueries,matcha,US,,,,130,,rising,7,banana bread matcha starbucks,+130%,https://trends.google.com/trends/explore?q=banana+bread+matcha+starbucks&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,69c00861c76a45cf
-relatedQueries,matcha,US,,,,110,,rising,8,banana bread matcha,+110%,https://trends.google.com/trends/explore?q=banana+bread+matcha&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,c21b02b89d6f7c7a
-relatedQueries,matcha,US,,,,100,,rising,9,adidas samba matcha,+100%,https://trends.google.com/trends/explore?q=adidas+samba+matcha&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,7949bd824dcf0d25
-relatedQueries,matcha,US,,,,100,,rising,10,yoshi matcha liqueur,+100%,https://trends.google.com/trends/explore?q=yoshi+matcha+liqueur&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,bb74918ef78538f6
-relatedQueries,matcha,US,,,,80,,rising,11,matsu matcha,+80%,https://trends.google.com/trends/explore?q=matsu+matcha&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,a973c27468c38e82
-relatedQueries,matcha,US,,,,70,,rising,12,buji matcha,+70%,https://trends.google.com/trends/explore?q=buji+matcha&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,6737bb88ad735950
-relatedQueries,matcha,US,,,,50,,rising,13,banana matcha,+50%,https://trends.google.com/trends/explore?q=banana+matcha&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,030d7b820d40ddb3
-relatedQueries,matcha,US,,,,50,,rising,14,yamamasa koyamaen matcha,+50%,https://trends.google.com/trends/explore?q=yamamasa+koyamaen+matcha&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,15c4d1393e0e4c4b
-relatedQueries,matcha,US,,,,50,,rising,15,matcha mama,+50%,https://trends.google.com/trends/explore?q=matcha+mama&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,103f9a502ce14360
-relatedQueries,matcha,US,,,,50,,rising,16,rockys matcha,+50%,https://trends.google.com/trends/explore?q=rockys+matcha&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,3dfc6326f6a3fcaa
-relatedQueries,matcha,US,,,,40,,rising,17,salsa matcha,+40%,https://trends.google.com/trends/explore?q=salsa+matcha&date=today+3-m&geo=US,2026-11-23T12:32:08.465Z,c3a5dfc17e14409c
-interestOverTime,pickleball,US,today 3-m,2026-08-23T00:00:00.000Z,"Aug 23, 2026",88,false,,,,,,2026-11-23T12:32:13.270Z,61ff4fa19654f550
-interestOverTime,pickleball,US,today 3-m,2026-08-24T00:00:00.000Z,"Aug 24, 2026",72,false,,,,,,2026-11-23T12:32:13.270Z,1c9066fddf4fa70a
-interestOverTime,pickleball,US,today 3-m,2026-08-25T00:00:00.000Z,"Aug 25, 2026",70,false,,,,,,2026-11-23T12:32:13.270Z,ca02601c3ad02af6
-interestOverTime,pickleball,US,today 3-m,2026-08-26T00:00:00.000Z,"Aug 26, 2026",69,false,,,,,,2026-11-23T12:32:13.270Z,2881e24287b6409a
-interestOverTime,pickleball,US,today 3-m,2026-08-27T00:00:00.000Z,"Aug 27, 2026",69,false,,,,,,2026-11-23T12:32:13.270Z,d4593e3ccde209a1
-interestOverTime,pickleball,US,today 3-m,2026-08-28T00:00:00.000Z,"Aug 28, 2026",74,false,,,,,,2026-11-23T12:32:13.270Z,5c5b0a19797c208c
-interestOverTime,pickleball,US,today 3-m,2026-08-29T00:00:00.000Z,"Aug 29, 2026",84,false,,,,,,2026-11-23T12:32:13.270Z,09fc47f271c490c7
-interestOverTime,pickleball,US,today 3-m,2026-08-30T00:00:00.000Z,"Aug 30, 2026",100,false,,,,,,2026-11-23T12:32:13.270Z,e6668bd305bcb30c
-interestOverTime,pickleball,US,today 3-m,2026-08-31T00:00:00.000Z,"Aug 31, 2026",73,false,,,,,,2026-11-23T12:32:13.270Z,f94c3117b7def11c
-interestOverTime,pickleball,US,today 3-m,2026-09-01T00:00:00.000Z,"Sep 1, 2026",69,false,,,,,,2026-11-23T12:32:13.270Z,4e8786b64e04a196
-interestOverTime,pickleball,US,today 3-m,2026-09-02T00:00:00.000Z,"Sep 2, 2026",76,false,,,,,,2026-11-23T12:32:13.270Z,18167716bbc57d23
-interestOverTime,pickleball,US,today 3-m,2026-09-03T00:00:00.000Z,"Sep 3, 2026",70,false,,,,,,2026-11-23T12:32:13.270Z,c5861cb868d03bd7
-interestOverTime,pickleball,US,today 3-m,2026-09-04T00:00:00.000Z,"Sep 4, 2026",98,false,,,,,,2026-11-23T12:32:13.270Z,8aaaae0459d3e05c
-interestOverTime,pickleball,US,today 3-m,2026-09-05T00:00:00.000Z,"Sep 5, 2026",84,false,,,,,,2026-11-23T12:32:13.270Z,c3f990d18134ad2c
-interestOverTime,pickleball,US,today 3-m,2026-09-06T00:00:00.000Z,"Sep 6, 2026",92,false,,,,,,2026-11-23T12:32:13.270Z,fffdec495a930d9a
-interestOverTime,pickleball,US,today 3-m,2026-09-07T00:00:00.000Z,"Sep 7, 2026",85,false,,,,,,2026-11-23T12:32:13.270Z,4563a32b8dff2100
-interestOverTime,pickleball,US,today 3-m,2026-09-08T00:00:00.000Z,"Sep 8, 2026",67,false,,,,,,2026-11-23T12:32:13.270Z,8ec11dc76579e29a
-interestOverTime,pickleball,US,today 3-m,2026-09-09T00:00:00.000Z,"Sep 9, 2026",65,false,,,,,,2026-11-23T12:32:13.270Z,61cbd3b0b3f04277
-interestOverTime,pickleball,US,today 3-m,2026-09-10T00:00:00.000Z,"Sep 10, 2026",63,false,,,,,,2026-11-23T12:32:13.270Z,9c8148fae5558386
-interestOverTime,pickleball,US,today 3-m,2026-09-11T00:00:00.000Z,"Sep 11, 2026",64,false,,,,,,2026-11-23T12:32:13.270Z,720b2eb8d29eabde
-interestOverTime,pickleball,US,today 3-m,2026-09-12T00:00:00.000Z,"Sep 12, 2026",74,false,,,,,,2026-11-23T12:32:13.270Z,2e735d47a51fbb09
-interestOverTime,pickleball,US,today 3-m,2026-09-13T00:00:00.000Z,"Sep 13, 2026",69,false,,,,,,2026-11-23T12:32:13.270Z,b5819386d6c29237
-interestOverTime,pickleball,US,today 3-m,2026-09-14T00:00:00.000Z,"Sep 14, 2026",63,false,,,,,,2026-11-23T12:32:13.270Z,266b21b28f1325e3
-interestOverTime,pickleball,US,today 3-m,2026-09-15T00:00:00.000Z,"Sep 15, 2026",59,false,,,,,,2026-11-23T12:32:13.270Z,76c33655bd52ba64
-interestOverTime,pickleball,US,today 3-m,2026-09-16T00:00:00.000Z,"Sep 16, 2026",65,false,,,,,,2026-11-23T12:32:13.270Z,2d43e208b6fad7b2
-interestOverTime,pickleball,US,today 3-m,2026-09-17T00:00:00.000Z,"Sep 17, 2026",58,false,,,,,,2026-11-23T12:32:13.270Z,dc59770efc6b7552
-interestOverTime,pickleball,US,today 3-m,2026-09-18T00:00:00.000Z,"Sep 18, 2026",61,false,,,,,,2026-11-23T12:32:13.270Z,7dc5d33a8cd7392a
-interestOverTime,pickleball,US,today 3-m,2026-09-19T00:00:00.000Z,"Sep 19, 2026",71,false,,,,,,2026-11-23T12:32:13.270Z,74e422ba1831325a
-interestOverTime,pickleball,US,today 3-m,2026-09-20T00:00:00.000Z,"Sep 20, 2026",65,false,,,,,,2026-11-23T12:32:13.270Z,b513d97f0834d124
-interestOverTime,pickleball,US,today 3-m,2026-09-21T00:00:00.000Z,"Sep 21, 2026",60,false,,,,,,2026-11-23T12:32:13.270Z,369513482dc06692
-interestOverTime,pickleball,US,today 3-m,2026-09-22T00:00:00.000Z,"Sep 22, 2026",65,false,,,,,,2026-11-23T12:32:13.270Z,e8e8f5760f06a0ef
-interestOverTime,pickleball,US,today 3-m,2026-09-23T00:00:00.000Z,"Sep 23, 2026",60,false,,,,,,2026-11-23T12:32:13.270Z,8dae4fdf801175c8
-interestOverTime,pickleball,US,today 3-m,2026-09-24T00:00:00.000Z,"Sep 24, 2026",60,false,,,,,,2026-11-23T12:32:13.270Z,5bfffe0887b69aee
-interestOverTime,pickleball,US,today 3-m,2026-09-25T00:00:00.000Z,"Sep 25, 2026",61,false,,,,,,2026-11-23T12:32:13.270Z,3286df31d12d3195
-interestOverTime,pickleball,US,today 3-m,2026-09-26T00:00:00.000Z,"Sep 26, 2026",69,false,,,,,,2026-11-23T12:32:13.270Z,2525577eb7b25d4e
-interestOverTime,pickleball,US,today 3-m,2026-09-27T00:00:00.000Z,"Sep 27, 2026",64,false,,,,,,2026-11-23T12:32:13.270Z,cde33621bba4567a
-interestOverTime,pickleball,US,today 3-m,2026-09-28T00:00:00.000Z,"Sep 28, 2026",64,false,,,,,,2026-11-23T12:32:13.270Z,b4cd04988492c095
-interestOverTime,pickleball,US,today 3-m,2026-09-29T00:00:00.000Z,"Sep 29, 2026",59,false,,,,,,2026-11-23T12:32:13.270Z,a1b92dc20aa67aa8
-interestOverTime,pickleball,US,today 3-m,2026-09-30T00:00:00.000Z,"Sep 30, 2026",63,false,,,,,,2026-11-23T12:32:13.270Z,dc9a439bba9ec0be
-interestOverTime,pickleball,US,today 3-m,2026-10-01T00:00:00.000Z,"Oct 1, 2026",63,false,,,,,,2026-11-23T12:32:13.270Z,3bb4da4e41da9d71
-interestOverTime,pickleball,US,today 3-m,2026-10-02T00:00:00.000Z,"Oct 2, 2026",64,false,,,,,,2026-11-23T12:32:13.270Z,8052595b66a55bc9
-interestOverTime,pickleball,US,today 3-m,2026-10-03T00:00:00.000Z,"Oct 3, 2026",70,false,,,,,,2026-11-23T12:32:13.270Z,633f3c1412a2a67f
-interestOverTime,pickleball,US,today 3-m,2026-10-04T00:00:00.000Z,"Oct 4, 2026",68,false,,,,,,2026-11-23T12:32:13.270Z,76376da7bb9c5334
-interestOverTime,pickleball,US,today 3-m,2026-10-05T00:00:00.000Z,"Oct 5, 2026",62,false,,,,,,2026-11-23T12:32:13.270Z,8bb4154fb4ea3fda
-interestOverTime,pickleball,US,today 3-m,2026-10-06T00:00:00.000Z,"Oct 6, 2026",63,false,,,,,,2026-11-23T12:32:13.270Z,0582e1bcf26e1386
-interestOverTime,pickleball,US,today 3-m,2026-10-07T00:00:00.000Z,"Oct 7, 2026",67,false,,,,,,2026-11-23T12:32:13.270Z,f1709c8642f7fcc8
-interestOverTime,pickleball,US,today 3-m,2026-10-08T00:00:00.000Z,"Oct 8, 2026",65,false,,,,,,2026-11-23T12:32:13.270Z,74b7023f9846677b
-interestOverTime,pickleball,US,today 3-m,2026-10-09T00:00:00.000Z,"Oct 9, 2026",69,false,,,,,,2026-11-23T12:32:13.270Z,7707872f14545334
-interestOverTime,pickleball,US,today 3-m,2026-10-10T00:00:00.000Z,"Oct 10, 2026",72,false,,,,,,2026-11-23T12:32:13.270Z,55a03320267cd997
-interestOverTime,pickleball,US,today 3-m,2026-10-11T00:00:00.000Z,"Oct 11, 2026",66,false,,,,,,2026-11-23T12:32:13.270Z,1a27b9041e6e31eb
-interestOverTime,pickleball,US,today 3-m,2026-10-12T00:00:00.000Z,"Oct 12, 2026",64,false,,,,,,2026-11-23T12:32:13.270Z,e9bb031a88c6629d
-interestOverTime,pickleball,US,today 3-m,2026-10-13T00:00:00.000Z,"Oct 13, 2026",69,false,,,,,,2026-11-23T12:32:13.270Z,1115389ded8d653f
-interestOverTime,pickleball,US,today 3-m,2026-10-14T00:00:00.000Z,"Oct 14, 2026",63,false,,,,,,2026-11-23T12:32:13.270Z,0dd020c7c5060e2e
-interestOverTime,pickleball,US,today 3-m,2026-10-15T00:00:00.000Z,"Oct 15, 2026",64,false,,,,,,2026-11-23T12:32:13.270Z,6757537f8235dfa2
-interestOverTime,pickleball,US,today 3-m,2026-10-16T00:00:00.000Z,"Oct 16, 2026",62,false,,,,,,2026-11-23T12:32:13.270Z,adcc67daf02326e2
-interestOverTime,pickleball,US,today 3-m,2026-10-17T00:00:00.000Z,"Oct 17, 2026",64,false,,,,,,2026-11-23T12:32:13.270Z,e364a669ba24a8b4
-interestOverTime,pickleball,US,today 3-m,2026-10-18T00:00:00.000Z,"Oct 18, 2026",64,false,,,,,,2026-11-23T12:32:13.270Z,3e8fea773925879a
-interestOverTime,pickleball,US,today 3-m,2026-10-19T00:00:00.000Z,"Oct 19, 2026",57,false,,,,,,2026-11-23T12:32:13.270Z,e937fa9831edcec5
-interestOverTime,pickleball,US,today 3-m,2026-10-20T00:00:00.000Z,"Oct 20, 2026",55,false,,,,,,2026-11-23T12:32:13.270Z,fedf9ec6212791b9
-interestOverTime,pickleball,US,today 3-m,2026-10-21T00:00:00.000Z,"Oct 21, 2026",55,false,,,,,,2026-11-23T12:32:13.270Z,43cc71e949b9ef63
-interestOverTime,pickleball,US,today 3-m,2026-10-22T00:00:00.000Z,"Oct 22, 2026",58,false,,,,,,2026-11-23T12:32:13.270Z,f9c3da5f147be85c
-interestOverTime,pickleball,US,today 3-m,2026-10-23T00:00:00.000Z,"Oct 23, 2026",56,false,,,,,,2026-11-23T12:32:13.270Z,79e348ab8bd02764
-interestOverTime,pickleball,US,today 3-m,2026-10-24T00:00:00.000Z,"Oct 24, 2026",64,false,,,,,,2026-11-23T12:32:13.270Z,493afa1cf06db847
-interestOverTime,pickleball,US,today 3-m,2026-10-25T00:00:00.000Z,"Oct 25, 2026",56,false,,,,,,2026-11-23T12:32:13.270Z,cecdb9e09f28c76c
-interestOverTime,pickleball,US,today 3-m,2026-10-26T00:00:00.000Z,"Oct 26, 2026",56,false,,,,,,2026-11-23T12:32:13.270Z,25f1b31e7353726f
-interestOverTime,pickleball,US,today 3-m,2026-10-27T00:00:00.000Z,"Oct 27, 2026",54,false,,,,,,2026-11-23T12:32:13.270Z,5bb85503556e864a
-interestOverTime,pickleball,US,today 3-m,2026-10-28T00:00:00.000Z,"Oct 28, 2026",54,false,,,,,,2026-11-23T12:32:13.270Z,b655c1882e0c4829
-interestOverTime,pickleball,US,today 3-m,2026-10-29T00:00:00.000Z,"Oct 29, 2026",52,false,,,,,,2026-11-23T12:32:13.270Z,8160b398926d59ec
-interestOverTime,pickleball,US,today 3-m,2026-10-30T00:00:00.000Z,"Oct 30, 2026",55,false,,,,,,2026-11-23T12:32:13.270Z,98a76fc96f69878a
-interestOverTime,pickleball,US,today 3-m,2026-10-31T00:00:00.000Z,"Oct 31, 2026",59,false,,,,,,2026-11-23T12:32:13.270Z,8790e8f282632f8b
-interestOverTime,pickleball,US,today 3-m,2026-11-01T00:00:00.000Z,"Nov 1, 2026",58,false,,,,,,2026-11-23T12:32:13.270Z,ef945920cf3f805b
-interestOverTime,pickleball,US,today 3-m,2026-11-02T00:00:00.000Z,"Nov 2, 2026",57,false,,,,,,2026-11-23T12:32:13.270Z,947c66c304af1ebc
-interestOverTime,pickleball,US,today 3-m,2026-11-03T00:00:00.000Z,"Nov 3, 2026",53,false,,,,,,2026-11-23T12:32:13.270Z,49c7ddb0afaf8c09
-interestOverTime,pickleball,US,today 3-m,2026-11-04T00:00:00.000Z,"Nov 4, 2026",48,false,,,,,,2026-11-23T12:32:13.270Z,e78892d120907bfd
-interestOverTime,pickleball,US,today 3-m,2026-11-05T00:00:00.000Z,"Nov 5, 2026",57,false,,,,,,2026-11-23T12:32:13.270Z,f5d5e7362ac6659c
-interestOverTime,pickleball,US,today 3-m,2026-11-06T00:00:00.000Z,"Nov 6, 2026",59,false,,,,,,2026-11-23T12:32:13.270Z,6b32fa2886ea5292
-interestOverTime,pickleball,US,today 3-m,2026-11-07T00:00:00.000Z,"Nov 7, 2026",70,false,,,,,,2026-11-23T12:32:13.270Z,f2b71f3fb8615a45
-interestOverTime,pickleball,US,today 3-m,2026-11-08T00:00:00.000Z,"Nov 8, 2026",68,false,,,,,,2026-11-23T12:32:13.270Z,b8b6e71572767071
-interestOverTime,pickleball,US,today 3-m,2026-11-09T00:00:00.000Z,"Nov 9, 2026",60,false,,,,,,2026-11-23T12:32:13.270Z,c016c3f1f592dc9d
-interestOverTime,pickleball,US,today 3-m,2026-11-10T00:00:00.000Z,"Nov 10, 2026",58,false,,,,,,2026-11-23T12:32:13.270Z,8e3980f0f7b31c8b
-interestOverTime,pickleball,US,today 3-m,2026-11-11T00:00:00.000Z,"Nov 11, 2026",61,false,,,,,,2026-11-23T12:32:13.270Z,ac9a402fd31451c7
-interestOverTime,pickleball,US,today 3-m,2026-11-12T00:00:00.000Z,"Nov 12, 2026",55,false,,,,,,2026-11-23T12:32:13.270Z,ea252b840120735c
-interestOverTime,pickleball,US,today 3-m,2026-11-13T00:00:00.000Z,"Nov 13, 2026",56,false,,,,,,2026-11-23T12:32:13.270Z,d7d59e4466bd8abd
-interestOverTime,pickleball,US,today 3-m,2026-11-14T00:00:00.000Z,"Nov 14, 2026",62,false,,,,,,2026-11-23T12:32:13.270Z,9c392d623bc48399
-interestOverTime,pickleball,US,today 3-m,2026-11-15T00:00:00.000Z,"Nov 15, 2026",59,false,,,,,,2026-11-23T12:32:13.270Z,f53515422db90483
-interestOverTime,pickleball,US,today 3-m,2026-11-16T00:00:00.000Z,"Nov 16, 2026",57,false,,,,,,2026-11-23T12:32:13.270Z,d92d2fb08a7f7d0e
-interestOverTime,pickleball,US,today 3-m,2026-11-17T00:00:00.000Z,"Nov 17, 2026",56,false,,,,,,2026-11-23T12:32:13.270Z,50522049f1e6b7cd
-interestOverTime,pickleball,US,today 3-m,2026-11-18T00:00:00.000Z,"Nov 18, 2026",52,false,,,,,,2026-11-23T12:32:13.270Z,33fce6898c71b34a
-interestOverTime,pickleball,US,today 3-m,2026-11-19T00:00:00.000Z,"Nov 19, 2026",56,false,,,,,,2026-11-23T12:32:13.270Z,c98e49c092ca2218
-interestOverTime,pickleball,US,today 3-m,2026-11-20T00:00:00.000Z,"Nov 20, 2026",55,false,,,,,,2026-11-23T12:32:13.270Z,058df3a30bdf8308
-interestOverTime,pickleball,US,today 3-m,2026-11-21T00:00:00.000Z,"Nov 21, 2026",63,false,,,,,,2026-11-23T12:32:13.270Z,e2ef42bc53dddff5
-interestOverTime,pickleball,US,today 3-m,2026-11-22T00:00:00.000Z,"Nov 22, 2026",64,false,,,,,,2026-11-23T12:32:13.270Z,238aab3034e5b8ae
-interestOverTime,pickleball,US,today 3-m,2026-11-23T00:00:00.000Z,"Nov 23, 2026",62,true,,,,,,2026-11-23T12:32:13.270Z,23a220e63e146baf
-relatedQueries,pickleball,US,,,,100,,top,0,pickleball paddle,100,https://trends.google.com/trends/explore?q=pickleball+paddle&date=today+3-m&geo=US,2026-11-23T12:32:13.270Z,98882240a8edb9f2
-relatedQueries,pickleball,US,,,,77,,top,1,pickleball courts,77,https://trends.google.com/trends/explore?q=pickleball+courts&date=today+3-m&geo=US,2026-11-23T12:32:13.270Z,243a06b359fff56c
-relatedQueries,pickleball,US,,,,52,,top,2,pickleball court,52,https://trends.google.com/trends/explore?q=pickleball+court&date=today+3-m&geo=US,2026-11-23T12:32:13.270Z,2d76964a904444a6
-relatedQueries,pickleball,US,,,,51,,top,3,pickleball near me,51,https://trends.google.com/trends/explore?q=pickleball+near+me&date=today+3-m&geo=US,2026-11-23T12:32:13.270Z,d97eb33b4cab7ce5
-relatedQueries,pickleball,US,,,,42,,top,4,pickleball paddles,42,https://trends.google.com/trends/explore?q=pickleball+paddles&date=today+3-m&geo=US,2026-11-23T12:32:13.270Z,5dbaec6c30e8b222
-relatedQueries,pickleball,US,,,,36,,top,5,pickleball shoes,36,https://trends.google.com/trends/explore?q=pickleball+shoes&date=today+3-m&geo=US,2026-11-23T12:32:13.270Z,341fb16682051ae4
-relatedQueries,pickleball,US,,,,35,,top,6,what is pickleball,35,https://trends.google.com/trends/explore?q=what+is+pickleball&date=today+3-m&geo=US,2026-11-23T12:32:13.270Z,656c47d231b7f34d
-relatedQueries,pickleball,US,,,,29,,top,7,pickleball ball,29,https://trends.google.com/trends/explore?q=pickleball+ball&date=today+3-m&geo=US,2026-11-23T12:32:13.270Z,258858fcd3663616
-relatedQueries,pickleball,US,,,,29,,top,8,indoor pickleball,29,https://trends.google.com/trends/explore?q=indoor+pickleball&date=today+3-m&geo=US,2026-11-23T12:32:13.270Z,36f0279423c1c759
-relatedQueries,pickleball,US,,,,21,,top,9,pickle,21,https://trends.google.com/trends/explore?q=pickle&date=today+3-m&geo=US,2026-11-23T12:32:13.270Z,29d634bbeca1bfe9
-relatedQueries,pickleball,US,,,,19,,top,10,pickleball courts near me,19,https://trends.google.com/trends/explore?q=pickleball+courts+near+me&date=today+3-m&geo=US,2026-11-23T12:32:13.270Z,d85456aa6271e62c
-relatedQueries,pickleball,US,,,,15,,top,11,pickleball rules,15,https://trends.google.com/trends/explore?q=pickleball+rules&date=today+3-m&geo=US,2026-11-23T12:32:13.270Z,2b53063f42585143
-relatedQueries,pickleball,US,,,,14,,top,12,joola pickleball,14,https://trends.google.com/trends/explore?q=joola+pickleball&date=today+3-m&geo=US,2026-11-23T12:32:13.270Z,8e185ccdce0702db
-relatedQueries,pickleball,US,,,,14,,top,13,joola,14,https://trends.google.com/trends/explore?q=joola&date=today+3-m&geo=US,2026-11-23T12:32:13.270Z,e3e5b4453c24793f
-relatedQueries,pickleball,US,,,,11,,top,14,selkirk pickleball,11,https://trends.google.com/trends/explore?q=selkirk+pickleball&date=today+3-m&geo=US,2026-11-23T12:32:13.270Z,07eb0a0b5b59339e
-relatedQueries,pickleball,US,,,,11,,top,15,selkirk,11,https://trends.google.com/trends/explore?q=selkirk&date=today+3-m&geo=US,2026-11-23T12:32:13.270Z,211b1687fe76f938
-relatedQueries,pickleball,US,,,,11,,top,16,pickleball net,11,https://trends.google.com/trends/explore?q=pickleball+net&date=today+3-m&geo=US,2026-11-23T12:32:13.270Z,1a2339891235c6f0
-relatedQueries,pickleball,US,,,,11,,top,17,pickleball set,11,https://trends.google.com/trends/explore?q=pickleball+set&date=today+3-m&geo=US,2026-11-23T12:32:13.270Z,648d8548e366cbce
-relatedQueries,pickleball,US,,,,10,,top,18,pickleball tournaments,10,https://trends.google.com/trends/explore?q=pickleball+tournaments&date=today+3-m&geo=US,2026-11-23T12:32:13.270Z,35ae07b7a9cd4197
-relatedQueries,pickleball,US,,,,10,,top,19,pickle ball,10,https://trends.google.com/trends/explore?q=pickle+ball&date=today+3-m&geo=US,2026-11-23T12:32:13.270Z,61833ff7dd464cd4
-relatedQueries,pickleball,US,,,,9,,top,20,pickleball bag,9,https://trends.google.com/trends/explore?q=pickleball+bag&date=today+3-m&geo=US,2026-11-23T12:32:13.270Z,00de980c4a5344c1
-relatedQueries,pickleball,US,,,,9,,top,21,best pickleball paddle,9,https://trends.google.com/trends/explore?q=best+pickleball+paddle&date=today+3-m&geo=US,2026-11-23T12:32:13.270Z,21861f25538b903f
-relatedQueries,pickleball,US,,,,8,,top,22,joola pickleball paddle,8,https://trends.google.com/trends/explore?q=joola+pickleball+paddle&date=today+3-m&geo=US,2026-11-23T12:32:13.270Z,5c2611914ac90ef0
-relatedQueries,pickleball,US,,,,8,,top,23,best pickleball paddles,8,https://trends.google.com/trends/explore?q=best+pickleball+paddles&date=today+3-m&geo=US,2026-11-23T12:32:13.270Z,8162e1332edbebe2
-relatedQueries,pickleball,US,,,,8,,top,24,indoor pickleball courts,8,https://trends.google.com/trends/explore?q=indoor+pickleball+courts&date=today+3-m&geo=US,2026-11-23T12:32:13.270Z,297eae229557db8d
-relatedQueries,pickleball,US,,,,14050,,rising,0,maria ford pickleball,Breakout,https://trends.google.com/trends/explore?q=maria+ford+pickleball&date=today+3-m&geo=US,2026-11-23T12:32:13.270Z,5d3d0dc3f8fcbaa5
-relatedQueries,pickleball,US,,,,900,,rising,1,veolia pickleball national championships,+900%,https://trends.google.com/trends/explore?q=veolia+pickleball+national+championships&date=today+3-m&geo=US,2026-11-23T12:32:13.270Z,107e4d37dd724dc9
-relatedQueries,pickleball,US,,,,350,,rising,2,cpl pickleball,+350%,https://trends.google.com/trends/explore?q=cpl+pickleball&date=today+3-m&geo=US,2026-11-23T12:32:13.270Z,d2e7f757f2a1f9c8
-relatedQueries,pickleball,US,,,,170,,rising,3,ppa pickleball,+170%,https://trends.google.com/trends/explore?q=ppa+pickleball&date=today+3-m&geo=US,2026-11-23T12:32:13.270Z,bc84421591a7ad4e
-relatedQueries,pickleball,US,,,,150,,rising,4,a pickleball christmas,+150%,https://trends.google.com/trends/explore?q=a+pickleball+christmas&date=today+3-m&geo=US,2026-11-23T12:32:13.270Z,78c5e643d6110e7f
-relatedQueries,pickleball,US,,,,70,,rising,5,pilla pickleball glasses,+70%,https://trends.google.com/trends/explore?q=pilla+pickleball+glasses&date=today+3-m&geo=US,2026-11-23T12:32:13.270Z,29e68b6b5687f925
-relatedQueries,pickleball,US,,,,70,,rising,6,honcho pickleball,+70%,https://trends.google.com/trends/explore?q=honcho+pickleball&date=today+3-m&geo=US,2026-11-23T12:32:13.270Z,2c998498768ec9e4
-relatedQueries,pickleball,US,,,,60,,rising,7,when was pickleball invented,+60%,https://trends.google.com/trends/explore?q=when+was+pickleball+invented&date=today+3-m&geo=US,2026-11-23T12:32:13.270Z,ae2f6b7142e10929
-relatedQueries,pickleball,US,,,,60,,rising,8,rpm pickleball,+60%,https://trends.google.com/trends/explore?q=rpm+pickleball&date=today+3-m&geo=US,2026-11-23T12:32:13.270Z,3237d5ce6a523b7e
-relatedQueries,pickleball,US,,,,60,,rising,9,diadem pickleball complex,+60%,https://trends.google.com/trends/explore?q=diadem+pickleball+complex&date=today+3-m&geo=US,2026-11-23T12:32:13.270Z,4129c450ece3334c
-relatedQueries,pickleball,US,,,,50,,rising,10,pickleball den,+50%,https://trends.google.com/trends/explore?q=pickleball+den&date=today+3-m&geo=US,2026-11-23T12:32:13.270Z,3b25e7c05ffd9d6a
-relatedQueries,pickleball,US,,,,40,,rising,11,dupr pickleball,+40%,https://trends.google.com/trends/explore?q=dupr+pickleball&date=today+3-m&geo=US,2026-11-23T12:32:13.270Z,dc74d2412712dd7d
-relatedQueries,pickleball,US,,,,40,,rising,12,dupr,+40%,https://trends.google.com/trends/explore?q=dupr&date=today+3-m&geo=US,2026-11-23T12:32:13.270Z,1ecbc6b969b702ef
-relatedQueries,pickleball,US,,,,40,,rising,13,rpm pickleball paddle,+40%,https://trends.google.com/trends/explore?q=rpm+pickleball+paddle&date=today+3-m&geo=US,2026-11-23T12:32:13.270Z,2b1b555f516819d7
-relatedQueries,pickleball,US,,,,40,,rising,14,pickleball leagues near me,+40%,https://trends.google.com/trends/explore?q=pickleball+leagues+near+me&date=today+3-m&geo=US,2026-11-23T12:32:13.270Z,7e486bc6fe8a8abc
+interestOverTime,coffee,US,today 3-m,2026-08-24T00:00:00.000Z,"Aug 24, 2026",74,false,,,,,,2026-11-24T00:32:06.045Z,4730fae14063c70f
+interestOverTime,coffee,US,today 3-m,2026-08-25T00:00:00.000Z,"Aug 25, 2026",71,false,,,,,,2026-11-24T00:32:06.045Z,0db4d73d17ef4a1c
+interestOverTime,coffee,US,today 3-m,2026-08-26T00:00:00.000Z,"Aug 26, 2026",69,false,,,,,,2026-11-24T00:32:06.045Z,ef820aa758f7c5a8
+interestOverTime,coffee,US,today 3-m,2026-08-27T00:00:00.000Z,"Aug 27, 2026",68,false,,,,,,2026-11-24T00:32:06.045Z,8458f2fcb4e648d2
+interestOverTime,coffee,US,today 3-m,2026-08-28T00:00:00.000Z,"Aug 28, 2026",69,false,,,,,,2026-11-24T00:32:06.045Z,928d0fa718ffbb3e
+interestOverTime,coffee,US,today 3-m,2026-08-29T00:00:00.000Z,"Aug 29, 2026",87,false,,,,,,2026-11-24T00:32:06.045Z,a8c44f1ccc3d6c76
+interestOverTime,coffee,US,today 3-m,2026-08-30T00:00:00.000Z,"Aug 30, 2026",92,false,,,,,,2026-11-24T00:32:06.045Z,8ed4ecca16036512
+interestOverTime,coffee,US,today 3-m,2026-08-31T00:00:00.000Z,"Aug 31, 2026",68,false,,,,,,2026-11-24T00:32:06.045Z,95fef74d88ada230
+interestOverTime,coffee,US,today 3-m,2026-09-01T00:00:00.000Z,"Sep 1, 2026",67,false,,,,,,2026-11-24T00:32:06.045Z,68791f9a2f4e8b69
+interestOverTime,coffee,US,today 3-m,2026-09-02T00:00:00.000Z,"Sep 2, 2026",66,false,,,,,,2026-11-24T00:32:06.045Z,754fd0e863dc1251
+interestOverTime,coffee,US,today 3-m,2026-09-03T00:00:00.000Z,"Sep 3, 2026",69,false,,,,,,2026-11-24T00:32:06.045Z,bbb5083e48aac545
+interestOverTime,coffee,US,today 3-m,2026-09-04T00:00:00.000Z,"Sep 4, 2026",74,false,,,,,,2026-11-24T00:32:06.045Z,5428478a1a8cc497
+interestOverTime,coffee,US,today 3-m,2026-09-05T00:00:00.000Z,"Sep 5, 2026",92,false,,,,,,2026-11-24T00:32:06.045Z,ccff9f786ea379b9
+interestOverTime,coffee,US,today 3-m,2026-09-06T00:00:00.000Z,"Sep 6, 2026",100,false,,,,,,2026-11-24T00:32:06.045Z,ec18da2b29c2dbd5
+interestOverTime,coffee,US,today 3-m,2026-09-07T00:00:00.000Z,"Sep 7, 2026",98,false,,,,,,2026-11-24T00:32:06.045Z,595b1bf3a18dff63
+interestOverTime,coffee,US,today 3-m,2026-09-08T00:00:00.000Z,"Sep 8, 2026",70,false,,,,,,2026-11-24T00:32:06.045Z,43ab07486e388dfd
+interestOverTime,coffee,US,today 3-m,2026-09-09T00:00:00.000Z,"Sep 9, 2026",67,false,,,,,,2026-11-24T00:32:06.045Z,08333b8902320f6d
+interestOverTime,coffee,US,today 3-m,2026-09-10T00:00:00.000Z,"Sep 10, 2026",66,false,,,,,,2026-11-24T00:32:06.045Z,09ab76aa1761e36f
+interestOverTime,coffee,US,today 3-m,2026-09-11T00:00:00.000Z,"Sep 11, 2026",69,false,,,,,,2026-11-24T00:32:06.045Z,5290c2e696f80346
+interestOverTime,coffee,US,today 3-m,2026-09-12T00:00:00.000Z,"Sep 12, 2026",82,false,,,,,,2026-11-24T00:32:06.045Z,29a2bcbaee1ed181
+interestOverTime,coffee,US,today 3-m,2026-09-13T00:00:00.000Z,"Sep 13, 2026",90,false,,,,,,2026-11-24T00:32:06.045Z,4aaf44a78a349627
+interestOverTime,coffee,US,today 3-m,2026-09-14T00:00:00.000Z,"Sep 14, 2026",80,false,,,,,,2026-11-24T00:32:06.045Z,404aa58869d8da87
+interestOverTime,coffee,US,today 3-m,2026-09-15T00:00:00.000Z,"Sep 15, 2026",71,false,,,,,,2026-11-24T00:32:06.045Z,c8856ca9f32df947
+interestOverTime,coffee,US,today 3-m,2026-09-16T00:00:00.000Z,"Sep 16, 2026",70,false,,,,,,2026-11-24T00:32:06.045Z,6afc8a3c9635da46
+interestOverTime,coffee,US,today 3-m,2026-09-17T00:00:00.000Z,"Sep 17, 2026",72,false,,,,,,2026-11-24T00:32:06.045Z,a505337e35fefcb9
+interestOverTime,coffee,US,today 3-m,2026-09-18T00:00:00.000Z,"Sep 18, 2026",76,false,,,,,,2026-11-24T00:32:06.045Z,a5077a7d10d6f16e
+interestOverTime,coffee,US,today 3-m,2026-09-19T00:00:00.000Z,"Sep 19, 2026",85,false,,,,,,2026-11-24T00:32:06.045Z,7afa16f09466bb7f
+interestOverTime,coffee,US,today 3-m,2026-09-20T00:00:00.000Z,"Sep 20, 2026",93,false,,,,,,2026-11-24T00:32:06.045Z,324daf2d51215b44
+interestOverTime,coffee,US,today 3-m,2026-09-21T00:00:00.000Z,"Sep 21, 2026",69,false,,,,,,2026-11-24T00:32:06.045Z,6f0bc79fcb286b97
+interestOverTime,coffee,US,today 3-m,2026-09-22T00:00:00.000Z,"Sep 22, 2026",72,false,,,,,,2026-11-24T00:32:06.045Z,6d008e2a9e6f82fb
+interestOverTime,coffee,US,today 3-m,2026-09-23T00:00:00.000Z,"Sep 23, 2026",80,false,,,,,,2026-11-24T00:32:06.045Z,9d9cfa894a2ba37b
+interestOverTime,coffee,US,today 3-m,2026-09-24T00:00:00.000Z,"Sep 24, 2026",74,false,,,,,,2026-11-24T00:32:06.045Z,01845f7afeffefcb
+interestOverTime,coffee,US,today 3-m,2026-09-25T00:00:00.000Z,"Sep 25, 2026",82,false,,,,,,2026-11-24T00:32:06.045Z,9c7e72ceeabd99ed
+interestOverTime,coffee,US,today 3-m,2026-09-26T00:00:00.000Z,"Sep 26, 2026",90,false,,,,,,2026-11-24T00:32:06.045Z,01e8db41fcca975e
+interestOverTime,coffee,US,today 3-m,2026-09-27T00:00:00.000Z,"Sep 27, 2026",82,false,,,,,,2026-11-24T00:32:06.045Z,5e59f95d5e56c234
+interestOverTime,coffee,US,today 3-m,2026-09-28T00:00:00.000Z,"Sep 28, 2026",72,false,,,,,,2026-11-24T00:32:06.045Z,adc5894c37e791b3
+interestOverTime,coffee,US,today 3-m,2026-09-29T00:00:00.000Z,"Sep 29, 2026",95,false,,,,,,2026-11-24T00:32:06.045Z,58227bbc3e4883f9
+interestOverTime,coffee,US,today 3-m,2026-09-30T00:00:00.000Z,"Sep 30, 2026",69,false,,,,,,2026-11-24T00:32:06.045Z,4d248c2d475bf90a
+interestOverTime,coffee,US,today 3-m,2026-10-01T00:00:00.000Z,"Oct 1, 2026",66,false,,,,,,2026-11-24T00:32:06.045Z,e93a58737fc7599b
+interestOverTime,coffee,US,today 3-m,2026-10-02T00:00:00.000Z,"Oct 2, 2026",71,false,,,,,,2026-11-24T00:32:06.045Z,75e59c09b35d1dc2
+interestOverTime,coffee,US,today 3-m,2026-10-03T00:00:00.000Z,"Oct 3, 2026",85,false,,,,,,2026-11-24T00:32:06.045Z,b409a9ac17b626e2
+interestOverTime,coffee,US,today 3-m,2026-10-04T00:00:00.000Z,"Oct 4, 2026",84,false,,,,,,2026-11-24T00:32:06.045Z,b4711af83463c82d
+interestOverTime,coffee,US,today 3-m,2026-10-05T00:00:00.000Z,"Oct 5, 2026",74,false,,,,,,2026-11-24T00:32:06.045Z,1aa6c053e1b58155
+interestOverTime,coffee,US,today 3-m,2026-10-06T00:00:00.000Z,"Oct 6, 2026",71,false,,,,,,2026-11-24T00:32:06.045Z,b7d4f29c0a357df9
+interestOverTime,coffee,US,today 3-m,2026-10-07T00:00:00.000Z,"Oct 7, 2026",72,false,,,,,,2026-11-24T00:32:06.045Z,e6c3417a524b2f40
+interestOverTime,coffee,US,today 3-m,2026-10-08T00:00:00.000Z,"Oct 8, 2026",68,false,,,,,,2026-11-24T00:32:06.045Z,57e7d4606b7e8e0e
+interestOverTime,coffee,US,today 3-m,2026-10-09T00:00:00.000Z,"Oct 9, 2026",74,false,,,,,,2026-11-24T00:32:06.045Z,56a2e04ad28761d7
+interestOverTime,coffee,US,today 3-m,2026-10-10T00:00:00.000Z,"Oct 10, 2026",98,false,,,,,,2026-11-24T00:32:06.045Z,73dce268aa85f923
+interestOverTime,coffee,US,today 3-m,2026-10-11T00:00:00.000Z,"Oct 11, 2026",92,false,,,,,,2026-11-24T00:32:06.045Z,5e3dc2df938ab96c
+interestOverTime,coffee,US,today 3-m,2026-10-12T00:00:00.000Z,"Oct 12, 2026",74,false,,,,,,2026-11-24T00:32:06.045Z,a134029d8246a933
+interestOverTime,coffee,US,today 3-m,2026-10-13T00:00:00.000Z,"Oct 13, 2026",72,false,,,,,,2026-11-24T00:32:06.045Z,c84ddfb40e800f90
+interestOverTime,coffee,US,today 3-m,2026-10-14T00:00:00.000Z,"Oct 14, 2026",66,false,,,,,,2026-11-24T00:32:06.045Z,46db78aaa258185a
+interestOverTime,coffee,US,today 3-m,2026-10-15T00:00:00.000Z,"Oct 15, 2026",67,false,,,,,,2026-11-24T00:32:06.045Z,98db79c4b8d3e5ea
+interestOverTime,coffee,US,today 3-m,2026-10-16T00:00:00.000Z,"Oct 16, 2026",68,false,,,,,,2026-11-24T00:32:06.045Z,64020f8c8aca476c
+interestOverTime,coffee,US,today 3-m,2026-10-17T00:00:00.000Z,"Oct 17, 2026",86,false,,,,,,2026-11-24T00:32:06.045Z,5e1c952249e1f3ed
+interestOverTime,coffee,US,today 3-m,2026-10-18T00:00:00.000Z,"Oct 18, 2026",86,false,,,,,,2026-11-24T00:32:06.045Z,70d6849703201516
+interestOverTime,coffee,US,today 3-m,2026-10-19T00:00:00.000Z,"Oct 19, 2026",65,false,,,,,,2026-11-24T00:32:06.045Z,522cba810708acec
+interestOverTime,coffee,US,today 3-m,2026-10-20T00:00:00.000Z,"Oct 20, 2026",63,false,,,,,,2026-11-24T00:32:06.045Z,44583eee35810ca6
+interestOverTime,coffee,US,today 3-m,2026-10-21T00:00:00.000Z,"Oct 21, 2026",67,false,,,,,,2026-11-24T00:32:06.045Z,84ce91a06268f4d6
+interestOverTime,coffee,US,today 3-m,2026-10-22T00:00:00.000Z,"Oct 22, 2026",66,false,,,,,,2026-11-24T00:32:06.045Z,92b52ecc7f7d9631
+interestOverTime,coffee,US,today 3-m,2026-10-23T00:00:00.000Z,"Oct 23, 2026",67,false,,,,,,2026-11-24T00:32:06.045Z,c85fb7e8092d8644
+interestOverTime,coffee,US,today 3-m,2026-10-24T00:00:00.000Z,"Oct 24, 2026",85,false,,,,,,2026-11-24T00:32:06.045Z,d505feb8782dd337
+interestOverTime,coffee,US,today 3-m,2026-10-25T00:00:00.000Z,"Oct 25, 2026",87,false,,,,,,2026-11-24T00:32:06.045Z,5030c57be5f6f19a
+interestOverTime,coffee,US,today 3-m,2026-10-26T00:00:00.000Z,"Oct 26, 2026",63,false,,,,,,2026-11-24T00:32:06.045Z,2bebcf5197aadaca
+interestOverTime,coffee,US,today 3-m,2026-10-27T00:00:00.000Z,"Oct 27, 2026",66,false,,,,,,2026-11-24T00:32:06.045Z,ddb8366b15ea29a0
+interestOverTime,coffee,US,today 3-m,2026-10-28T00:00:00.000Z,"Oct 28, 2026",62,false,,,,,,2026-11-24T00:32:06.045Z,f3275a3e820b1a23
+interestOverTime,coffee,US,today 3-m,2026-10-29T00:00:00.000Z,"Oct 29, 2026",64,false,,,,,,2026-11-24T00:32:06.045Z,5c9e53c5b85f6505
+interestOverTime,coffee,US,today 3-m,2026-10-30T00:00:00.000Z,"Oct 30, 2026",63,false,,,,,,2026-11-24T00:32:06.045Z,499e6eec26407a4d
+interestOverTime,coffee,US,today 3-m,2026-10-31T00:00:00.000Z,"Oct 31, 2026",77,false,,,,,,2026-11-24T00:32:06.045Z,50b5f4ac6f323097
+interestOverTime,coffee,US,today 3-m,2026-11-01T00:00:00.000Z,"Nov 1, 2026",85,false,,,,,,2026-11-24T00:32:06.045Z,976097fdb9a8f609
+interestOverTime,coffee,US,today 3-m,2026-11-02T00:00:00.000Z,"Nov 2, 2026",64,false,,,,,,2026-11-24T00:32:06.045Z,f8c3350ad14851d2
+interestOverTime,coffee,US,today 3-m,2026-11-03T00:00:00.000Z,"Nov 3, 2026",62,false,,,,,,2026-11-24T00:32:06.045Z,6e727d4dbf69d31d
+interestOverTime,coffee,US,today 3-m,2026-11-04T00:00:00.000Z,"Nov 4, 2026",55,false,,,,,,2026-11-24T00:32:06.045Z,a6249e909da7a1bc
+interestOverTime,coffee,US,today 3-m,2026-11-05T00:00:00.000Z,"Nov 5, 2026",63,false,,,,,,2026-11-24T00:32:06.045Z,7c825aca1650591c
+interestOverTime,coffee,US,today 3-m,2026-11-06T00:00:00.000Z,"Nov 6, 2026",67,false,,,,,,2026-11-24T00:32:06.045Z,15ce5f46e662757b
+interestOverTime,coffee,US,today 3-m,2026-11-07T00:00:00.000Z,"Nov 7, 2026",85,false,,,,,,2026-11-24T00:32:06.045Z,7a93db9aeee68ec8
+interestOverTime,coffee,US,today 3-m,2026-11-08T00:00:00.000Z,"Nov 8, 2026",91,false,,,,,,2026-11-24T00:32:06.045Z,0752b11a90b5dc2a
+interestOverTime,coffee,US,today 3-m,2026-11-09T00:00:00.000Z,"Nov 9, 2026",65,false,,,,,,2026-11-24T00:32:06.045Z,509b5a63da3e898c
+interestOverTime,coffee,US,today 3-m,2026-11-10T00:00:00.000Z,"Nov 10, 2026",64,false,,,,,,2026-11-24T00:32:06.045Z,d267d397405fcf06
+interestOverTime,coffee,US,today 3-m,2026-11-11T00:00:00.000Z,"Nov 11, 2026",81,false,,,,,,2026-11-24T00:32:06.045Z,d230bb99d4820100
+interestOverTime,coffee,US,today 3-m,2026-11-12T00:00:00.000Z,"Nov 12, 2026",66,false,,,,,,2026-11-24T00:32:06.045Z,37f547f57d6db59e
+interestOverTime,coffee,US,today 3-m,2026-11-13T00:00:00.000Z,"Nov 13, 2026",66,false,,,,,,2026-11-24T00:32:06.045Z,878dddc8b6578247
+interestOverTime,coffee,US,today 3-m,2026-11-14T00:00:00.000Z,"Nov 14, 2026",86,false,,,,,,2026-11-24T00:32:06.045Z,d05ea58f1e870389
+interestOverTime,coffee,US,today 3-m,2026-11-15T00:00:00.000Z,"Nov 15, 2026",84,false,,,,,,2026-11-24T00:32:06.045Z,7a6464e36330759f
+interestOverTime,coffee,US,today 3-m,2026-11-16T00:00:00.000Z,"Nov 16, 2026",67,false,,,,,,2026-11-24T00:32:06.045Z,ca0f105510fdf486
+interestOverTime,coffee,US,today 3-m,2026-11-17T00:00:00.000Z,"Nov 17, 2026",63,false,,,,,,2026-11-24T00:32:06.045Z,51c2584df449aca4
+interestOverTime,coffee,US,today 3-m,2026-11-18T00:00:00.000Z,"Nov 18, 2026",67,false,,,,,,2026-11-24T00:32:06.045Z,42f7036860ffd447
+interestOverTime,coffee,US,today 3-m,2026-11-19T00:00:00.000Z,"Nov 19, 2026",70,false,,,,,,2026-11-24T00:32:06.045Z,d1d981adc52ea1ed
+interestOverTime,coffee,US,today 3-m,2026-11-20T00:00:00.000Z,"Nov 20, 2026",70,false,,,,,,2026-11-24T00:32:06.045Z,a3b2ab02e418f138
+interestOverTime,coffee,US,today 3-m,2026-11-21T00:00:00.000Z,"Nov 21, 2026",84,false,,,,,,2026-11-24T00:32:06.045Z,96edc3f9a37fdae4
+interestOverTime,coffee,US,today 3-m,2026-11-22T00:00:00.000Z,"Nov 22, 2026",85,false,,,,,,2026-11-24T00:32:06.045Z,c8166a43a28c452f
+interestOverTime,coffee,US,today 3-m,2026-11-23T00:00:00.000Z,"Nov 23, 2026",74,false,,,,,,2026-11-24T00:32:06.045Z,2a99734a7b36e0f0
+interestOverTime,coffee,US,today 3-m,2026-11-24T00:00:00.000Z,"Nov 24, 2026",66,true,,,,,,2026-11-24T00:32:06.045Z,f5cd1043329e45ee
+relatedQueries,coffee,US,,,,100,,top,0,coffee near me,100,https://trends.google.com/trends/explore?q=coffee+near+me&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,0f0ffd6fbc473500
+relatedQueries,coffee,US,,,,85,,top,1,coffee shop,85,https://trends.google.com/trends/explore?q=coffee+shop&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,172b002ab25dde86
+relatedQueries,coffee,US,,,,72,,top,2,coffee shops,72,https://trends.google.com/trends/explore?q=coffee+shops&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,46d57cc67bcee54f
+relatedQueries,coffee,US,,,,66,,top,3,coffee maker,66,https://trends.google.com/trends/explore?q=coffee+maker&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,9d85d6c66f6fb7a8
+relatedQueries,coffee,US,,,,59,,top,4,coffee table,59,https://trends.google.com/trends/explore?q=coffee+table&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,8dd500db1ade030f
+relatedQueries,coffee,US,,,,51,,top,5,coffee cup,51,https://trends.google.com/trends/explore?q=coffee+cup&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,42328a9fdf47b3bd
+relatedQueries,coffee,US,,,,34,,top,6,starbucks coffee,34,https://trends.google.com/trends/explore?q=starbucks+coffee&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,ab86fe6c844074fc
+relatedQueries,coffee,US,,,,33,,top,7,coffee machine,33,https://trends.google.com/trends/explore?q=coffee+machine&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,8eea8ee24544ff66
+relatedQueries,coffee,US,,,,27,,top,8,coffee grinder,27,https://trends.google.com/trends/explore?q=coffee+grinder&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,53a79f6e8cac7363
+relatedQueries,coffee,US,,,,23,,top,9,coffee beans,23,https://trends.google.com/trends/explore?q=coffee+beans&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,104d873d684f1a4b
+relatedQueries,coffee,US,,,,21,,top,10,coffee shops near me,21,https://trends.google.com/trends/explore?q=coffee+shops+near+me&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,2506124ebc074b01
+relatedQueries,coffee,US,,,,21,,top,11,coffee bean,21,https://trends.google.com/trends/explore?q=coffee+bean&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,1c47a2512158b4fa
+relatedQueries,coffee,US,,,,20,,top,12,coffee bar,20,https://trends.google.com/trends/explore?q=coffee+bar&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,0088266c82fb2766
+relatedQueries,coffee,US,,,,19,,top,13,coffee creamer,19,https://trends.google.com/trends/explore?q=coffee+creamer&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,e739467cafd8f8d7
+relatedQueries,coffee,US,,,,18,,top,14,coffee shops nearby,18,https://trends.google.com/trends/explore?q=coffee+shops+nearby&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,b1d86c147790677d
+relatedQueries,coffee,US,,,,16,,top,15,coffee pot,16,https://trends.google.com/trends/explore?q=coffee+pot&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,b7a3601b6a89482b
+relatedQueries,coffee,US,,,,15,,top,16,keurig,15,https://trends.google.com/trends/explore?q=keurig&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,9bbf3cd66c64c550
+relatedQueries,coffee,US,,,,14,,top,17,coffee cake,14,https://trends.google.com/trends/explore?q=coffee+cake&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,65700055c81458ff
+relatedQueries,coffee,US,,,,14,,top,18,instant coffee,14,https://trends.google.com/trends/explore?q=instant+coffee&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,a5fb64c1c2588505
+relatedQueries,coffee,US,,,,12,,top,19,ryze coffee,12,https://trends.google.com/trends/explore?q=ryze+coffee&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,2dbb9a5425e9a76d
+relatedQueries,coffee,US,,,,12,,top,20,mushroom coffee,12,https://trends.google.com/trends/explore?q=mushroom+coffee&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,f32115f9bcc7640f
+relatedQueries,coffee,US,,,,12,,top,21,coffee shop near me,12,https://trends.google.com/trends/explore?q=coffee+shop+near+me&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,35f705961a3c100f
+relatedQueries,coffee,US,,,,11,,top,22,coffee syrup,11,https://trends.google.com/trends/explore?q=coffee+syrup&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,4fb7e501a467d78d
+relatedQueries,coffee,US,,,,9,,top,23,drip coffee,9,https://trends.google.com/trends/explore?q=drip+coffee&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,9812fbf10851cb95
+relatedQueries,coffee,US,,,,9,,top,24,7 brew coffee,9,https://trends.google.com/trends/explore?q=7+brew+coffee&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,7370efb9cc5d2ddc
+relatedQueries,coffee,US,,,,3200,,rising,0,university of copenhagen coffee study,"+3,200%",https://trends.google.com/trends/explore?q=university+of+copenhagen+coffee+study&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,60564ea0f398dac9
+relatedQueries,coffee,US,,,,3050,,rising,1,caraway coffee maker,"+3,050%",https://trends.google.com/trends/explore?q=caraway+coffee+maker&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,baa850d1f92b7a15
+relatedQueries,coffee,US,,,,1850,,rising,2,coffee deets,"+1,850%",https://trends.google.com/trends/explore?q=coffee+deets&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,7272abd5ba8980e2
+relatedQueries,coffee,US,,,,1700,,rising,3,coffee deets .com,"+1,700%",https://trends.google.com/trends/explore?q=coffee+deets+.com&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,a0f484a854411b93
+relatedQueries,coffee,US,,,,900,,rising,4,drink coffee talk fast,+900%,https://trends.google.com/trends/explore?q=drink+coffee+talk+fast&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,b81fe6da110b8ece
+relatedQueries,coffee,US,,,,140,,rising,5,coffee gear coffeedeets.com,+140%,https://trends.google.com/trends/explore?q=coffee+gear+coffeedeets.com&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,078b8336f2064d28
+relatedQueries,coffee,US,,,,100,,rising,6,anomalous coffee machine,+100%,https://trends.google.com/trends/explore?q=anomalous+coffee+machine&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,f8e642031219cfd5
+relatedQueries,coffee,US,,,,100,,rising,7,plastic free coffee maker,+100%,https://trends.google.com/trends/explore?q=plastic+free+coffee+maker&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,d49025baa24e9f44
+relatedQueries,coffee,US,,,,50,,rising,8,ralphs coffee,+50%,https://trends.google.com/trends/explore?q=ralphs+coffee&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,ef241490f58e3919
+interestOverTime,matcha,US,today 3-m,2026-08-24T00:00:00.000Z,"Aug 24, 2026",78,false,,,,,,2026-11-24T00:32:06.045Z,d4d68440f94cd083
+interestOverTime,matcha,US,today 3-m,2026-08-25T00:00:00.000Z,"Aug 25, 2026",75,false,,,,,,2026-11-24T00:32:06.045Z,a84031e10b7ee03d
+interestOverTime,matcha,US,today 3-m,2026-08-26T00:00:00.000Z,"Aug 26, 2026",71,false,,,,,,2026-11-24T00:32:06.045Z,1695abc19836ea5d
+interestOverTime,matcha,US,today 3-m,2026-08-27T00:00:00.000Z,"Aug 27, 2026",74,false,,,,,,2026-11-24T00:32:06.045Z,1ac9f266f0ca450c
+interestOverTime,matcha,US,today 3-m,2026-08-28T00:00:00.000Z,"Aug 28, 2026",75,false,,,,,,2026-11-24T00:32:06.045Z,b37ca2e293d8fb19
+interestOverTime,matcha,US,today 3-m,2026-08-29T00:00:00.000Z,"Aug 29, 2026",93,false,,,,,,2026-11-24T00:32:06.045Z,eab692cdcf78db6a
+interestOverTime,matcha,US,today 3-m,2026-08-30T00:00:00.000Z,"Aug 30, 2026",95,false,,,,,,2026-11-24T00:32:06.045Z,c827f4236bc684d6
+interestOverTime,matcha,US,today 3-m,2026-08-31T00:00:00.000Z,"Aug 31, 2026",78,false,,,,,,2026-11-24T00:32:06.045Z,deb983c02c7b1d5c
+interestOverTime,matcha,US,today 3-m,2026-09-01T00:00:00.000Z,"Sep 1, 2026",70,false,,,,,,2026-11-24T00:32:06.045Z,7ee42f4d17797839
+interestOverTime,matcha,US,today 3-m,2026-09-02T00:00:00.000Z,"Sep 2, 2026",71,false,,,,,,2026-11-24T00:32:06.045Z,1db7ba6525e253ad
+interestOverTime,matcha,US,today 3-m,2026-09-03T00:00:00.000Z,"Sep 3, 2026",79,false,,,,,,2026-11-24T00:32:06.045Z,9b97dabba8ffc647
+interestOverTime,matcha,US,today 3-m,2026-09-04T00:00:00.000Z,"Sep 4, 2026",82,false,,,,,,2026-11-24T00:32:06.045Z,46c7bdeadc27393a
+interestOverTime,matcha,US,today 3-m,2026-09-05T00:00:00.000Z,"Sep 5, 2026",92,false,,,,,,2026-11-24T00:32:06.045Z,f9cf2befa67de82f
+interestOverTime,matcha,US,today 3-m,2026-09-06T00:00:00.000Z,"Sep 6, 2026",100,false,,,,,,2026-11-24T00:32:06.045Z,363d84be7a4f7592
+interestOverTime,matcha,US,today 3-m,2026-09-07T00:00:00.000Z,"Sep 7, 2026",93,false,,,,,,2026-11-24T00:32:06.045Z,8ade29f0baf4bbae
+interestOverTime,matcha,US,today 3-m,2026-09-08T00:00:00.000Z,"Sep 8, 2026",73,false,,,,,,2026-11-24T00:32:06.045Z,dfc0186feac1b550
+interestOverTime,matcha,US,today 3-m,2026-09-09T00:00:00.000Z,"Sep 9, 2026",69,false,,,,,,2026-11-24T00:32:06.045Z,eda506b43a33079c
+interestOverTime,matcha,US,today 3-m,2026-09-10T00:00:00.000Z,"Sep 10, 2026",70,false,,,,,,2026-11-24T00:32:06.045Z,d703238d66a11a5d
+interestOverTime,matcha,US,today 3-m,2026-09-11T00:00:00.000Z,"Sep 11, 2026",71,false,,,,,,2026-11-24T00:32:06.045Z,5d1ec918df9f25b6
+interestOverTime,matcha,US,today 3-m,2026-09-12T00:00:00.000Z,"Sep 12, 2026",92,false,,,,,,2026-11-24T00:32:06.045Z,576885e2a8a3c41c
+interestOverTime,matcha,US,today 3-m,2026-09-13T00:00:00.000Z,"Sep 13, 2026",88,false,,,,,,2026-11-24T00:32:06.045Z,7c5fafa3d561c874
+interestOverTime,matcha,US,today 3-m,2026-09-14T00:00:00.000Z,"Sep 14, 2026",71,false,,,,,,2026-11-24T00:32:06.045Z,f6b34f8a210116eb
+interestOverTime,matcha,US,today 3-m,2026-09-15T00:00:00.000Z,"Sep 15, 2026",74,false,,,,,,2026-11-24T00:32:06.045Z,37973434ce4eeeac
+interestOverTime,matcha,US,today 3-m,2026-09-16T00:00:00.000Z,"Sep 16, 2026",71,false,,,,,,2026-11-24T00:32:06.045Z,0c01f22f3cb803d1
+interestOverTime,matcha,US,today 3-m,2026-09-17T00:00:00.000Z,"Sep 17, 2026",82,false,,,,,,2026-11-24T00:32:06.045Z,4ea5f368f43655f2
+interestOverTime,matcha,US,today 3-m,2026-09-18T00:00:00.000Z,"Sep 18, 2026",78,false,,,,,,2026-11-24T00:32:06.045Z,0aa362a88c5df1fe
+interestOverTime,matcha,US,today 3-m,2026-09-19T00:00:00.000Z,"Sep 19, 2026",80,false,,,,,,2026-11-24T00:32:06.045Z,6dd38853d0f39e2b
+interestOverTime,matcha,US,today 3-m,2026-09-20T00:00:00.000Z,"Sep 20, 2026",87,false,,,,,,2026-11-24T00:32:06.045Z,d85af69785a595e4
+interestOverTime,matcha,US,today 3-m,2026-09-21T00:00:00.000Z,"Sep 21, 2026",63,false,,,,,,2026-11-24T00:32:06.045Z,3bcb8261ec58080b
+interestOverTime,matcha,US,today 3-m,2026-09-22T00:00:00.000Z,"Sep 22, 2026",65,false,,,,,,2026-11-24T00:32:06.045Z,582219244a0d01a0
+interestOverTime,matcha,US,today 3-m,2026-09-23T00:00:00.000Z,"Sep 23, 2026",70,false,,,,,,2026-11-24T00:32:06.045Z,20630cb66466fcd7
+interestOverTime,matcha,US,today 3-m,2026-09-24T00:00:00.000Z,"Sep 24, 2026",70,false,,,,,,2026-11-24T00:32:06.045Z,cbe27ffb70aabfe2
+interestOverTime,matcha,US,today 3-m,2026-09-25T00:00:00.000Z,"Sep 25, 2026",69,false,,,,,,2026-11-24T00:32:06.045Z,594a510235e3b4ce
+interestOverTime,matcha,US,today 3-m,2026-09-26T00:00:00.000Z,"Sep 26, 2026",81,false,,,,,,2026-11-24T00:32:06.045Z,58303da655106192
+interestOverTime,matcha,US,today 3-m,2026-09-27T00:00:00.000Z,"Sep 27, 2026",84,false,,,,,,2026-11-24T00:32:06.045Z,24be899d4fc3dbae
+interestOverTime,matcha,US,today 3-m,2026-09-28T00:00:00.000Z,"Sep 28, 2026",65,false,,,,,,2026-11-24T00:32:06.045Z,ebe9e3a1a5a29278
+interestOverTime,matcha,US,today 3-m,2026-09-29T00:00:00.000Z,"Sep 29, 2026",66,false,,,,,,2026-11-24T00:32:06.045Z,c936216ae6d111b9
+interestOverTime,matcha,US,today 3-m,2026-09-30T00:00:00.000Z,"Sep 30, 2026",64,false,,,,,,2026-11-24T00:32:06.045Z,100ca5c98c1b0be8
+interestOverTime,matcha,US,today 3-m,2026-10-01T00:00:00.000Z,"Oct 1, 2026",65,false,,,,,,2026-11-24T00:32:06.045Z,de5dae00de583a3f
+interestOverTime,matcha,US,today 3-m,2026-10-02T00:00:00.000Z,"Oct 2, 2026",69,false,,,,,,2026-11-24T00:32:06.045Z,938efae3d9c2a986
+interestOverTime,matcha,US,today 3-m,2026-10-03T00:00:00.000Z,"Oct 3, 2026",85,false,,,,,,2026-11-24T00:32:06.045Z,328d20919b53595e
+interestOverTime,matcha,US,today 3-m,2026-10-04T00:00:00.000Z,"Oct 4, 2026",82,false,,,,,,2026-11-24T00:32:06.045Z,cde47bc2496b1de8
+interestOverTime,matcha,US,today 3-m,2026-10-05T00:00:00.000Z,"Oct 5, 2026",67,false,,,,,,2026-11-24T00:32:06.045Z,e554ac51f90a4559
+interestOverTime,matcha,US,today 3-m,2026-10-06T00:00:00.000Z,"Oct 6, 2026",66,false,,,,,,2026-11-24T00:32:06.045Z,f28e17466cd89a75
+interestOverTime,matcha,US,today 3-m,2026-10-07T00:00:00.000Z,"Oct 7, 2026",67,false,,,,,,2026-11-24T00:32:06.045Z,a71532ef52b327e2
+interestOverTime,matcha,US,today 3-m,2026-10-08T00:00:00.000Z,"Oct 8, 2026",64,false,,,,,,2026-11-24T00:32:06.045Z,29168cb2f55cf326
+interestOverTime,matcha,US,today 3-m,2026-10-09T00:00:00.000Z,"Oct 9, 2026",69,false,,,,,,2026-11-24T00:32:06.045Z,186d8e6a8b598e60
+interestOverTime,matcha,US,today 3-m,2026-10-10T00:00:00.000Z,"Oct 10, 2026",84,false,,,,,,2026-11-24T00:32:06.045Z,3ebff62b00cb1c05
+interestOverTime,matcha,US,today 3-m,2026-10-11T00:00:00.000Z,"Oct 11, 2026",78,false,,,,,,2026-11-24T00:32:06.045Z,b69db4659bc014a7
+interestOverTime,matcha,US,today 3-m,2026-10-12T00:00:00.000Z,"Oct 12, 2026",77,false,,,,,,2026-11-24T00:32:06.045Z,a35e0ae73bb0e384
+interestOverTime,matcha,US,today 3-m,2026-10-13T00:00:00.000Z,"Oct 13, 2026",66,false,,,,,,2026-11-24T00:32:06.045Z,67ea4c3659062682
+interestOverTime,matcha,US,today 3-m,2026-10-14T00:00:00.000Z,"Oct 14, 2026",65,false,,,,,,2026-11-24T00:32:06.045Z,7a9ef7805456ce50
+interestOverTime,matcha,US,today 3-m,2026-10-15T00:00:00.000Z,"Oct 15, 2026",67,false,,,,,,2026-11-24T00:32:06.045Z,c1cf482098c1db14
+interestOverTime,matcha,US,today 3-m,2026-10-16T00:00:00.000Z,"Oct 16, 2026",65,false,,,,,,2026-11-24T00:32:06.045Z,08d8d726943c3a91
+interestOverTime,matcha,US,today 3-m,2026-10-17T00:00:00.000Z,"Oct 17, 2026",78,false,,,,,,2026-11-24T00:32:06.045Z,5018702d33db6837
+interestOverTime,matcha,US,today 3-m,2026-10-18T00:00:00.000Z,"Oct 18, 2026",82,false,,,,,,2026-11-24T00:32:06.045Z,d5de7e9b5923d6d9
+interestOverTime,matcha,US,today 3-m,2026-10-19T00:00:00.000Z,"Oct 19, 2026",61,false,,,,,,2026-11-24T00:32:06.045Z,5d56548892625a35
+interestOverTime,matcha,US,today 3-m,2026-10-20T00:00:00.000Z,"Oct 20, 2026",61,false,,,,,,2026-11-24T00:32:06.045Z,ebb7c6b67e758223
+interestOverTime,matcha,US,today 3-m,2026-10-21T00:00:00.000Z,"Oct 21, 2026",65,false,,,,,,2026-11-24T00:32:06.045Z,2f91a3c871d7ff28
+interestOverTime,matcha,US,today 3-m,2026-10-22T00:00:00.000Z,"Oct 22, 2026",65,false,,,,,,2026-11-24T00:32:06.045Z,a86addef9e2972bb
+interestOverTime,matcha,US,today 3-m,2026-10-23T00:00:00.000Z,"Oct 23, 2026",72,false,,,,,,2026-11-24T00:32:06.045Z,b53f0413860f42d9
+interestOverTime,matcha,US,today 3-m,2026-10-24T00:00:00.000Z,"Oct 24, 2026",78,false,,,,,,2026-11-24T00:32:06.045Z,9f1b82c152e57c37
+interestOverTime,matcha,US,today 3-m,2026-10-25T00:00:00.000Z,"Oct 25, 2026",77,false,,,,,,2026-11-24T00:32:06.045Z,27ac9c80bca3479e
+interestOverTime,matcha,US,today 3-m,2026-10-26T00:00:00.000Z,"Oct 26, 2026",59,false,,,,,,2026-11-24T00:32:06.045Z,440db8c71cb2d1ab
+interestOverTime,matcha,US,today 3-m,2026-10-27T00:00:00.000Z,"Oct 27, 2026",58,false,,,,,,2026-11-24T00:32:06.045Z,163a95730e45803d
+interestOverTime,matcha,US,today 3-m,2026-10-28T00:00:00.000Z,"Oct 28, 2026",57,false,,,,,,2026-11-24T00:32:06.045Z,59b6482293cbc058
+interestOverTime,matcha,US,today 3-m,2026-10-29T00:00:00.000Z,"Oct 29, 2026",57,false,,,,,,2026-11-24T00:32:06.045Z,bec957da5d9f433e
+interestOverTime,matcha,US,today 3-m,2026-10-30T00:00:00.000Z,"Oct 30, 2026",57,false,,,,,,2026-11-24T00:32:06.045Z,e489d90efdde419c
+interestOverTime,matcha,US,today 3-m,2026-10-31T00:00:00.000Z,"Oct 31, 2026",68,false,,,,,,2026-11-24T00:32:06.045Z,60358991d83a517d
+interestOverTime,matcha,US,today 3-m,2026-11-01T00:00:00.000Z,"Nov 1, 2026",65,false,,,,,,2026-11-24T00:32:06.045Z,87a6e13407dd22fb
+interestOverTime,matcha,US,today 3-m,2026-11-02T00:00:00.000Z,"Nov 2, 2026",55,false,,,,,,2026-11-24T00:32:06.045Z,3f9819e6dd834d0a
+interestOverTime,matcha,US,today 3-m,2026-11-03T00:00:00.000Z,"Nov 3, 2026",56,false,,,,,,2026-11-24T00:32:06.045Z,8f2046e4652d4d97
+interestOverTime,matcha,US,today 3-m,2026-11-04T00:00:00.000Z,"Nov 4, 2026",52,false,,,,,,2026-11-24T00:32:06.045Z,39713503e74c57bc
+interestOverTime,matcha,US,today 3-m,2026-11-05T00:00:00.000Z,"Nov 5, 2026",63,false,,,,,,2026-11-24T00:32:06.045Z,7fa01aa3aae41de8
+interestOverTime,matcha,US,today 3-m,2026-11-06T00:00:00.000Z,"Nov 6, 2026",65,false,,,,,,2026-11-24T00:32:06.045Z,1b7df4e21d95a6ff
+interestOverTime,matcha,US,today 3-m,2026-11-07T00:00:00.000Z,"Nov 7, 2026",80,false,,,,,,2026-11-24T00:32:06.045Z,a93556035c21031a
+interestOverTime,matcha,US,today 3-m,2026-11-08T00:00:00.000Z,"Nov 8, 2026",80,false,,,,,,2026-11-24T00:32:06.045Z,07baaf012c865798
+interestOverTime,matcha,US,today 3-m,2026-11-09T00:00:00.000Z,"Nov 9, 2026",62,false,,,,,,2026-11-24T00:32:06.045Z,3fe14ba06f93fbf4
+interestOverTime,matcha,US,today 3-m,2026-11-10T00:00:00.000Z,"Nov 10, 2026",64,false,,,,,,2026-11-24T00:32:06.045Z,72fef4b4eca7246f
+interestOverTime,matcha,US,today 3-m,2026-11-11T00:00:00.000Z,"Nov 11, 2026",76,false,,,,,,2026-11-24T00:32:06.045Z,3d0af37d2c7a34e2
+interestOverTime,matcha,US,today 3-m,2026-11-12T00:00:00.000Z,"Nov 12, 2026",66,false,,,,,,2026-11-24T00:32:06.045Z,2760dd882e632baf
+interestOverTime,matcha,US,today 3-m,2026-11-13T00:00:00.000Z,"Nov 13, 2026",63,false,,,,,,2026-11-24T00:32:06.045Z,4c8e95c77f9ab816
+interestOverTime,matcha,US,today 3-m,2026-11-14T00:00:00.000Z,"Nov 14, 2026",81,false,,,,,,2026-11-24T00:32:06.045Z,373e73513ac79713
+interestOverTime,matcha,US,today 3-m,2026-11-15T00:00:00.000Z,"Nov 15, 2026",83,false,,,,,,2026-11-24T00:32:06.045Z,5002533d2aa987eb
+interestOverTime,matcha,US,today 3-m,2026-11-16T00:00:00.000Z,"Nov 16, 2026",65,false,,,,,,2026-11-24T00:32:06.045Z,e826db74cd0ad722
+interestOverTime,matcha,US,today 3-m,2026-11-17T00:00:00.000Z,"Nov 17, 2026",62,false,,,,,,2026-11-24T00:32:06.045Z,e3b5516ff12149d1
+interestOverTime,matcha,US,today 3-m,2026-11-18T00:00:00.000Z,"Nov 18, 2026",64,false,,,,,,2026-11-24T00:32:06.045Z,9cb8cde3fe100ab5
+interestOverTime,matcha,US,today 3-m,2026-11-19T00:00:00.000Z,"Nov 19, 2026",62,false,,,,,,2026-11-24T00:32:06.045Z,6500e812969bee0a
+interestOverTime,matcha,US,today 3-m,2026-11-20T00:00:00.000Z,"Nov 20, 2026",62,false,,,,,,2026-11-24T00:32:06.045Z,391ef048dc217106
+interestOverTime,matcha,US,today 3-m,2026-11-21T00:00:00.000Z,"Nov 21, 2026",81,false,,,,,,2026-11-24T00:32:06.045Z,27efb61158204e20
+interestOverTime,matcha,US,today 3-m,2026-11-22T00:00:00.000Z,"Nov 22, 2026",86,false,,,,,,2026-11-24T00:32:06.045Z,a7bc1cff4404c5e2
+interestOverTime,matcha,US,today 3-m,2026-11-23T00:00:00.000Z,"Nov 23, 2026",69,false,,,,,,2026-11-24T00:32:06.045Z,309528f9a8c7651e
+interestOverTime,matcha,US,today 3-m,2026-11-24T00:00:00.000Z,"Nov 24, 2026",59,true,,,,,,2026-11-24T00:32:06.045Z,cbc19f0b46376fe6
+relatedQueries,matcha,US,,,,100,,top,0,matcha me,100,https://trends.google.com/trends/explore?q=matcha+me&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,8bbd0484a8adc9ea
+relatedQueries,matcha,US,,,,96,,top,1,matcha latte,96,https://trends.google.com/trends/explore?q=matcha+latte&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,502015e8212934f6
+relatedQueries,matcha,US,,,,86,,top,2,matcha near me,86,https://trends.google.com/trends/explore?q=matcha+near+me&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,95c93dd78180aba1
+relatedQueries,matcha,US,,,,79,,top,3,matcha tea,79,https://trends.google.com/trends/explore?q=matcha+tea&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,687b549b82e2139a
+relatedQueries,matcha,US,,,,75,,top,4,matcha starbucks,75,https://trends.google.com/trends/explore?q=matcha+starbucks&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,4b2b391707fc4392
+relatedQueries,matcha,US,,,,74,,top,5,what is matcha,74,https://trends.google.com/trends/explore?q=what+is+matcha&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,8535790cf92cf702
+relatedQueries,matcha,US,,,,59,,top,6,matcha caffeine,59,https://trends.google.com/trends/explore?q=matcha+caffeine&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,65226afd0fd313ae
+relatedQueries,matcha,US,,,,59,,top,7,best matcha,59,https://trends.google.com/trends/explore?q=best+matcha&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,b13f84ac24e37a9a
+relatedQueries,matcha,US,,,,51,,top,8,matcha powder,51,https://trends.google.com/trends/explore?q=matcha+powder&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,66b91ef8222d5de9
+relatedQueries,matcha,US,,,,43,,top,9,matcha green,43,https://trends.google.com/trends/explore?q=matcha+green&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,bc6e7a918b4e0f30
+relatedQueries,matcha,US,,,,42,,top,10,how to make matcha,42,https://trends.google.com/trends/explore?q=how+to+make+matcha&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,9d37131c6587d128
+relatedQueries,matcha,US,,,,34,,top,11,matcha drink,34,https://trends.google.com/trends/explore?q=matcha+drink&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,118d282a825316c8
+relatedQueries,matcha,US,,,,27,,top,12,matcha green tea,27,https://trends.google.com/trends/explore?q=matcha+green+tea&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,742de0fb62b854ac
+relatedQueries,matcha,US,,,,25,,top,13,caffeine in matcha,25,https://trends.google.com/trends/explore?q=caffeine+in+matcha&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,c6cfa61fee6beec8
+relatedQueries,matcha,US,,,,24,,top,14,banana matcha,24,https://trends.google.com/trends/explore?q=banana+matcha&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,2c8af459f3a3c2c1
+relatedQueries,matcha,US,,,,24,,top,15,does matcha have caffeine,24,https://trends.google.com/trends/explore?q=does+matcha+have+caffeine&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,405491be5b8b4103
+relatedQueries,matcha,US,,,,23,,top,16,strawberry matcha,23,https://trends.google.com/trends/explore?q=strawberry+matcha&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,412f91ac3623478e
+relatedQueries,matcha,US,,,,22,,top,17,matcha recipe,22,https://trends.google.com/trends/explore?q=matcha+recipe&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,d1258f88a9355389
+relatedQueries,matcha,US,,,,17,,top,18,what is a matcha,17,https://trends.google.com/trends/explore?q=what+is+a+matcha&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,9e3cca69a86339c9
+relatedQueries,matcha,US,,,,17,,top,19,matcha set,17,https://trends.google.com/trends/explore?q=matcha+set&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,2fd2c8fcd32007d4
+relatedQueries,matcha,US,,,,16,,top,20,matcha ice cream,16,https://trends.google.com/trends/explore?q=matcha+ice+cream&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,3f0a0ebd1d7440c3
+relatedQueries,matcha,US,,,,16,,top,21,matcha benefits,16,https://trends.google.com/trends/explore?q=matcha+benefits&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,5596ad532ef45322
+relatedQueries,matcha,US,,,,14,,top,22,ceremonial matcha,14,https://trends.google.com/trends/explore?q=ceremonial+matcha&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,e1b910f6cec672c4
+relatedQueries,matcha,US,,,,13,,top,23,how to make matcha latte,13,https://trends.google.com/trends/explore?q=how+to+make+matcha+latte&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,e876796f6484b442
+relatedQueries,matcha,US,,,,13,,top,24,is matcha coffee,13,https://trends.google.com/trends/explore?q=is+matcha+coffee&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,51077bb1f609829b
+relatedQueries,matcha,US,,,,8050,,rising,0,casio cafe kitsune matcha watch,Breakout,https://trends.google.com/trends/explore?q=casio+cafe+kitsune+matcha+watch&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,bfa8fe3a49f0f1c3
+relatedQueries,matcha,US,,,,5350,,rising,1,rok matcha nyc,Breakout,https://trends.google.com/trends/explore?q=rok+matcha+nyc&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,9de3121483bb34fc
+relatedQueries,matcha,US,,,,4400,,rising,2,matcha advent calendar,"+4,400%",https://trends.google.com/trends/explore?q=matcha+advent+calendar&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,247586b3289544f2
+relatedQueries,matcha,US,,,,750,,rising,3,pumpkin matcha,+750%,https://trends.google.com/trends/explore?q=pumpkin+matcha&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,83cd6dff85578786
+relatedQueries,matcha,US,,,,450,,rising,4,casio matcha watch,+450%,https://trends.google.com/trends/explore?q=casio+matcha+watch&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,5d484f76f4706d95
+relatedQueries,matcha,US,,,,250,,rising,5,matcha sambas,+250%,https://trends.google.com/trends/explore?q=matcha+sambas&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,60c80f9213967f21
+relatedQueries,matcha,US,,,,180,,rising,6,iced banana bread matcha,+180%,https://trends.google.com/trends/explore?q=iced+banana+bread+matcha&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,75deeea11830d23c
+relatedQueries,matcha,US,,,,140,,rising,7,banana bread matcha starbucks,+140%,https://trends.google.com/trends/explore?q=banana+bread+matcha+starbucks&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,69c00861c76a45cf
+relatedQueries,matcha,US,,,,110,,rising,8,banana bread matcha,+110%,https://trends.google.com/trends/explore?q=banana+bread+matcha&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,c21b02b89d6f7c7a
+relatedQueries,matcha,US,,,,110,,rising,9,adidas samba matcha,+110%,https://trends.google.com/trends/explore?q=adidas+samba+matcha&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,7949bd824dcf0d25
+relatedQueries,matcha,US,,,,100,,rising,10,yoshi matcha liqueur,+100%,https://trends.google.com/trends/explore?q=yoshi+matcha+liqueur&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,bb74918ef78538f6
+relatedQueries,matcha,US,,,,70,,rising,11,buji matcha,+70%,https://trends.google.com/trends/explore?q=buji+matcha&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,7637b1f65bf7f4e4
+relatedQueries,matcha,US,,,,70,,rising,12,matsu matcha,+70%,https://trends.google.com/trends/explore?q=matsu+matcha&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,0504740bd029589e
+relatedQueries,matcha,US,,,,60,,rising,13,banana matcha,+60%,https://trends.google.com/trends/explore?q=banana+matcha&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,030d7b820d40ddb3
+relatedQueries,matcha,US,,,,50,,rising,14,rockys matcha,+50%,https://trends.google.com/trends/explore?q=rockys+matcha&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,af4167226c5111ba
+relatedQueries,matcha,US,,,,50,,rising,15,yamamasa koyamaen matcha,+50%,https://trends.google.com/trends/explore?q=yamamasa+koyamaen+matcha&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,a1afab2ed533df68
+relatedQueries,matcha,US,,,,50,,rising,16,matcha mama,+50%,https://trends.google.com/trends/explore?q=matcha+mama&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,2cb18a8f21e58558
+relatedQueries,matcha,US,,,,40,,rising,17,salsa matcha,+40%,https://trends.google.com/trends/explore?q=salsa+matcha&date=today+3-m&geo=US,2026-11-24T00:32:06.045Z,c3a5dfc17e14409c
+interestOverTime,pickleball,US,today 3-m,2026-08-24T00:00:00.000Z,"Aug 24, 2026",72,false,,,,,,2026-11-24T00:32:11.176Z,1c9066fddf4fa70a
+interestOverTime,pickleball,US,today 3-m,2026-08-25T00:00:00.000Z,"Aug 25, 2026",71,false,,,,,,2026-11-24T00:32:11.176Z,ca02601c3ad02af6
+interestOverTime,pickleball,US,today 3-m,2026-08-26T00:00:00.000Z,"Aug 26, 2026",69,false,,,,,,2026-11-24T00:32:11.176Z,2881e24287b6409a
+interestOverTime,pickleball,US,today 3-m,2026-08-27T00:00:00.000Z,"Aug 27, 2026",69,false,,,,,,2026-11-24T00:32:11.176Z,d4593e3ccde209a1
+interestOverTime,pickleball,US,today 3-m,2026-08-28T00:00:00.000Z,"Aug 28, 2026",72,false,,,,,,2026-11-24T00:32:11.176Z,5c5b0a19797c208c
+interestOverTime,pickleball,US,today 3-m,2026-08-29T00:00:00.000Z,"Aug 29, 2026",84,false,,,,,,2026-11-24T00:32:11.176Z,09fc47f271c490c7
+interestOverTime,pickleball,US,today 3-m,2026-08-30T00:00:00.000Z,"Aug 30, 2026",100,false,,,,,,2026-11-24T00:32:11.176Z,e6668bd305bcb30c
+interestOverTime,pickleball,US,today 3-m,2026-08-31T00:00:00.000Z,"Aug 31, 2026",73,false,,,,,,2026-11-24T00:32:11.176Z,f94c3117b7def11c
+interestOverTime,pickleball,US,today 3-m,2026-09-01T00:00:00.000Z,"Sep 1, 2026",69,false,,,,,,2026-11-24T00:32:11.176Z,4e8786b64e04a196
+interestOverTime,pickleball,US,today 3-m,2026-09-02T00:00:00.000Z,"Sep 2, 2026",85,false,,,,,,2026-11-24T00:32:11.176Z,18167716bbc57d23
+interestOverTime,pickleball,US,today 3-m,2026-09-03T00:00:00.000Z,"Sep 3, 2026",70,false,,,,,,2026-11-24T00:32:11.176Z,c5861cb868d03bd7
+interestOverTime,pickleball,US,today 3-m,2026-09-04T00:00:00.000Z,"Sep 4, 2026",92,false,,,,,,2026-11-24T00:32:11.176Z,8aaaae0459d3e05c
+interestOverTime,pickleball,US,today 3-m,2026-09-05T00:00:00.000Z,"Sep 5, 2026",83,false,,,,,,2026-11-24T00:32:11.176Z,c3f990d18134ad2c
+interestOverTime,pickleball,US,today 3-m,2026-09-06T00:00:00.000Z,"Sep 6, 2026",89,false,,,,,,2026-11-24T00:32:11.176Z,fffdec495a930d9a
+interestOverTime,pickleball,US,today 3-m,2026-09-07T00:00:00.000Z,"Sep 7, 2026",88,false,,,,,,2026-11-24T00:32:11.176Z,4563a32b8dff2100
+interestOverTime,pickleball,US,today 3-m,2026-09-08T00:00:00.000Z,"Sep 8, 2026",67,false,,,,,,2026-11-24T00:32:11.176Z,8ec11dc76579e29a
+interestOverTime,pickleball,US,today 3-m,2026-09-09T00:00:00.000Z,"Sep 9, 2026",64,false,,,,,,2026-11-24T00:32:11.176Z,61cbd3b0b3f04277
+interestOverTime,pickleball,US,today 3-m,2026-09-10T00:00:00.000Z,"Sep 10, 2026",63,false,,,,,,2026-11-24T00:32:11.176Z,9c8148fae5558386
+interestOverTime,pickleball,US,today 3-m,2026-09-11T00:00:00.000Z,"Sep 11, 2026",63,false,,,,,,2026-11-24T00:32:11.176Z,720b2eb8d29eabde
+interestOverTime,pickleball,US,today 3-m,2026-09-12T00:00:00.000Z,"Sep 12, 2026",74,false,,,,,,2026-11-24T00:32:11.176Z,2e735d47a51fbb09
+interestOverTime,pickleball,US,today 3-m,2026-09-13T00:00:00.000Z,"Sep 13, 2026",69,false,,,,,,2026-11-24T00:32:11.176Z,b5819386d6c29237
+interestOverTime,pickleball,US,today 3-m,2026-09-14T00:00:00.000Z,"Sep 14, 2026",63,false,,,,,,2026-11-24T00:32:11.176Z,266b21b28f1325e3
+interestOverTime,pickleball,US,today 3-m,2026-09-15T00:00:00.000Z,"Sep 15, 2026",59,false,,,,,,2026-11-24T00:32:11.176Z,76c33655bd52ba64
+interestOverTime,pickleball,US,today 3-m,2026-09-16T00:00:00.000Z,"Sep 16, 2026",65,false,,,,,,2026-11-24T00:32:11.176Z,2d43e208b6fad7b2
+interestOverTime,pickleball,US,today 3-m,2026-09-17T00:00:00.000Z,"Sep 17, 2026",57,false,,,,,,2026-11-24T00:32:11.176Z,dc59770efc6b7552
+interestOverTime,pickleball,US,today 3-m,2026-09-18T00:00:00.000Z,"Sep 18, 2026",62,false,,,,,,2026-11-24T00:32:11.176Z,7dc5d33a8cd7392a
+interestOverTime,pickleball,US,today 3-m,2026-09-19T00:00:00.000Z,"Sep 19, 2026",68,false,,,,,,2026-11-24T00:32:11.176Z,74e422ba1831325a
+interestOverTime,pickleball,US,today 3-m,2026-09-20T00:00:00.000Z,"Sep 20, 2026",65,false,,,,,,2026-11-24T00:32:11.176Z,b513d97f0834d124
+interestOverTime,pickleball,US,today 3-m,2026-09-21T00:00:00.000Z,"Sep 21, 2026",61,false,,,,,,2026-11-24T00:32:11.176Z,369513482dc06692
+interestOverTime,pickleball,US,today 3-m,2026-09-22T00:00:00.000Z,"Sep 22, 2026",66,false,,,,,,2026-11-24T00:32:11.176Z,e8e8f5760f06a0ef
+interestOverTime,pickleball,US,today 3-m,2026-09-23T00:00:00.000Z,"Sep 23, 2026",59,false,,,,,,2026-11-24T00:32:11.176Z,8dae4fdf801175c8
+interestOverTime,pickleball,US,today 3-m,2026-09-24T00:00:00.000Z,"Sep 24, 2026",60,false,,,,,,2026-11-24T00:32:11.176Z,5bfffe0887b69aee
+interestOverTime,pickleball,US,today 3-m,2026-09-25T00:00:00.000Z,"Sep 25, 2026",61,false,,,,,,2026-11-24T00:32:11.176Z,3286df31d12d3195
+interestOverTime,pickleball,US,today 3-m,2026-09-26T00:00:00.000Z,"Sep 26, 2026",68,false,,,,,,2026-11-24T00:32:11.176Z,2525577eb7b25d4e
+interestOverTime,pickleball,US,today 3-m,2026-09-27T00:00:00.000Z,"Sep 27, 2026",64,false,,,,,,2026-11-24T00:32:11.176Z,cde33621bba4567a
+interestOverTime,pickleball,US,today 3-m,2026-09-28T00:00:00.000Z,"Sep 28, 2026",64,false,,,,,,2026-11-24T00:32:11.176Z,b4cd04988492c095
+interestOverTime,pickleball,US,today 3-m,2026-09-29T00:00:00.000Z,"Sep 29, 2026",60,false,,,,,,2026-11-24T00:32:11.176Z,a1b92dc20aa67aa8
+interestOverTime,pickleball,US,today 3-m,2026-09-30T00:00:00.000Z,"Sep 30, 2026",62,false,,,,,,2026-11-24T00:32:11.176Z,dc9a439bba9ec0be
+interestOverTime,pickleball,US,today 3-m,2026-10-01T00:00:00.000Z,"Oct 1, 2026",63,false,,,,,,2026-11-24T00:32:11.176Z,3bb4da4e41da9d71
+interestOverTime,pickleball,US,today 3-m,2026-10-02T00:00:00.000Z,"Oct 2, 2026",64,false,,,,,,2026-11-24T00:32:11.176Z,8052595b66a55bc9
+interestOverTime,pickleball,US,today 3-m,2026-10-03T00:00:00.000Z,"Oct 3, 2026",69,false,,,,,,2026-11-24T00:32:11.176Z,633f3c1412a2a67f
+interestOverTime,pickleball,US,today 3-m,2026-10-04T00:00:00.000Z,"Oct 4, 2026",66,false,,,,,,2026-11-24T00:32:11.176Z,76376da7bb9c5334
+interestOverTime,pickleball,US,today 3-m,2026-10-05T00:00:00.000Z,"Oct 5, 2026",60,false,,,,,,2026-11-24T00:32:11.176Z,8bb4154fb4ea3fda
+interestOverTime,pickleball,US,today 3-m,2026-10-06T00:00:00.000Z,"Oct 6, 2026",63,false,,,,,,2026-11-24T00:32:11.176Z,0582e1bcf26e1386
+interestOverTime,pickleball,US,today 3-m,2026-10-07T00:00:00.000Z,"Oct 7, 2026",67,false,,,,,,2026-11-24T00:32:11.176Z,f1709c8642f7fcc8
+interestOverTime,pickleball,US,today 3-m,2026-10-08T00:00:00.000Z,"Oct 8, 2026",66,false,,,,,,2026-11-24T00:32:11.176Z,74b7023f9846677b
+interestOverTime,pickleball,US,today 3-m,2026-10-09T00:00:00.000Z,"Oct 9, 2026",68,false,,,,,,2026-11-24T00:32:11.176Z,7707872f14545334
+interestOverTime,pickleball,US,today 3-m,2026-10-10T00:00:00.000Z,"Oct 10, 2026",71,false,,,,,,2026-11-24T00:32:11.176Z,55a03320267cd997
+interestOverTime,pickleball,US,today 3-m,2026-10-11T00:00:00.000Z,"Oct 11, 2026",66,false,,,,,,2026-11-24T00:32:11.176Z,1a27b9041e6e31eb
+interestOverTime,pickleball,US,today 3-m,2026-10-12T00:00:00.000Z,"Oct 12, 2026",65,false,,,,,,2026-11-24T00:32:11.176Z,e9bb031a88c6629d
+interestOverTime,pickleball,US,today 3-m,2026-10-13T00:00:00.000Z,"Oct 13, 2026",68,false,,,,,,2026-11-24T00:32:11.176Z,1115389ded8d653f
+interestOverTime,pickleball,US,today 3-m,2026-10-14T00:00:00.000Z,"Oct 14, 2026",63,false,,,,,,2026-11-24T00:32:11.176Z,0dd020c7c5060e2e
+interestOverTime,pickleball,US,today 3-m,2026-10-15T00:00:00.000Z,"Oct 15, 2026",64,false,,,,,,2026-11-24T00:32:11.176Z,6757537f8235dfa2
+interestOverTime,pickleball,US,today 3-m,2026-10-16T00:00:00.000Z,"Oct 16, 2026",62,false,,,,,,2026-11-24T00:32:11.176Z,adcc67daf02326e2
+interestOverTime,pickleball,US,today 3-m,2026-10-17T00:00:00.000Z,"Oct 17, 2026",63,false,,,,,,2026-11-24T00:32:11.176Z,e364a669ba24a8b4
+interestOverTime,pickleball,US,today 3-m,2026-10-18T00:00:00.000Z,"Oct 18, 2026",63,false,,,,,,2026-11-24T00:32:11.176Z,3e8fea773925879a
+interestOverTime,pickleball,US,today 3-m,2026-10-19T00:00:00.000Z,"Oct 19, 2026",56,false,,,,,,2026-11-24T00:32:11.176Z,e937fa9831edcec5
+interestOverTime,pickleball,US,today 3-m,2026-10-20T00:00:00.000Z,"Oct 20, 2026",54,false,,,,,,2026-11-24T00:32:11.176Z,fedf9ec6212791b9
+interestOverTime,pickleball,US,today 3-m,2026-10-21T00:00:00.000Z,"Oct 21, 2026",55,false,,,,,,2026-11-24T00:32:11.176Z,43cc71e949b9ef63
+interestOverTime,pickleball,US,today 3-m,2026-10-22T00:00:00.000Z,"Oct 22, 2026",57,false,,,,,,2026-11-24T00:32:11.176Z,f9c3da5f147be85c
+interestOverTime,pickleball,US,today 3-m,2026-10-23T00:00:00.000Z,"Oct 23, 2026",56,false,,,,,,2026-11-24T00:32:11.176Z,79e348ab8bd02764
+interestOverTime,pickleball,US,today 3-m,2026-10-24T00:00:00.000Z,"Oct 24, 2026",64,false,,,,,,2026-11-24T00:32:11.176Z,493afa1cf06db847
+interestOverTime,pickleball,US,today 3-m,2026-10-25T00:00:00.000Z,"Oct 25, 2026",56,false,,,,,,2026-11-24T00:32:11.176Z,cecdb9e09f28c76c
+interestOverTime,pickleball,US,today 3-m,2026-10-26T00:00:00.000Z,"Oct 26, 2026",56,false,,,,,,2026-11-24T00:32:11.176Z,25f1b31e7353726f
+interestOverTime,pickleball,US,today 3-m,2026-10-27T00:00:00.000Z,"Oct 27, 2026",55,false,,,,,,2026-11-24T00:32:11.176Z,5bb85503556e864a
+interestOverTime,pickleball,US,today 3-m,2026-10-28T00:00:00.000Z,"Oct 28, 2026",54,false,,,,,,2026-11-24T00:32:11.176Z,b655c1882e0c4829
+interestOverTime,pickleball,US,today 3-m,2026-10-29T00:00:00.000Z,"Oct 29, 2026",52,false,,,,,,2026-11-24T00:32:11.176Z,8160b398926d59ec
+interestOverTime,pickleball,US,today 3-m,2026-10-30T00:00:00.000Z,"Oct 30, 2026",56,false,,,,,,2026-11-24T00:32:11.176Z,98a76fc96f69878a
+interestOverTime,pickleball,US,today 3-m,2026-10-31T00:00:00.000Z,"Oct 31, 2026",59,false,,,,,,2026-11-24T00:32:11.176Z,8790e8f282632f8b
+interestOverTime,pickleball,US,today 3-m,2026-11-01T00:00:00.000Z,"Nov 1, 2026",60,false,,,,,,2026-11-24T00:32:11.176Z,ef945920cf3f805b
+interestOverTime,pickleball,US,today 3-m,2026-11-02T00:00:00.000Z,"Nov 2, 2026",57,false,,,,,,2026-11-24T00:32:11.176Z,947c66c304af1ebc
+interestOverTime,pickleball,US,today 3-m,2026-11-03T00:00:00.000Z,"Nov 3, 2026",53,false,,,,,,2026-11-24T00:32:11.176Z,49c7ddb0afaf8c09
+interestOverTime,pickleball,US,today 3-m,2026-11-04T00:00:00.000Z,"Nov 4, 2026",48,false,,,,,,2026-11-24T00:32:11.176Z,e78892d120907bfd
+interestOverTime,pickleball,US,today 3-m,2026-11-05T00:00:00.000Z,"Nov 5, 2026",58,false,,,,,,2026-11-24T00:32:11.176Z,f5d5e7362ac6659c
+interestOverTime,pickleball,US,today 3-m,2026-11-06T00:00:00.000Z,"Nov 6, 2026",59,false,,,,,,2026-11-24T00:32:11.176Z,6b32fa2886ea5292
+interestOverTime,pickleball,US,today 3-m,2026-11-07T00:00:00.000Z,"Nov 7, 2026",70,false,,,,,,2026-11-24T00:32:11.176Z,f2b71f3fb8615a45
+interestOverTime,pickleball,US,today 3-m,2026-11-08T00:00:00.000Z,"Nov 8, 2026",68,false,,,,,,2026-11-24T00:32:11.176Z,b8b6e71572767071
+interestOverTime,pickleball,US,today 3-m,2026-11-09T00:00:00.000Z,"Nov 9, 2026",59,false,,,,,,2026-11-24T00:32:11.176Z,c016c3f1f592dc9d
+interestOverTime,pickleball,US,today 3-m,2026-11-10T00:00:00.000Z,"Nov 10, 2026",59,false,,,,,,2026-11-24T00:32:11.176Z,8e3980f0f7b31c8b
+interestOverTime,pickleball,US,today 3-m,2026-11-11T00:00:00.000Z,"Nov 11, 2026",61,false,,,,,,2026-11-24T00:32:11.176Z,ac9a402fd31451c7
+interestOverTime,pickleball,US,today 3-m,2026-11-12T00:00:00.000Z,"Nov 12, 2026",55,false,,,,,,2026-11-24T00:32:11.176Z,ea252b840120735c
+interestOverTime,pickleball,US,today 3-m,2026-11-13T00:00:00.000Z,"Nov 13, 2026",56,false,,,,,,2026-11-24T00:32:11.176Z,d7d59e4466bd8abd
+interestOverTime,pickleball,US,today 3-m,2026-11-14T00:00:00.000Z,"Nov 14, 2026",62,false,,,,,,2026-11-24T00:32:11.176Z,9c392d623bc48399
+interestOverTime,pickleball,US,today 3-m,2026-11-15T00:00:00.000Z,"Nov 15, 2026",61,false,,,,,,2026-11-24T00:32:11.176Z,f53515422db90483
+interestOverTime,pickleball,US,today 3-m,2026-11-16T00:00:00.000Z,"Nov 16, 2026",57,false,,,,,,2026-11-24T00:32:11.176Z,d92d2fb08a7f7d0e
+interestOverTime,pickleball,US,today 3-m,2026-11-17T00:00:00.000Z,"Nov 17, 2026",57,false,,,,,,2026-11-24T00:32:11.176Z,50522049f1e6b7cd
+interestOverTime,pickleball,US,today 3-m,2026-11-18T00:00:00.000Z,"Nov 18, 2026",57,false,,,,,,2026-11-24T00:32:11.176Z,33fce6898c71b34a
+interestOverTime,pickleball,US,today 3-m,2026-11-19T00:00:00.000Z,"Nov 19, 2026",55,false,,,,,,2026-11-24T00:32:11.176Z,c98e49c092ca2218
+interestOverTime,pickleball,US,today 3-m,2026-11-20T00:00:00.000Z,"Nov 20, 2026",57,false,,,,,,2026-11-24T00:32:11.176Z,058df3a30bdf8308
+interestOverTime,pickleball,US,today 3-m,2026-11-21T00:00:00.000Z,"Nov 21, 2026",64,false,,,,,,2026-11-24T00:32:11.176Z,e2ef42bc53dddff5
+interestOverTime,pickleball,US,today 3-m,2026-11-22T00:00:00.000Z,"Nov 22, 2026",66,false,,,,,,2026-11-24T00:32:11.176Z,238aab3034e5b8ae
+interestOverTime,pickleball,US,today 3-m,2026-11-23T00:00:00.000Z,"Nov 23, 2026",60,false,,,,,,2026-11-24T00:32:11.176Z,23a220e63e146baf
+interestOverTime,pickleball,US,today 3-m,2026-11-24T00:00:00.000Z,"Nov 24, 2026",57,true,,,,,,2026-11-24T00:32:11.176Z,5789cf7e27ab9d6b
+relatedQueries,pickleball,US,,,,100,,top,0,pickleball paddle,100,https://trends.google.com/trends/explore?q=pickleball+paddle&date=today+3-m&geo=US,2026-11-24T00:32:11.176Z,98882240a8edb9f2
+relatedQueries,pickleball,US,,,,72,,top,1,pickleball courts,72,https://trends.google.com/trends/explore?q=pickleball+courts&date=today+3-m&geo=US,2026-11-24T00:32:11.176Z,243a06b359fff56c
+relatedQueries,pickleball,US,,,,49,,top,2,pickleball near me,49,https://trends.google.com/trends/explore?q=pickleball+near+me&date=today+3-m&geo=US,2026-11-24T00:32:11.176Z,fb4399ba39f9b888
+relatedQueries,pickleball,US,,,,48,,top,3,pickleball court,48,https://trends.google.com/trends/explore?q=pickleball+court&date=today+3-m&geo=US,2026-11-24T00:32:11.176Z,39d21bc4213bf0b2
+relatedQueries,pickleball,US,,,,41,,top,4,pickleball paddles,41,https://trends.google.com/trends/explore?q=pickleball+paddles&date=today+3-m&geo=US,2026-11-24T00:32:11.176Z,5dbaec6c30e8b222
+relatedQueries,pickleball,US,,,,36,,top,5,pickleball shoes,36,https://trends.google.com/trends/explore?q=pickleball+shoes&date=today+3-m&geo=US,2026-11-24T00:32:11.176Z,341fb16682051ae4
+relatedQueries,pickleball,US,,,,35,,top,6,what is pickleball,35,https://trends.google.com/trends/explore?q=what+is+pickleball&date=today+3-m&geo=US,2026-11-24T00:32:11.176Z,656c47d231b7f34d
+relatedQueries,pickleball,US,,,,28,,top,7,pickleball ball,28,https://trends.google.com/trends/explore?q=pickleball+ball&date=today+3-m&geo=US,2026-11-24T00:32:11.176Z,258858fcd3663616
+relatedQueries,pickleball,US,,,,28,,top,8,indoor pickleball,28,https://trends.google.com/trends/explore?q=indoor+pickleball&date=today+3-m&geo=US,2026-11-24T00:32:11.176Z,36f0279423c1c759
+relatedQueries,pickleball,US,,,,20,,top,9,pickle,20,https://trends.google.com/trends/explore?q=pickle&date=today+3-m&geo=US,2026-11-24T00:32:11.176Z,29d634bbeca1bfe9
+relatedQueries,pickleball,US,,,,18,,top,10,pickleball courts near me,18,https://trends.google.com/trends/explore?q=pickleball+courts+near+me&date=today+3-m&geo=US,2026-11-24T00:32:11.176Z,d85456aa6271e62c
+relatedQueries,pickleball,US,,,,14,,top,11,pickleball rules,14,https://trends.google.com/trends/explore?q=pickleball+rules&date=today+3-m&geo=US,2026-11-24T00:32:11.176Z,2b53063f42585143
+relatedQueries,pickleball,US,,,,13,,top,12,joola pickleball,13,https://trends.google.com/trends/explore?q=joola+pickleball&date=today+3-m&geo=US,2026-11-24T00:32:11.176Z,8e185ccdce0702db
+relatedQueries,pickleball,US,,,,13,,top,13,joola,13,https://trends.google.com/trends/explore?q=joola&date=today+3-m&geo=US,2026-11-24T00:32:11.176Z,e3e5b4453c24793f
+relatedQueries,pickleball,US,,,,11,,top,14,pickleball league,11,https://trends.google.com/trends/explore?q=pickleball+league&date=today+3-m&geo=US,2026-11-24T00:32:11.176Z,f5fe4a8ab39ff609
+relatedQueries,pickleball,US,,,,11,,top,15,selkirk,11,https://trends.google.com/trends/explore?q=selkirk&date=today+3-m&geo=US,2026-11-24T00:32:11.176Z,211b1687fe76f938
+relatedQueries,pickleball,US,,,,11,,top,16,selkirk pickleball,11,https://trends.google.com/trends/explore?q=selkirk+pickleball&date=today+3-m&geo=US,2026-11-24T00:32:11.176Z,d1feaba06b63cfa1
+relatedQueries,pickleball,US,,,,11,,top,17,pickleball set,11,https://trends.google.com/trends/explore?q=pickleball+set&date=today+3-m&geo=US,2026-11-24T00:32:11.176Z,648d8548e366cbce
+relatedQueries,pickleball,US,,,,11,,top,18,pickleball net,11,https://trends.google.com/trends/explore?q=pickleball+net&date=today+3-m&geo=US,2026-11-24T00:32:11.176Z,352d0e7105ae2719
+relatedQueries,pickleball,US,,,,9,,top,19,pickle ball,9,https://trends.google.com/trends/explore?q=pickle+ball&date=today+3-m&geo=US,2026-11-24T00:32:11.176Z,61833ff7dd464cd4
+relatedQueries,pickleball,US,,,,9,,top,20,pickleball tournaments,9,https://trends.google.com/trends/explore?q=pickleball+tournaments&date=today+3-m&geo=US,2026-11-24T00:32:11.176Z,0599e7d8c65412a1
+relatedQueries,pickleball,US,,,,9,,top,21,pickleball bag,9,https://trends.google.com/trends/explore?q=pickleball+bag&date=today+3-m&geo=US,2026-11-24T00:32:11.176Z,78483eec188ef0d4
+relatedQueries,pickleball,US,,,,9,,top,22,best pickleball paddle,9,https://trends.google.com/trends/explore?q=best+pickleball+paddle&date=today+3-m&geo=US,2026-11-24T00:32:11.176Z,c16baf56a9ab0050
+relatedQueries,pickleball,US,,,,8,,top,23,joola pickleball paddle,8,https://trends.google.com/trends/explore?q=joola+pickleball+paddle&date=today+3-m&geo=US,2026-11-24T00:32:11.176Z,bdbbb57266c07641
+relatedQueries,pickleball,US,,,,8,,top,24,best pickleball paddles,8,https://trends.google.com/trends/explore?q=best+pickleball+paddles&date=today+3-m&geo=US,2026-11-24T00:32:11.176Z,80083bfc3b7d75fa
+relatedQueries,pickleball,US,,,,13700,,rising,0,maria ford pickleball,Breakout,https://trends.google.com/trends/explore?q=maria+ford+pickleball&date=today+3-m&geo=US,2026-11-24T00:32:11.176Z,5d3d0dc3f8fcbaa5
+relatedQueries,pickleball,US,,,,1400,,rising,1,veolia pickleball national championships,"+1,400%",https://trends.google.com/trends/explore?q=veolia+pickleball+national+championships&date=today+3-m&geo=US,2026-11-24T00:32:11.176Z,107e4d37dd724dc9
+relatedQueries,pickleball,US,,,,350,,rising,2,cpl pickleball,+350%,https://trends.google.com/trends/explore?q=cpl+pickleball&date=today+3-m&geo=US,2026-11-24T00:32:11.176Z,d2e7f757f2a1f9c8
+relatedQueries,pickleball,US,,,,170,,rising,3,ppa pickleball,+170%,https://trends.google.com/trends/explore?q=ppa+pickleball&date=today+3-m&geo=US,2026-11-24T00:32:11.176Z,bc84421591a7ad4e
+relatedQueries,pickleball,US,,,,150,,rising,4,a pickleball christmas,+150%,https://trends.google.com/trends/explore?q=a+pickleball+christmas&date=today+3-m&geo=US,2026-11-24T00:32:11.176Z,78c5e643d6110e7f
+relatedQueries,pickleball,US,,,,90,,rising,5,pilla pickleball glasses,+90%,https://trends.google.com/trends/explore?q=pilla+pickleball+glasses&date=today+3-m&geo=US,2026-11-24T00:32:11.176Z,29e68b6b5687f925
+relatedQueries,pickleball,US,,,,60,,rising,6,when was pickleball invented,+60%,https://trends.google.com/trends/explore?q=when+was+pickleball+invented&date=today+3-m&geo=US,2026-11-24T00:32:11.176Z,cad7c194e65ed002
+relatedQueries,pickleball,US,,,,60,,rising,7,honcho pickleball,+60%,https://trends.google.com/trends/explore?q=honcho+pickleball&date=today+3-m&geo=US,2026-11-24T00:32:11.176Z,f30e0cda6f6c8b44
+relatedQueries,pickleball,US,,,,50,,rising,8,rpm pickleball,+50%,https://trends.google.com/trends/explore?q=rpm+pickleball&date=today+3-m&geo=US,2026-11-24T00:32:11.176Z,3237d5ce6a523b7e
+relatedQueries,pickleball,US,,,,50,,rising,9,pickleball den,+50%,https://trends.google.com/trends/explore?q=pickleball+den&date=today+3-m&geo=US,2026-11-24T00:32:11.176Z,5e53951242ab49b9
+relatedQueries,pickleball,US,,,,40,,rising,10,rpm pickleball paddle,+40%,https://trends.google.com/trends/explore?q=rpm+pickleball+paddle&date=today+3-m&geo=US,2026-11-24T00:32:11.176Z,7595d925dc97c070
+relatedQueries,pickleball,US,,,,40,,rising,11,pickleball leagues near me,+40%,https://trends.google.com/trends/explore?q=pickleball+leagues+near+me&date=today+3-m&geo=US,2026-11-24T00:32:11.176Z,6f4bff0baaf14a4b
